@@ -1,0 +1,12 @@
+{
+    "duration": 2.73, 
+    "timeline": [
+        {
+            "emotion": "happy", 
+            "text": "적 차량이 조용해졌군요. 다음 목표를 준비하죠!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_02"
+}

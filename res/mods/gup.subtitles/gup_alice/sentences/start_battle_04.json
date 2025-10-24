@@ -1,0 +1,12 @@
+{
+    "duration": 3.64, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "시마다류의 이름으로, 당신을 꺾을 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_04"
+}

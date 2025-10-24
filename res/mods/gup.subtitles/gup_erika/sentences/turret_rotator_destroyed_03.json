@@ -1,0 +1,12 @@
+{
+    "duration": 3.83, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "뭐... 포탑이 안 돌아가!? 말도 안 돼!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.38, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "목표가 어디로 갔죠?", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_04"
+}

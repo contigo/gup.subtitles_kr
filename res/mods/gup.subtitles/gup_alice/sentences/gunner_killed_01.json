@@ -1,0 +1,12 @@
+{
+    "duration": 2.97, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "우리 포수가 쓰러졌어요. 명중률이 떨어질 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.48, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "불을 붙였어! 굿 잡!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_11"
+}

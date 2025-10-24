@@ -1,0 +1,12 @@
+{
+    "duration": 3.81, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이제 궤도가 정상 작동합니다. 안전한 곳으로 이동하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_02"
+}

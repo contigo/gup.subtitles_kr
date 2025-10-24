@@ -1,0 +1,12 @@
+{
+    "duration": 3.1, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "아군이었어요. 조준할 땐 좀 더 주의를 기울여야 한답니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_05"
+}

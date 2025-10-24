@@ -1,0 +1,12 @@
+{
+    "duration": 2.25, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "당황하지 마세요. 적어도 목표를 맞췄잖아요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_11"
+}

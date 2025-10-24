@@ -1,0 +1,12 @@
+{
+    "duration": 2.1, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "걱정 마! 조준은 정확했으니까!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_06"
+}

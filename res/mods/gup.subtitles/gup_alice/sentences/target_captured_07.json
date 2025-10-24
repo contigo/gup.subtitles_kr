@@ -1,0 +1,12 @@
+{
+    "duration": 0.77, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "놓치지 않을 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_07"
+}

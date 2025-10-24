@@ -1,0 +1,18 @@
+{
+    "duration": 4.45, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "적 전차 격파!", 
+                        "character": "assam", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "승리는 운명의 전환에 달려있답니다.", 
+            "character": "darjeeling", 
+            "time": 2.11
+        }
+    ], 
+    "audio": "enemy_killed_by_player_06"
+}

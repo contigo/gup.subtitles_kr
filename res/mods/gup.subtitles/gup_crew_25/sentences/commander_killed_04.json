@@ -1,0 +1,12 @@
+{
+    "duration": 1.97, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이 적은 생각보다 강하군요!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_04"
+}

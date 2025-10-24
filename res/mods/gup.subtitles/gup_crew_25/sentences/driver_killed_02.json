@@ -1,0 +1,12 @@
+{
+    "duration": 3.61, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "조종수석이 피격됐습니다. 기동성이 저하됩니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_02"
+}

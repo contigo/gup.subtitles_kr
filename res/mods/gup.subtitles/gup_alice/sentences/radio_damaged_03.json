@@ -1,0 +1,12 @@
+{
+    "duration": 3.68, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "무전기를 손상시켰어요. 적은 우리를 분열시키려 하고 있어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_03"
+}

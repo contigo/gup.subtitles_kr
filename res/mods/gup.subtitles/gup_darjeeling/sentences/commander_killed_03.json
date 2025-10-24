@@ -1,0 +1,12 @@
+{
+    "duration": 1.91, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이번 건 좀 아팠다고 인정해야겠네요!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_03"
+}

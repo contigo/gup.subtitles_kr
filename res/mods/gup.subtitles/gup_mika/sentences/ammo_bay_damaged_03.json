@@ -1,0 +1,12 @@
+{
+    "duration": 4.37, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "탄약고를 노리는군. 손상을 입은 것 같아.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_03"
+}

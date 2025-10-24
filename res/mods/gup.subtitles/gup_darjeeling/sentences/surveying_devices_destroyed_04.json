@@ -1,0 +1,12 @@
+{
+    "duration": 4.39, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "관측 장비가 파괴됐어요. 이제 가까운 적밖에 볼 수 없겠네요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_04"
+}

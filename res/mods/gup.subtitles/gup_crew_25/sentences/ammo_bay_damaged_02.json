@@ -1,0 +1,12 @@
+{
+    "duration": 3.22, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "이크!... 탄약고가 피격됐어요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_02"
+}

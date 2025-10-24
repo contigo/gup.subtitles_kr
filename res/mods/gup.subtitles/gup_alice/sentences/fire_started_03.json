@@ -1,0 +1,12 @@
+{
+    "duration": 2.36, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "불이 났어요. 빨리 꺼주세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_03"
+}

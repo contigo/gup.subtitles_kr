@@ -1,0 +1,12 @@
+{
+    "duration": 4.06, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 구동 장치 수리 완료. 회전 기능이 복구되었습니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_01"
+}

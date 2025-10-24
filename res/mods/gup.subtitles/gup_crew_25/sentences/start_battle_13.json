@@ -1,0 +1,12 @@
+{
+    "duration": 7.32, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "모두 전투 준비됐나요? 전투 내내 우아함을 유지하는 것을 잊지 마세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_13"
+}

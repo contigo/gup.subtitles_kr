@@ -1,0 +1,12 @@
+{
+    "duration": 3.83, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도가 손상된 것 같군... 모두들, 흔들릴 거야...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_01"
+}

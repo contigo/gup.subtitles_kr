@@ -1,0 +1,12 @@
+{
+    "duration": 3.0, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이봐...! 불이 붙었다니 무슨 소리야!?", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_03"
+}

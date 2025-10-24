@@ -1,0 +1,12 @@
+{
+    "duration": 2.4, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포신 응급 수리 완료!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_04"
+}

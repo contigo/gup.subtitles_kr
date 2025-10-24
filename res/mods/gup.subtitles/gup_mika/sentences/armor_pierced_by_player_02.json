@@ -1,0 +1,12 @@
+{
+    "duration": 2.73, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "그래, 이번엔 좋았어.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_02"
+}

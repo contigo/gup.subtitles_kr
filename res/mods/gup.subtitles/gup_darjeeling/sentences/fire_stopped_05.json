@@ -1,0 +1,12 @@
+{
+    "duration": 3.22, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "불을 껐군요. 정말 다행이에요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_05"
+}

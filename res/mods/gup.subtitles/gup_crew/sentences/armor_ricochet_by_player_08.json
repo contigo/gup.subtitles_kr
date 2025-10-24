@@ -1,0 +1,12 @@
+{
+    "duration": 1.9, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "포탄이 튕겨나갈 줄은 몰랐는데...", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_08"
+}

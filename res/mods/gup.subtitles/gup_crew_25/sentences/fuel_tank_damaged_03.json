@@ -1,0 +1,12 @@
+{
+    "duration": 4.01, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "연료 탱크가 손상되었습니다. 화재 발생 가능성이 증가했습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_03"
+}

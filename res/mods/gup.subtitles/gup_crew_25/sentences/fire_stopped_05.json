@@ -1,0 +1,12 @@
+{
+    "duration": 3.22, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "불을 진화했군요. 다행입니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_05"
+}

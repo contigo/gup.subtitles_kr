@@ -1,0 +1,12 @@
+{
+    "duration": 0.69, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "불타고 있는 것 같아요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_04"
+}

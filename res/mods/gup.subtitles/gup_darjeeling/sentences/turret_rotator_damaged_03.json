@@ -1,0 +1,12 @@
+{
+    "duration": 2.08, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적이 포탑 구동 장치를 맞췄군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

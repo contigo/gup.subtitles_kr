@@ -1,0 +1,12 @@
+{
+    "duration": 2.7, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "이런...! 연료 탱크가 맞았잖아!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_04"
+}

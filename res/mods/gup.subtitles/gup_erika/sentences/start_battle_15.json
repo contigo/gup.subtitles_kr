@@ -1,0 +1,12 @@
+{
+    "duration": 3.3, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "나한테 도전한 걸 후회하게 만들어 주겠어!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_15"
+}

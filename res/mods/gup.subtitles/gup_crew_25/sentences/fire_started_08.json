@@ -1,0 +1,12 @@
+{
+    "duration": 3.73, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "불이 났습니다. 즉시 대응할 준비를 하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_08"
+}

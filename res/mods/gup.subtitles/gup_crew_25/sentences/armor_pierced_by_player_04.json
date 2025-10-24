@@ -1,0 +1,18 @@
+{
+    "duration": 6.44, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "데이터에 따르면, 그곳이 약점이었군요.", 
+                        "character": "assam", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "헤헤헤... 장갑을 관통했군요.", 
+            "character": "darjeeling", 
+            "time": 3.25
+        }
+    ], 
+    "audio": "armor_pierced_by_player_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 6.87, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "놀랐지만... 괜찮아요, 아직 쏠 수 있어요! 계속 부탁해요!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_02"
+}

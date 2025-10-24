@@ -1,0 +1,12 @@
+{
+    "duration": 5.8, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "끝났군. 전차를 타다 보면 이런 일도 있지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_02"
+}

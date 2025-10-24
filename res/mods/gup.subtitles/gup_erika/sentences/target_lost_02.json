@@ -1,0 +1,12 @@
+{
+    "duration": 1.73, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "목표를 놓쳤잖아.", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_02"
+}

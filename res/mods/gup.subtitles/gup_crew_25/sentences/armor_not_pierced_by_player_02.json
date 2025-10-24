@@ -1,0 +1,18 @@
+{
+    "duration": 3.29, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "다음엔 약점을 노려보는 게 좋겠군요.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "default", 
+                        "text": "알겠습니다.", 
+            "character": "assam", 
+            "time": 2.33
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_02"
+}

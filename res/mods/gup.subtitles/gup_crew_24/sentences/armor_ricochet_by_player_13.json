@@ -1,0 +1,12 @@
+{
+    "duration": 5.17, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "도탄됐군. 내가 계획한 대로가 아니야. 하지만 그게 전차도지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_13"
+}

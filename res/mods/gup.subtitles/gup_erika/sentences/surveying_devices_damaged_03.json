@@ -1,0 +1,12 @@
+{
+    "duration": 2.07, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "관측 장비 손상! 조심하라고!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_03"
+}

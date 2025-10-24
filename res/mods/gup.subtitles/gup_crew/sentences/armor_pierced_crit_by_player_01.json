@@ -1,0 +1,12 @@
+{
+    "duration": 1.9, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "포탄 직격!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_01"
+}

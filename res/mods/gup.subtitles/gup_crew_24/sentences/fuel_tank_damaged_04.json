@@ -1,0 +1,12 @@
+{
+    "duration": 3.27, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "우리 연료 탱크 피격. 불이 붙지 않게 해.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_04"
+}

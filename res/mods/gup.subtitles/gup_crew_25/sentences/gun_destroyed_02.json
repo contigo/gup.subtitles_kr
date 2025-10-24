@@ -1,0 +1,12 @@
+{
+    "duration": 2.93, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포가 파괴되었습니다. 사격할 수 없습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_02"
+}

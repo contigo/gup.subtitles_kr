@@ -1,0 +1,12 @@
+{
+    "duration": 3.03, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "화재 발생 확률 증가! 조심해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_03"
+}

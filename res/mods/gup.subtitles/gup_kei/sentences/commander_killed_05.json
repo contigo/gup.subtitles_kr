@@ -1,0 +1,12 @@
+{
+    "duration": 2.25, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "웁스! 부상당했어.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_05"
+}

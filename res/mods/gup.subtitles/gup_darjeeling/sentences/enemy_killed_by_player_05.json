@@ -1,0 +1,12 @@
+{
+    "duration": 5.5, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차 격파. 가끔은 데이터에 의존하는 아삼의 방식도 도움이 되는군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_05"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.17, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "탄약고 피격? 폭발 가능성을 피해야겠네.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_02"
+}

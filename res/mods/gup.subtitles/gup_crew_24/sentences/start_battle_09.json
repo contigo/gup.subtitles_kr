@@ -1,0 +1,18 @@
+{
+    "duration": 8.93, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "헤헤. 미카, 결국 우리도 공격에 합류하는 거네.", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "focused", 
+                        "text": "틀렸어. 우리는 바람과 함께 가는 거야.", 
+            "character": "mika", 
+            "time": 5.01
+        }
+    ], 
+    "audio": "start_battle_09"
+}

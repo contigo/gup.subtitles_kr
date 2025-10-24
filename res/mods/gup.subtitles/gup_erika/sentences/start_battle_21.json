@@ -1,0 +1,12 @@
+{
+    "duration": 2.9, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "가자! 모두 나를 따르라!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_21"
+}

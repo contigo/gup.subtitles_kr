@@ -1,0 +1,12 @@
+{
+    "duration": 1.47, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "무전기 손상!?", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_01"
+}

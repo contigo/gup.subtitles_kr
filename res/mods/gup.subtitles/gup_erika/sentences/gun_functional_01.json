@@ -1,0 +1,12 @@
+{
+    "duration": 2.27, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "주포가 수리된 것 같네.", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_01"
+}

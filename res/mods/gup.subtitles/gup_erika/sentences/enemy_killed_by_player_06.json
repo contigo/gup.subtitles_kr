@@ -1,0 +1,12 @@
+{
+    "duration": 3.63, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "적 격파! 이렇게 쏘는 거라고!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_06"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.93, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포탄이 튕겨나간 것 같아요. 아마도 각도를 조절해야 할 것 같아요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_15"
+}

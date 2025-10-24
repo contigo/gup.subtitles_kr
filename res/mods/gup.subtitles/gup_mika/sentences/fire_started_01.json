@@ -1,0 +1,12 @@
+{
+    "duration": 2.43, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "화재 감지. 빨리 진압해.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.48, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "장갑을 관통하지 못한 것 같아요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_05"
+}

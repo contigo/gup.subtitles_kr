@@ -1,0 +1,12 @@
+{
+    "duration": 6.52, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "준비됐어요. 이마에 고구마를 얹고 있는 게 너무 이상해서, 뱃멀미가 나는 걸 잊어버렸어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_05"
+}

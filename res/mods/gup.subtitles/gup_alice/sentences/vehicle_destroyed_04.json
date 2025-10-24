@@ -1,0 +1,12 @@
+{
+    "duration": 2.07, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "피격당했어요. 후퇴하죠.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_04"
+}

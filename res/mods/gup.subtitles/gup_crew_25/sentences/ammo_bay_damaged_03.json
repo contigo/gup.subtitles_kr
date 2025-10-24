@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "탄약고를 노리는 것 같군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_03"
+}

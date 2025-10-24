@@ -1,0 +1,12 @@
+{
+    "duration": 1.44, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도가 이제 작동합니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_04"
+}

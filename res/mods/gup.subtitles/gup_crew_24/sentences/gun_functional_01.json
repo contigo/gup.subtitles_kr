@@ -1,0 +1,12 @@
+{
+    "duration": 2.17, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "미카! 포가 다시 작동해!", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_01"
+}

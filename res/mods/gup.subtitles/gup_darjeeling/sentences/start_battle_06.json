@@ -1,0 +1,12 @@
+{
+    "duration": 9.47, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "출격 준비하세요. 우리의 유일한 전략은 아마도 계속 움직이면서 쏘는 것뿐이겠네요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_06"
+}

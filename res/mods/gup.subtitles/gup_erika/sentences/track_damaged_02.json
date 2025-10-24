@@ -1,0 +1,12 @@
+{
+    "duration": 2.37, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "궤도 피격! 더는 못 버텨!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_02"
+}

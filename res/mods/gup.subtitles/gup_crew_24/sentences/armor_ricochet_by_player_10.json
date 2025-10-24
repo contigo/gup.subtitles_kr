@@ -1,0 +1,18 @@
+{
+    "duration": 4.03, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "뭐... 도탄!?", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "focused", 
+                        "text": "당황하지 마. 그럴 수도 있지.", 
+            "character": "mika", 
+            "time": 0.71
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_10"
+}

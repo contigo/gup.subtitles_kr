@@ -1,0 +1,12 @@
+{
+    "duration": 2.5, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "큰일이야, 우리 연료 탱크가 손상됐어!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_02"
+}

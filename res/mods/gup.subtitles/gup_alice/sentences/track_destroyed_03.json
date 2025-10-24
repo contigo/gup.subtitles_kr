@@ -1,0 +1,12 @@
+{
+    "duration": 3.5, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "궤도가 파괴됐어요. 상황이 좋지 않네요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.47, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "화재...? 흥... 역시 듣도 보도 못한 학교는 서투르다니까!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_07"
+}

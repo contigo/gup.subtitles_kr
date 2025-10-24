@@ -1,0 +1,12 @@
+{
+    "duration": 2.97, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "적 전차 제거. 계속하세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_05"
+}

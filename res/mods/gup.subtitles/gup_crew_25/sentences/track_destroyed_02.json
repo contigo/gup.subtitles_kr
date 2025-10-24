@@ -1,0 +1,12 @@
+{
+    "duration": 2.76, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도가 파괴되었습니다. 움직일 수 없습니다...", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_02"
+}

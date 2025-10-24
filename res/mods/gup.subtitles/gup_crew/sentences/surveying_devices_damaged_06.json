@@ -1,0 +1,12 @@
+{
+    "duration": 3.1, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "시야 불량! 관측 장비를 어떻게든 해야 해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_06"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.47, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "으음... 방금 공격은 확실히 느껴졌어요!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_05"
+}

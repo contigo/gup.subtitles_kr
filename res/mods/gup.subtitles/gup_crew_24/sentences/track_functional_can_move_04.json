@@ -1,0 +1,18 @@
+{
+    "duration": 4.5, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "궤도 복구. 밋코, 이제 네 차례야.", 
+                        "character": "mika", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "맡겨줘!", 
+            "character": "mikko", 
+            "time": 3.11
+        }
+    ], 
+    "audio": "track_functional_can_move_04"
+}

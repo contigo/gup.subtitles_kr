@@ -1,0 +1,12 @@
+{
+    "duration": 1.87, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "아군을 쏘면 안 돼요! 조심해 주세요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.25, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "관통! 올 라잇!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.03, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "포탑 피격! 회전이 느려졌어!", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_02"
+}

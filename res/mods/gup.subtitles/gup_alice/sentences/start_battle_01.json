@@ -1,0 +1,12 @@
+{
+    "duration": 3.98, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "시작이네요... 다행히 녹화 버튼을 누르는 걸 잊지 않았어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_01"
+}

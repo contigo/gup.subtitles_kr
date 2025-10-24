@@ -1,0 +1,12 @@
+{
+    "duration": 3.72, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "적이 노린 건 연료 탱크였군요. 침착하게 상황에 대처하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_04"
+}

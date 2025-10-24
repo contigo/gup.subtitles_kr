@@ -1,0 +1,12 @@
+{
+    "duration": 1.98, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "윽. 저를 노리는 건가요?", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_05"
+}

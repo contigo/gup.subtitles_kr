@@ -1,0 +1,12 @@
+{
+    "duration": 1.76, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "이제 걱정거리가 하나 줄었군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_05"
+}

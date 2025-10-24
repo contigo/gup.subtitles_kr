@@ -1,0 +1,12 @@
+{
+    "duration": 2.18, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "장전수가 피격당했어요. 괜찮아요?", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_01"
+}

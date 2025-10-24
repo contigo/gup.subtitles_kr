@@ -1,0 +1,12 @@
+{
+    "duration": 2.99, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "화재를 조심하세요. 번지기 전에 진압해야 합니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_05"
+}

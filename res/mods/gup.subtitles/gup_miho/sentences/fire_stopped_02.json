@@ -1,0 +1,12 @@
+{
+    "duration": 1.83, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "어떻게든 불을 꺼서 다행이다...", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_02"
+}

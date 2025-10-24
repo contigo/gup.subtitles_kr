@@ -1,0 +1,12 @@
+{
+    "duration": 4.4, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "움직일 시간입니다! 빨리 끝내고 차를 즐기도록 하죠.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_10"
+}

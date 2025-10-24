@@ -1,0 +1,12 @@
+{
+    "duration": 3.03, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "아야... 궤도가 손상됐잖아.", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_01"
+}

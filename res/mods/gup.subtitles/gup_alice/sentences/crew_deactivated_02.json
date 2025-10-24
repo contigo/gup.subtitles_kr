@@ -1,0 +1,12 @@
+{
+    "duration": 2.47, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "모두 당한 건가요? 여기서 나가요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_02"
+}

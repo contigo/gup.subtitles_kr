@@ -1,0 +1,12 @@
+{
+    "duration": 2.27, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "지금은 저 녀석을 노릴 필요 없어!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_03"
+}

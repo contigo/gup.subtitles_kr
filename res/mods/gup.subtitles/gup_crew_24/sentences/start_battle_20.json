@@ -1,0 +1,12 @@
+{
+    "duration": 5.43, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "모두 준비됐나? 그래. 모든 전차, 전진.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_20"
+}

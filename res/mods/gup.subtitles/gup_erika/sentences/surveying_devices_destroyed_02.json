@@ -1,0 +1,12 @@
+{
+    "duration": 3.57, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "관측 장비 파괴! 시야가 좁아졌으니 조심해!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_02"
+}

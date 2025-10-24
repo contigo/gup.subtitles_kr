@@ -1,0 +1,12 @@
+{
+    "duration": 5.96, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포가 손상된 것 같군요. 명중률 저하에 유의하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_03"
+}

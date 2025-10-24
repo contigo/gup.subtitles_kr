@@ -1,0 +1,12 @@
+{
+    "duration": 3.53, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "관측 장비가 돌아왔어! 다시 스카우트 시작!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_11"
+}

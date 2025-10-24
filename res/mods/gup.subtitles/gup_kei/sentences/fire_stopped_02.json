@@ -1,0 +1,12 @@
+{
+    "duration": 1.85, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "올 라잇! 불은 껐어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_02"
+}

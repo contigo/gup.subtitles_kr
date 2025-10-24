@@ -1,0 +1,12 @@
+{
+    "duration": 2.23, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "엔진 파괴! 뭐 하는 거야! 당장 고쳐!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_02"
+}

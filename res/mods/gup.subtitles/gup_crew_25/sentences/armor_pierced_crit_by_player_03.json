@@ -1,0 +1,12 @@
+{
+    "duration": 1.67, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "맞췄지만...", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_03"
+}

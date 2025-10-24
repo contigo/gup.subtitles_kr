@@ -1,0 +1,12 @@
+{
+    "duration": 2.8, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "아... 아군을 맞췄어...", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_03"
+}

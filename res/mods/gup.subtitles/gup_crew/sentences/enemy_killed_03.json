@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 차량은 더 이상 작동하지 않습니다, 격파!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_03"
+}

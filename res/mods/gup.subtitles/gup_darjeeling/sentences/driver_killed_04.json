@@ -1,0 +1,12 @@
+{
+    "duration": 4.74, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "조종석이 피격당했어요. 기동성 저하에 대비하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_04"
+}

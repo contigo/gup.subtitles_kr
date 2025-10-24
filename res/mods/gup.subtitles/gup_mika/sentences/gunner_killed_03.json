@@ -1,0 +1,12 @@
+{
+    "duration": 3.77, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "우리 포수석이 피격되었어. 아직 싸울 수 있을까?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_03"
+}

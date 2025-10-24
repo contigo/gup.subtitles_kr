@@ -1,0 +1,12 @@
+{
+    "duration": 4.4, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "움직일 수 없어. 빨리 궤도를 고쳐.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_03"
+}

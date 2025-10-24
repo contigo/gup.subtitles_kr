@@ -1,0 +1,12 @@
+{
+    "duration": 4.41, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "화재를 감지했습니다. 모두 침착하게 처리하도록 하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_06"
+}

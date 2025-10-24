@@ -1,0 +1,12 @@
+{
+    "duration": 3.63, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "아야...! 장전수석에 큰 피해!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_02"
+}

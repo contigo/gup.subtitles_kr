@@ -1,0 +1,12 @@
+{
+    "duration": 1.6, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "연료 탱크를 맞췄나요?", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_11"
+}

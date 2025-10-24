@@ -1,0 +1,12 @@
+{
+    "duration": 4.2, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "탄약고를 피격당했군요. 침착하게 수리를 진행하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_02"
+}

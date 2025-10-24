@@ -1,0 +1,12 @@
+{
+    "duration": 3.13, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "말도 안 돼... 이건 안 뚫리는 건가?", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_06"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.13, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "표적을 바꾸는 게 좋겠어.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_02"
+}

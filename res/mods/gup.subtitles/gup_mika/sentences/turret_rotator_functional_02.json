@@ -1,0 +1,12 @@
+{
+    "duration": 3.6, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "응급 수리였지만, 이제 포탑은 돌아갈 거야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.43, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "시합 시작! 익사이팅!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_04"
+}

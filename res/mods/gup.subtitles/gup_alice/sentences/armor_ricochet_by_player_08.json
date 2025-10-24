@@ -1,0 +1,12 @@
+{
+    "duration": 2.88, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "튕겨나갔네요. 다음 포탄은 명중할 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_08"
+}

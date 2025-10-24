@@ -1,0 +1,12 @@
+{
+    "duration": 1.06, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "공격 개시.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_05"
+}

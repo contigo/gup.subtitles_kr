@@ -1,0 +1,12 @@
+{
+    "duration": 8.08, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "흥미로운 싸움이 되겠네요. 하지만 행운이란 변덕스러운 법이라, 불리한 쪽이 이기기도 한답니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_03"
+}

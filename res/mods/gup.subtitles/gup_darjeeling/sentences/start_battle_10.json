@@ -1,0 +1,12 @@
+{
+    "duration": 9.77, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "다행히도, 역경을 헤쳐나가는 것은 용기가 아니라, 대담하고 잘 짜여진 전략이랍니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_10"
+}

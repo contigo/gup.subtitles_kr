@@ -1,0 +1,18 @@
+{
+    "duration": 3.08, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "궤도를 수리했어요.", 
+                        "character": "orange_pekoe", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "focused", 
+                        "text": "고마워요, 페코.", 
+            "character": "darjeeling", 
+            "time": 1.75
+        }
+    ], 
+    "audio": "track_functional_can_move_06"
+}

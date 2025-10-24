@@ -1,0 +1,12 @@
+{
+    "duration": 1.43, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "방금 우리 전차를 쏜 거야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_04"
+}

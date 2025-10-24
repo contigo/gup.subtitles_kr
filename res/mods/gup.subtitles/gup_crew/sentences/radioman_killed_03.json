@@ -1,0 +1,12 @@
+{
+    "duration": 3.3, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "우와! 젠장, 그렇게 놀라게 하지 마!", 
+            "character": "saori", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_03"
+}

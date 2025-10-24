@@ -1,0 +1,12 @@
+{
+    "duration": 2.74, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "엔진이 피격당하고 있어요. 상황 보고를 부탁해요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_01"
+}

@@ -1,0 +1,18 @@
+{
+    "duration": 7.32, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "관통 실패. 튕겨나갔습니다.", 
+                        "character": "assam", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "focused", 
+                        "text": "포탄은 때때로 튕겨나가기 마련이죠. 침착하게 다음 포탄에 집중하세요.", 
+            "character": "darjeeling", 
+            "time": 2.91
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_06"
+}

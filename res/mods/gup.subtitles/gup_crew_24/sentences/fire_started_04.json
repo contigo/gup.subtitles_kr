@@ -1,0 +1,12 @@
+{
+    "duration": 2.5, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "브... 불이야! 어떻게 해야 해...?", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_04"
+}

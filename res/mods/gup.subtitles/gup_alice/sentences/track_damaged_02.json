@@ -1,0 +1,12 @@
+{
+    "duration": 2.55, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "궤도를 노리고 있어요. 신중하게 진행하세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_02"
+}

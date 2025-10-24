@@ -1,0 +1,12 @@
+{
+    "duration": 2.63, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "하나 씨, 어떻게든 포신을 고쳤어요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_02"
+}

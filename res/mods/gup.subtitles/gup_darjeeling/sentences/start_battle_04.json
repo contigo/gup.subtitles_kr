@@ -1,0 +1,12 @@
+{
+    "duration": 9.71, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "출격 준비는 되셨나요? 우리 학교 전차는 아무리 빨리 달려도 소중한 홍차는 한 방울도 흘리지 않는답니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_04"
+}

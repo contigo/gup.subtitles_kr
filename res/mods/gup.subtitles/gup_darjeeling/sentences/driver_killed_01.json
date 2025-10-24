@@ -1,0 +1,12 @@
+{
+    "duration": 3.83, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "조종석을 맞은 것 같군요. 상황 보고를 부탁해요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_01"
+}

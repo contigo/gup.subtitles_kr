@@ -1,0 +1,18 @@
+{
+    "duration": 4.53, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "아키, 다음엔 얇은 쪽을 노려.", 
+                        "character": "mika", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "default", 
+                        "text": "알겠습니다.", 
+            "character": "aki", 
+            "time": 3.25
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_04"
+}

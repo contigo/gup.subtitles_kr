@@ -1,0 +1,12 @@
+{
+    "duration": 3.39, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도 파괴. 곤란한 상황입니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_03"
+}

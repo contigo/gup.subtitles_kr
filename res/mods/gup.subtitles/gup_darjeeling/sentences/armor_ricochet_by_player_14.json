@@ -1,0 +1,12 @@
+{
+    "duration": 5.17, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "도탄되었군요. 발사 각도를 바꿔서 시도해 보세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_14"
+}

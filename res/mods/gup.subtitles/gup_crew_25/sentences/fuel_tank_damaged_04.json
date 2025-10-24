@@ -1,0 +1,12 @@
+{
+    "duration": 4.07, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "연료 탱크가 피격됐습니다. 화재 발생 위험이 더 높습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_04"
+}

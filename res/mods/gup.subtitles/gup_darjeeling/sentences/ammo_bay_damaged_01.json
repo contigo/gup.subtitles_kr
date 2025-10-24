@@ -1,0 +1,12 @@
+{
+    "duration": 3.46, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "탄약고가 손상되었군요. 주의하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_01"
+}

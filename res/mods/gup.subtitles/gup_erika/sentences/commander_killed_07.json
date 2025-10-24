@@ -1,0 +1,12 @@
+{
+    "duration": 1.33, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "...아프잖아!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_07"
+}

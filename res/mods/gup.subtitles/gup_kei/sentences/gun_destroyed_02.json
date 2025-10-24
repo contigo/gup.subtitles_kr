@@ -1,0 +1,12 @@
+{
+    "duration": 3.49, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "주포 파괴! 당장 고쳐! 빨리!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_02"
+}

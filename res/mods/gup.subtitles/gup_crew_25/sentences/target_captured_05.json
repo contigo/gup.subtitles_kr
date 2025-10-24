@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "다즐링, 목표를 포착했습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_05"
+}

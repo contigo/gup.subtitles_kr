@@ -1,0 +1,12 @@
+{
+    "duration": 2.33, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "도탄된 것 같아요. 다음엔 더 잘 될 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_12"
+}

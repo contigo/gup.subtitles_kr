@@ -1,0 +1,12 @@
+{
+    "duration": 3.53, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "장전수 피격. 재장전 속도가 느려질 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_04"
+}

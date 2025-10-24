@@ -1,0 +1,12 @@
+{
+    "duration": 1.95, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "헤이, 네가 쏘는 건 아군이야.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_04"
+}

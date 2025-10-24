@@ -1,0 +1,12 @@
+{
+    "duration": 2.25, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "도탄? 노 프라블럼!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_02"
+}

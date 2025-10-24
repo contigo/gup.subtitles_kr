@@ -1,0 +1,12 @@
+{
+    "duration": 2.7, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "백기를 올렸네요...", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_04"
+}

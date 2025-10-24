@@ -1,0 +1,12 @@
+{
+    "duration": 2.6, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "불은 껐어! 이제 반격이야!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_04"
+}

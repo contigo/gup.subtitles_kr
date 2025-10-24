@@ -1,0 +1,12 @@
+{
+    "duration": 3.66, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "장전수석이 피격됐습니다. 페코, 괜찮습니까?", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_04"
+}

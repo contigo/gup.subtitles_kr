@@ -1,0 +1,12 @@
+{
+    "duration": 3.27, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑이 이제 회전할 수 있어요, 아주 조금이지만요.", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_01"
+}

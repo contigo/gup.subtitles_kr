@@ -1,0 +1,12 @@
+{
+    "duration": 1.17, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "나머지는 당신에게 맡길게요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.87, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "음, 표적이 시야에 들어왔군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_05"
+}

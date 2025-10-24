@@ -1,0 +1,12 @@
+{
+    "duration": 1.34, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "모두, 경계를 늦추지 마세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_14"
+}

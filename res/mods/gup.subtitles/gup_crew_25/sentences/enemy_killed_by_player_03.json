@@ -1,0 +1,18 @@
+{
+    "duration": 4.86, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "음, 그 스콘은 이제 끝났군요.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "이제, 우리는 그 맛을 즐기기만 하면 된답니다.", 
+            "character": "orange_pekoe", 
+            "time": 2.85
+        }
+    ], 
+    "audio": "enemy_killed_by_player_03"
+}

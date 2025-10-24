@@ -1,0 +1,12 @@
+{
+    "duration": 2.87, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "음... 엔진이 맞은 것 같군...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_01"
+}

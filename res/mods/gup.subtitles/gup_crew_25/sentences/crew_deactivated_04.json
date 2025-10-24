@@ -1,0 +1,12 @@
+{
+    "duration": 6.26, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "우리가 패배했나요? 걱정 마세요, 그저 조직적인 후퇴를 이끌면 된답니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_04"
+}

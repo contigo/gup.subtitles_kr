@@ -1,0 +1,12 @@
+{
+    "duration": 2.07, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비가 복구된 것 같아요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_13"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.79, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "도탄됐네요. 아마 각도가 너무 좁았을 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_14"
+}

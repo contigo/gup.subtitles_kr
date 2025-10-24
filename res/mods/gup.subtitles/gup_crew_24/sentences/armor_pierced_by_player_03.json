@@ -1,0 +1,18 @@
+{
+    "duration": 4.7, 
+    "timeline": [
+        {
+            "emotion": "happy", 
+            "text": "관통!", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "나쁘지 않아 아키. 요코보다 낫군.", 
+            "character": "mika", 
+            "time": 1.45
+        }
+    ], 
+    "audio": "armor_pierced_by_player_03"
+}

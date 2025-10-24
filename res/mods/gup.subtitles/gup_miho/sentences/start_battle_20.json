@@ -1,0 +1,12 @@
+{
+    "duration": 4.11, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이번엔 '푹신푹신 작전'으로 가요! 전차, 출발!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_20"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.73, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "엔진이 다시 작동해요. 이제 움직일 수 있어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_functional_01"
+}

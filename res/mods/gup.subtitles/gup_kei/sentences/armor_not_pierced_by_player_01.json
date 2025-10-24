@@ -1,0 +1,12 @@
+{
+    "duration": 1.25, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "블록됐잖아!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_01"
+}

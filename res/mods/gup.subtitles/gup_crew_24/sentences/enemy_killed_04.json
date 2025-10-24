@@ -1,0 +1,12 @@
+{
+    "duration": 2.93, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "나이스, 적이 한 대 줄었군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_04"
+}

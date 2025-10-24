@@ -1,0 +1,12 @@
+{
+    "duration": 2.53, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "좋았어! 이제 움직일 수 있잖아!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_06"
+}

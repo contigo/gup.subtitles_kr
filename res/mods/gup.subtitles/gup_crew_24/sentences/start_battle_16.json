@@ -1,0 +1,12 @@
+{
+    "duration": 9.33, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "좋은 바람이 부는군. 전차도에 완벽한 날이야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_16"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.19, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "장전수석에 직격탄이에요. 보고하세요!", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_03"
+}

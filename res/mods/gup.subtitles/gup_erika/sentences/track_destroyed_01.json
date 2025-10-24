@@ -1,0 +1,12 @@
+{
+    "duration": 3.3, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "...움직일 수 없잖아!? 빨리 궤도 고쳐!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_01"
+}

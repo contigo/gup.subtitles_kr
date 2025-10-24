@@ -1,0 +1,12 @@
+{
+    "duration": 3.4, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "난 괜찮아...! 걱정... 하지 마...!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_05"
+}

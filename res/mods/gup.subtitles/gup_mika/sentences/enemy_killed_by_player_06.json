@@ -1,0 +1,12 @@
+{
+    "duration": 6.07, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "적 전차 침묵. 전차에게는 허무한 기분이겠지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_06"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.23, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "무전기 고장. 장거리 정보는 포기하자.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_06"
+}

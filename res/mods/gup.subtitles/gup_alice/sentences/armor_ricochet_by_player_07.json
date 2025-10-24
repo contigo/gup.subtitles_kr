@@ -1,0 +1,12 @@
+{
+    "duration": 3.15, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "도탄이에요. 다음 탄을 즉시 장전하세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_07"
+}

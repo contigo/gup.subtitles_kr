@@ -1,0 +1,12 @@
+{
+    "duration": 4.97, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "모두 준비됐어!? 적진을 돌파한다!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_17"
+}

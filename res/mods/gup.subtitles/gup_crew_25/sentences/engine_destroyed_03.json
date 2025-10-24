@@ -1,0 +1,12 @@
+{
+    "duration": 3.31, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "엔진이 파괴되었습니다. 즉시 수리해야 합니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_03"
+}

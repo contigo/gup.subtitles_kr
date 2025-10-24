@@ -1,0 +1,12 @@
+{
+    "duration": 5.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "튕겨 나갔네. 계획대로는 아니지만, 그게 전차도지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_15"
+}

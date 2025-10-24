@@ -1,0 +1,12 @@
+{
+    "duration": 1.45, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "조금 뱃멀미가 나는 것 같아요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_04"
+}

@@ -1,0 +1,18 @@
+{
+    "duration": 4.43, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "엔진이 피격됐습니다. 수리해 주시겠습니까?", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "default", 
+                        "text": "네!", 
+            "character": "orange_pekoe", 
+            "time": 3.85
+        }
+    ], 
+    "audio": "engine_damaged_02"
+}

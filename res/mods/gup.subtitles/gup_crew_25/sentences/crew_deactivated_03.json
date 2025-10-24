@@ -1,0 +1,12 @@
+{
+    "duration": 2.53, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이 패배를 잊지 않을 것입니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_03"
+}

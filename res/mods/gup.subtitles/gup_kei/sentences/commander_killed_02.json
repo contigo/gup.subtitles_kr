@@ -1,0 +1,12 @@
+{
+    "duration": 3.26, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "와우, 방금 건 정말 아팠어.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_02"
+}

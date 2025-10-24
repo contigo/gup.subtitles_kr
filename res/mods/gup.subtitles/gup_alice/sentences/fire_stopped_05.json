@@ -1,0 +1,12 @@
+{
+    "duration": 2.1, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "훌륭해요. 불길이 진압됐어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_05"
+}

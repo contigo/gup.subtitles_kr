@@ -1,0 +1,12 @@
+{
+    "duration": 2.47, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "사오리 씨! 다치지 않았어요?", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.53, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포가 피격되었어. 한 번 더 맞으면 발사할 수 없을지도.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_02"
+}

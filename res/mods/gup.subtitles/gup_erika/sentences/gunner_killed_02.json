@@ -1,0 +1,12 @@
+{
+    "duration": 4.38, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포수석이 당했다고!? 아야... 이제 명중률은 기대도 못 하겠네.", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_02"
+}

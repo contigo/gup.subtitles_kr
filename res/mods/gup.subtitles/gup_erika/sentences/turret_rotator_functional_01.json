@@ -1,0 +1,12 @@
+{
+    "duration": 2.23, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포탑 수리 완료!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_01"
+}

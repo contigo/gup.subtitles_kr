@@ -1,0 +1,12 @@
+{
+    "duration": 4.37, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "장전수석을 피격당했어요. 재장전이 느려질 테니 대비하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_04"
+}

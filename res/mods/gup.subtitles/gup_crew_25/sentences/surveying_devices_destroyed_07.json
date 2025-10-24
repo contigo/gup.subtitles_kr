@@ -1,0 +1,12 @@
+{
+    "duration": 4.22, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "관측 장비 파괴. 우리는 집중하고 수리에 힘써야 합니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_07"
+}

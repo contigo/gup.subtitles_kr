@@ -1,0 +1,12 @@
+{
+    "duration": 2.3, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "맞추긴 했는데...", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.46, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "도탄 확인.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_05"
+}

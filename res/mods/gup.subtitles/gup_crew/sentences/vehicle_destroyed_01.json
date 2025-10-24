@@ -1,0 +1,12 @@
+{
+    "duration": 2.9, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "져버렸네요... 아쉬워라...", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_01"
+}

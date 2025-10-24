@@ -1,0 +1,12 @@
+{
+    "duration": 2.63, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "해치웠군요! 다음 목표를 찾아보죠!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_02"
+}

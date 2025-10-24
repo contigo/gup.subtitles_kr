@@ -1,0 +1,12 @@
+{
+    "duration": 2.6, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "아직... 아직 싸울 수 있어...!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_04"
+}

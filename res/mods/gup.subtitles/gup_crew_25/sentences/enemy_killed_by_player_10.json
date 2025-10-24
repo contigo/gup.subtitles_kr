@@ -1,0 +1,24 @@
+{
+    "duration": 6.46, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "우아한 전차도에 부주의함은 있을 수 없답니다.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "다음 목표에 집중하세요.", 
+                        "character": "darjeeling", 
+                        "time": 3.65
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "알겠습니다!", 
+            "character": "orange_pekoe", 
+            "time": 5.82
+        }
+    ], 
+    "audio": "enemy_killed_by_player_10"
+}

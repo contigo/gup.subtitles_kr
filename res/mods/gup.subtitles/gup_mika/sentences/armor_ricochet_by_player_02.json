@@ -1,0 +1,12 @@
+{
+    "duration": 2.43, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아아, 튕겨 나간 것 같네.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_02"
+}

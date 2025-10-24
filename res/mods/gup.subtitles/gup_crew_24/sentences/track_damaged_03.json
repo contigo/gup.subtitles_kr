@@ -1,0 +1,12 @@
+{
+    "duration": 3.67, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "이 소리... 궤도가 부러진 건가?", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_03"
+}

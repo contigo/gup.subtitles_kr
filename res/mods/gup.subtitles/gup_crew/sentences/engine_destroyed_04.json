@@ -1,0 +1,12 @@
+{
+    "duration": 3.4, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "모두들, 미안... 엔진이 작동하지 않아...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_04"
+}

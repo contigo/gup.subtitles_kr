@@ -1,0 +1,12 @@
+{
+    "duration": 1.18, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "한 번에 해치우죠.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_06"
+}

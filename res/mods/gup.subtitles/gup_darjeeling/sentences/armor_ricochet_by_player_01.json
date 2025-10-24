@@ -1,0 +1,12 @@
+{
+    "duration": 1.67, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "도탄되었군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 링 파괴.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_02"
+}

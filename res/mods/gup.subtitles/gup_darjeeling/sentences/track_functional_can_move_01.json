@@ -1,0 +1,12 @@
+{
+    "duration": 3.41, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도 수리가 끝났습니다. 이제 다시 움직일 수 있을 거예요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_01"
+}

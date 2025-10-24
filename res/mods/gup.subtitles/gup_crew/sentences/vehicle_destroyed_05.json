@@ -1,0 +1,12 @@
+{
+    "duration": 2.8, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "아쉽지만, 져버렸네요.", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_05"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 6.33, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "준비되셨나요? 침착하게 최선을 다한다면, 우리가 패배할 리 없어요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_21"
+}

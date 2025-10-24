@@ -1,0 +1,12 @@
+{
+    "duration": 3.3, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "미안, 피할 수 없었어! 광학 장비가 손상된 것 같아!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 5.06, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "다시 모든 것이 보여요. 관측 장비가 수리된 것 같네요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_09"
+}

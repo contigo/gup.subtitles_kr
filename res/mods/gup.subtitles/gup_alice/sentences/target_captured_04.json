@@ -1,0 +1,12 @@
+{
+    "duration": 0.83, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "해치울게요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.13, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "헤헤... 전차도를 얕보지 말라고!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_09"
+}

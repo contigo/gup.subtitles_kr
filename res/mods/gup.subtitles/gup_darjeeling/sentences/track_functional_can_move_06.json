@@ -1,0 +1,12 @@
+{
+    "duration": 3.35, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "궤도 수리가 끝난 것 같군요. 즉시 이동하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_06"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.7, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "궤도가 피격당했어요. 한 발 더 맞으면 버티지 못할 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_04"
+}

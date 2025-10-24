@@ -1,0 +1,12 @@
+{
+    "duration": 9.26, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "저 팀은 당신과 좀 닮았네요. 아무리 두들겨 맞아도 계속 돌아오죠. 강하진 않지만, 포기하지 않아요. (보코에게 말하며)", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_07"
+}

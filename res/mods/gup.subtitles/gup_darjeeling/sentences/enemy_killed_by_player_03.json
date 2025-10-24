@@ -1,0 +1,12 @@
+{
+    "duration": 1.9, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "뭐, 저 스콘은 이제 끝났다고 봐야겠네요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_03"
+}

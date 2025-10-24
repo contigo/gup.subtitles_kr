@@ -1,0 +1,12 @@
+{
+    "duration": 2.91, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "불이 발생했습니다. 가능한 한 빨리 진화하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_07"
+}

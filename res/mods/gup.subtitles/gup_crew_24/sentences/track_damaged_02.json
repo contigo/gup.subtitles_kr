@@ -1,0 +1,12 @@
+{
+    "duration": 2.4, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "미안 미카! 궤도가 손상된 것 같아!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_02"
+}

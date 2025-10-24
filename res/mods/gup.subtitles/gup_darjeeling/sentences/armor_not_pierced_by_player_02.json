@@ -1,0 +1,12 @@
+{
+    "duration": 2.06, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "다음엔 저 전차의 약점을 노려보는 게 좋겠군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.49, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "탄약고가 손상됐어요. 폭발 위험이 있어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_01"
+}

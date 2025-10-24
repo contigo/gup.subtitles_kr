@@ -1,0 +1,12 @@
+{
+    "duration": 1.59, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "다른 적을 쫓도록 하죠.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_12"
+}

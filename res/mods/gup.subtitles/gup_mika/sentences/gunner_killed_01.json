@@ -1,0 +1,12 @@
+{
+    "duration": 2.97, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포수석이 피격된 것 같네. 괜찮을까?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_01"
+}

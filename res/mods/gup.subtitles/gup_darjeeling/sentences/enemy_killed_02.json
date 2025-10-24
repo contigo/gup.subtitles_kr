@@ -1,0 +1,12 @@
+{
+    "duration": 1.98, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차, 무력화 확인.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.22, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "엔진 수리가 완료되었습니다. 다시 움직일 수 있을 겁니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_functional_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.87, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "다른 적을 찾아보자.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_01"
+}

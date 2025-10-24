@@ -1,0 +1,12 @@
+{
+    "duration": 3.37, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "그렇게 쫓아다니는 건 좋아하지 않아. 다른 녀석을 찾아보자.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_13"
+}

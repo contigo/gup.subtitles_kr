@@ -1,0 +1,12 @@
+{
+    "duration": 5.3, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "으악! 미카아아, 포탑이, 안 움직여어어!", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_01"
+}

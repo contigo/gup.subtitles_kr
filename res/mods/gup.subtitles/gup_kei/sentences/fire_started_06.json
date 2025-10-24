@@ -1,0 +1,12 @@
+{
+    "duration": 2.93, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "스테이 쿨! 침착하게 불을 꺼!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_06"
+}

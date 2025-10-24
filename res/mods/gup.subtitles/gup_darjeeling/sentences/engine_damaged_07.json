@@ -1,0 +1,12 @@
+{
+    "duration": 4.3, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "이 소리는... 엔진이 손상된 것 같군요. 조심해서 나아가세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_07"
+}

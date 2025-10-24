@@ -1,0 +1,12 @@
+{
+    "duration": 2.94, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "조금 더 신중해야겠군요. 방금 전차는 아군이었답니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_01"
+}

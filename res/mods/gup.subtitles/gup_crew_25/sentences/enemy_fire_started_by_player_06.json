@@ -1,0 +1,12 @@
+{
+    "duration": 3.31, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 전차가 불타고 있습니다. 연료 탱크에 불이 붙은 것 같습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_06"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.2, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "궤도가 손상됐어요. 한 발 더 맞으면 완전히 파괴될 겁니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_04"
+}

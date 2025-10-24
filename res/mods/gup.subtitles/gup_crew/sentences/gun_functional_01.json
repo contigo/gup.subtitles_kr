@@ -1,0 +1,12 @@
+{
+    "duration": 2.37, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "포신 응급 수리 완료!", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_01"
+}

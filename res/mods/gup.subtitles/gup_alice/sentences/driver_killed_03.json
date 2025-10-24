@@ -1,0 +1,12 @@
+{
+    "duration": 3.31, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "조종석이 피격당했어요. 계속할 수 있겠어요?", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_03"
+}

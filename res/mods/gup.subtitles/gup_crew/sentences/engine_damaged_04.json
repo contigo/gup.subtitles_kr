@@ -1,0 +1,12 @@
+{
+    "duration": 5.07, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "속도가 줄었군... 흠... 엔진이 맞은 것 같아...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_04"
+}

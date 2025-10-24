@@ -1,0 +1,12 @@
+{
+    "duration": 4.7, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "아아... 연료 탱크가... 빨리 고쳐야 해!", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_03"
+}

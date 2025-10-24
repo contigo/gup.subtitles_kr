@@ -1,0 +1,12 @@
+{
+    "duration": 4.4, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "관측 장비가 피격되었어. 이대로 가면 오작동할 거야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_08"
+}

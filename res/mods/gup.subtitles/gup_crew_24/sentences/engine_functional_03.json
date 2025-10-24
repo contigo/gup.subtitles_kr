@@ -1,0 +1,18 @@
+{
+    "duration": 4.27, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "엔진이 돌아왔군. 밋코, 움직이자.", 
+                        "character": "mika", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "예!", 
+            "character": "mikko", 
+            "time": 3.15
+        }
+    ], 
+    "audio": "engine_functional_03"
+}

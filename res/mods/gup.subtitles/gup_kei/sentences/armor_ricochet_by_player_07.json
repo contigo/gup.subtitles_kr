@@ -1,0 +1,12 @@
+{
+    "duration": 2.05, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "괜찮아, 다음엔 관통할 거야!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_07"
+}

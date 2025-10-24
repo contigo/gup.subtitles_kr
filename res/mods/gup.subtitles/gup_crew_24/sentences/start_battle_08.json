@@ -1,0 +1,18 @@
+{
+    "duration": 6.07, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "가자아아! 움직여!", 
+                        "character": "mikko", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "cool", 
+                        "text": "밋코, 용기를 무모함과 착각하지 마.", 
+            "character": "mika", 
+            "time": 2.26
+        }
+    ], 
+    "audio": "start_battle_08"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.4, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "제대로 맞았어!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_01"
+}

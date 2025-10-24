@@ -1,0 +1,12 @@
+{
+    "duration": 4.6, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "관측 장비 손상! 설마... 노리고 쏜 건가!?", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_05"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.57, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "아야... 포탑 링이 제대로 안 돌아가잖아!?", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

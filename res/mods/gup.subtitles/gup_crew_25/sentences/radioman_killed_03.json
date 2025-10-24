@@ -1,0 +1,12 @@
+{
+    "duration": 4.17, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "통신수가 부상당했습니다. 아군과의 협력 능력이 영향을 받았습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.04, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "그들이 관측 장비를 파괴했습니다. 이것은 우리의 시야를 심각하게 제한할 것입니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_09"
+}

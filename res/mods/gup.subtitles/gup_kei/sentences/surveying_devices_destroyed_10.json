@@ -1,0 +1,12 @@
+{
+    "duration": 2.94, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비 고장! 수리해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_10"
+}

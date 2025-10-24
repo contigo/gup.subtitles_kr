@@ -1,0 +1,12 @@
+{
+    "duration": 4.1, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "포신이 손상됐어요! 이래서는 정확하게 맞출 수 없을 텐데...", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_03"
+}

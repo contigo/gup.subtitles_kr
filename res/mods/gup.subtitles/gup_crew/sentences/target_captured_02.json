@@ -1,0 +1,12 @@
+{
+    "duration": 4.4, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "목표가 조준경 안에! 괜찮아요... 꼭 맞출게요!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_02"
+}

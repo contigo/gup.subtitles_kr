@@ -1,0 +1,12 @@
+{
+    "duration": 3.93, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 근처에 착탄! 하나 씨, 계속 부탁해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_04"
+}

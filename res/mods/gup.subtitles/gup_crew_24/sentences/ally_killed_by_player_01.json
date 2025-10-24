@@ -1,0 +1,12 @@
+{
+    "duration": 2.93, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "헤이! 왜 우리 친구들을 쏘는 거야!?", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_01"
+}

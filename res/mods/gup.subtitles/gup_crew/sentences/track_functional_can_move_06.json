@@ -1,0 +1,12 @@
+{
+    "duration": 3.67, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "오케이... 궤도 복구... 이제 움직일 수 있어...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_06"
+}

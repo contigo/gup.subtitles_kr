@@ -1,0 +1,12 @@
+{
+    "duration": 2.19, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "불을 껐군요. 침착하게 계속 임무를 수행하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_02"
+}

@@ -1,0 +1,24 @@
+{
+    "duration": 10.13, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "'승리는 가장 끈기 있는 자의 것이다'라는 유명한 명언을 들어보셨나요? 침착하게 승리를 목표로 합시다.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "알겠습니다!", 
+                        "character": "assam", 
+                        "time": 9.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "알겠습니다!", 
+            "character": "orange_pekoe", 
+            "time": 9.25
+        }
+    ], 
+    "audio": "start_battle_17"
+}

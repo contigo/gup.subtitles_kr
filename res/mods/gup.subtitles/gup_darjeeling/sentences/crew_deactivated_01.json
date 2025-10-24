@@ -1,0 +1,12 @@
+{
+    "duration": 2.69, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "좋은 승부였어요. 감사해요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_01"
+}

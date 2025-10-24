@@ -1,0 +1,12 @@
+{
+    "duration": 3.57, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "주포 수리 완료! 명중률이 낮아졌으니 조심해!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_02"
+}

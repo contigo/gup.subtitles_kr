@@ -1,0 +1,12 @@
+{
+    "duration": 3.23, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "우리 드라이버석이 당했어! 기동력 저하에 대비해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_04"
+}

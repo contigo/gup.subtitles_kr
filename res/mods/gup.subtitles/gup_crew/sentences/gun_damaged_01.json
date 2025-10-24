@@ -1,0 +1,12 @@
+{
+    "duration": 4.43, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "포신이... 정말 괜찮을까요...?", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_01"
+}

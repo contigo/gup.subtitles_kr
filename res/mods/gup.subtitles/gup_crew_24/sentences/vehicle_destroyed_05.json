@@ -1,0 +1,12 @@
+{
+    "duration": 7.9, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "전차도에서는 계속 나아가야 할 때가 많지. 하지만 지금은 아니야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_05"
+}

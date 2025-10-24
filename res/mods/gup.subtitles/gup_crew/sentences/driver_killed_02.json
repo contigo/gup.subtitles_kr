@@ -1,0 +1,12 @@
+{
+    "duration": 2.13, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "조종석!? 마코 씨!?", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_02"
+}

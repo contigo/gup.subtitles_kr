@@ -1,0 +1,12 @@
+{
+    "duration": 3.13, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "좋아! 적이 한 대 줄었어!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_02"
+}

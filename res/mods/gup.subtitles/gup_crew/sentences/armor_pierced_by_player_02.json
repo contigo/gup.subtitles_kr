@@ -1,0 +1,12 @@
+{
+    "duration": 2.6, 
+    "timeline": [
+        {
+            "emotion": "happy", 
+            "text": "명중! 다음에도 놓치지 않을 거예요!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_02"
+}

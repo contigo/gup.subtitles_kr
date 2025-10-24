@@ -1,0 +1,12 @@
+{
+    "duration": 1.96, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적이 관측 장비를 노리는 것 같습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_03"
+}

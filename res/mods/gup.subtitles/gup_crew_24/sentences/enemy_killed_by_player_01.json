@@ -1,0 +1,12 @@
+{
+    "duration": 2.57, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "나이스! 한 대 격파!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_01"
+}

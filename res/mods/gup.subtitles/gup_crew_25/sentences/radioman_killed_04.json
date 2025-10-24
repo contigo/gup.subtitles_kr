@@ -1,0 +1,12 @@
+{
+    "duration": 4.24, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "통신수가 부상당했어요. 침착하게 응급 처치를 해요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_04"
+}

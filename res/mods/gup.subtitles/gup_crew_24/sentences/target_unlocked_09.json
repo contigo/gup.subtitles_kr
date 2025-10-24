@@ -1,0 +1,12 @@
+{
+    "duration": 3.93, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "그건 우리 친구들에게 맡겨야지, 그렇지!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_09"
+}

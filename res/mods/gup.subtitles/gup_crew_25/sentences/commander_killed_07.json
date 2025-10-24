@@ -1,0 +1,12 @@
+{
+    "duration": 4.21, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "잘했군요... 하지만 저는 아직 싸울 수 있습니다!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_07"
+}

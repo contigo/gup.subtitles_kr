@@ -1,0 +1,12 @@
+{
+    "duration": 2.6, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "장전수석!? 피해는!?", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_01"
+}

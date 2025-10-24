@@ -1,0 +1,12 @@
+{
+    "duration": 3.1, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아무래도 이 전차를 더 이상 노릴 이유는 없는 것 같군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_13"
+}

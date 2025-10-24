@@ -1,0 +1,12 @@
+{
+    "duration": 1.88, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아군을 공격하는 건 우리답지 못한 행동이에요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_03"
+}

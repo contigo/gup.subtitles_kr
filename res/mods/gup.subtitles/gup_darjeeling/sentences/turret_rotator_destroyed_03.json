@@ -1,0 +1,12 @@
+{
+    "duration": 3.88, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 구동 장치가 고장 났어요. 포탑을 움직일 수 없을 겁니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_03"
+}

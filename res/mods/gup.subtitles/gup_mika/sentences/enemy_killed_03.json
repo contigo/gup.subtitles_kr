@@ -1,0 +1,12 @@
+{
+    "duration": 1.67, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "적 전차 파괴 확인.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_03"
+}

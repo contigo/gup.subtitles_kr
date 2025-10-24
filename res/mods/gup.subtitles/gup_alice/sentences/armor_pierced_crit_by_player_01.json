@@ -1,0 +1,12 @@
+{
+    "duration": 1.81, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "적 전차에 대한 피해가 확인됐어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_01"
+}

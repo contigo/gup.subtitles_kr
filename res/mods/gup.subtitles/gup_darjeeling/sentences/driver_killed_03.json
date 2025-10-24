@@ -1,0 +1,12 @@
+{
+    "duration": 3.96, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "조종석이 피격당하고 있어요. 전투 속행, 가능하겠어요?", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_03"
+}

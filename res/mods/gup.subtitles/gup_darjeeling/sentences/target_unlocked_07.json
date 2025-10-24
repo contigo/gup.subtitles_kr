@@ -1,0 +1,12 @@
+{
+    "duration": 4.56, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이런 단순한 미끼 전략은 우리에게 통하지 않아요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_07"
+}

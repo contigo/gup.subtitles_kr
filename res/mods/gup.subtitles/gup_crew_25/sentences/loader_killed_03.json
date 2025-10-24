@@ -1,0 +1,12 @@
+{
+    "duration": 2.99, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "장전수가 피격됐습니다. 엄폐해야 합니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_03"
+}

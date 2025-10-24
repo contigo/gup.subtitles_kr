@@ -1,0 +1,12 @@
+{
+    "duration": 2.95, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비가 이제 작동해요. 반격할 준비를 하세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_14"
+}

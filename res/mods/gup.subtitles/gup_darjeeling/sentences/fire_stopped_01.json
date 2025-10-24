@@ -1,0 +1,12 @@
+{
+    "duration": 1.3, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "불길이 잡혔군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_01"
+}

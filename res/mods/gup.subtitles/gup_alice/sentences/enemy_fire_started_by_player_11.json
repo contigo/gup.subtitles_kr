@@ -1,0 +1,12 @@
+{
+    "duration": 2.19, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "엔진에 불이 붙은 것 같아요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_11"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.4, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "포탑이 걸렸어...!? 말도 안 돼, 유압이 나갔다고!?", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_02"
+}

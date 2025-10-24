@@ -1,0 +1,12 @@
+{
+    "duration": 4.23, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "좋아, 불은 껐어. 운 좋게 전차는 구했네...", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_05"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.73, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "불이 붙었잖아! 럭키 어스!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_03"
+}

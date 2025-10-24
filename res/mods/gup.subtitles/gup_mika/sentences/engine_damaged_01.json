@@ -1,0 +1,12 @@
+{
+    "duration": 1.67, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "엔진이 피격되었나?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.27, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "도탄? 전차를 타다 보면 일어나는 일이지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_06"
+}

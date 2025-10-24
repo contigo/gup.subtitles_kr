@@ -1,0 +1,12 @@
+{
+    "duration": 3.3, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "잘 봐. 앞을 가로막는 악은 내가 모두 부숴버릴 테니까.", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_02"
+}

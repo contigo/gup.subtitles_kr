@@ -1,0 +1,12 @@
+{
+    "duration": 2.9, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "불 껐어. 모두 괜찮은가?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_04"
+}

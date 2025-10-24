@@ -1,0 +1,12 @@
+{
+    "duration": 2.23, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "아무래도 주포를 맞은 것 같네...", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_02"
+}

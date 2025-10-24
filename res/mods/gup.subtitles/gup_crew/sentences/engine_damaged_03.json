@@ -1,0 +1,12 @@
+{
+    "duration": 4.03, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "엔진을 공격하다니... 제법인데...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_03"
+}

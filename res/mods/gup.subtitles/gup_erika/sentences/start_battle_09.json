@@ -1,0 +1,12 @@
+{
+    "duration": 5.73, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "이번 전투에서 찾아내겠어... 나만의 전차도를.", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_09"
+}

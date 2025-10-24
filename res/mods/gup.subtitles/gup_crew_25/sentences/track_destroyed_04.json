@@ -1,0 +1,12 @@
+{
+    "duration": 3.75, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "적이 우리 궤도를 파괴했어요. 움직일 수 없어요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_04"
+}

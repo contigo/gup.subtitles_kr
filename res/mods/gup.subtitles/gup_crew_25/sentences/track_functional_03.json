@@ -1,0 +1,12 @@
+{
+    "duration": 1.38, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도가 복구된 것 같습니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.17, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이런... 아군 사격이라니...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.49, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "마코 씨! 힘내요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_02"
+}

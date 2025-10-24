@@ -1,0 +1,12 @@
+{
+    "duration": 2.01, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "통신수석이 심하게 손상됐어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_01"
+}

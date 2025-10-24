@@ -1,0 +1,12 @@
+{
+    "duration": 1.31, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 전차 포착.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_04"
+}

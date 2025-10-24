@@ -1,0 +1,12 @@
+{
+    "duration": 4.57, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아야... 멀리 볼 수가 없잖아. 빨리 관측 장비 고치라고!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_07"
+}

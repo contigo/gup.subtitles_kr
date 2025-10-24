@@ -1,0 +1,18 @@
+{
+    "duration": 5.8, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "다즐링! 괜찮으신가요?", 
+                        "character": "assam", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "default", 
+                        "text": "음... 잠시 쉬어야 할 것 같군요...", 
+            "character": "darjeeling", 
+            "time": 2.33
+        }
+    ], 
+    "audio": "commander_killed_02"
+}

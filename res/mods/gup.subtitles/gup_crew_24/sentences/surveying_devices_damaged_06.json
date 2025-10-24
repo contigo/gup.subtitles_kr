@@ -1,0 +1,12 @@
+{
+    "duration": 4.4, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "관측 장비 피격. 곧 고장 날 거야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_06"
+}

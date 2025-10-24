@@ -1,0 +1,12 @@
+{
+    "duration": 3.33, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "이런, 궤도가 나갔잖아! 수리해!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_02"
+}

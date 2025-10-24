@@ -1,0 +1,12 @@
+{
+    "duration": 3.03, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "시야가 돌아왔어! 이제 전장을 읽을 수 있겠네!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_11"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.23, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "저기, 이상한 냄새 안 나? 연료가 새는 거 아니야!?", 
+            "character": "saori", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.62, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "쏘리, 나 좀 쉬어야겠어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_06"
+}

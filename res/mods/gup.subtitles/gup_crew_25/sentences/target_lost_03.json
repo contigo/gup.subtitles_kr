@@ -1,0 +1,12 @@
+{
+    "duration": 2.13, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "우리가... 목표를 놓쳤어요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_03"
+}

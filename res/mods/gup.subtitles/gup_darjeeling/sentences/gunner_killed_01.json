@@ -1,0 +1,12 @@
+{
+    "duration": 2.08, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포수석이 피격당하고 있어요. 상황 보고!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.23, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포탑 구동 장치가 파괴됐어요. 포탑이 움직이지 않는군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_01"
+}

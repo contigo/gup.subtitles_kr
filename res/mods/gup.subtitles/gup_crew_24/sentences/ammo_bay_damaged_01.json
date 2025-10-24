@@ -1,0 +1,12 @@
+{
+    "duration": 2.4, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "이런! 탄약고 피격!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_01"
+}

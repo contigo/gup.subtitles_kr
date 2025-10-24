@@ -1,0 +1,12 @@
+{
+    "duration": 2.24, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "걱정 말아요. 다음 한 발에 집중하면 된답니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_02"
+}

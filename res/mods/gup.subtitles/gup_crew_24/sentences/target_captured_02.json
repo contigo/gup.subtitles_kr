@@ -1,0 +1,12 @@
+{
+    "duration": 2.4, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "미카, 목표 포착!", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_02"
+}

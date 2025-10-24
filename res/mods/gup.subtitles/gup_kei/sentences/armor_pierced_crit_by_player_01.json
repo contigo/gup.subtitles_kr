@@ -1,0 +1,12 @@
+{
+    "duration": 1.81, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "괜찮아, 우리가 맞추고 있잖아!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.23, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "큰일이야...! 무전기가 손상됐어!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_01"
+}

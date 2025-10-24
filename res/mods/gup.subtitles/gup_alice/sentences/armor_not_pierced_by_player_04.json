@@ -1,0 +1,12 @@
+{
+    "duration": 1.85, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "목표를 맞췄지만, 효과는 미미했어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.53, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "움직일 수가 없어요! 수리를 서둘러요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_04"
+}

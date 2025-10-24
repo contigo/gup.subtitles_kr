@@ -1,0 +1,12 @@
+{
+    "duration": 5.02, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "관측 장비가 공격받고 있어요. 추가 손상은 기능 장애를 일으킬 수 있습니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_06"
+}

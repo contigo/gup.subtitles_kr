@@ -1,0 +1,12 @@
+{
+    "duration": 1.47, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "관측 장비 손상!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_01"
+}

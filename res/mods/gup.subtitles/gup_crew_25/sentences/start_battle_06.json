@@ -1,0 +1,24 @@
+{
+    "duration": 12.38, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "'그대의 영혼은 운명과 함께 가장 적합한 곳으로 인도될지니.'", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "셰익스피어의 명언이죠.", 
+                        "character": "orange_pekoe", 
+                        "time": 6.25
+                    },
+                    {
+                        "emotion": "excited", 
+                        "text": "우리는 오늘 이곳에서 싸우도록 운명 지어졌을지도 모릅니다.", 
+            "character": "darjeeling", 
+            "time": 8.35
+        }
+    ], 
+    "audio": "start_battle_06"
+}

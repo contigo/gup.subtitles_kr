@@ -1,0 +1,12 @@
+{
+    "duration": 4.86, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "장전수석이 피격됐습니다. 페코, 상황 보고를 부탁합니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_01"
+}

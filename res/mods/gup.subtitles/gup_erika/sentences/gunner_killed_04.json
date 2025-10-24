@@ -1,0 +1,12 @@
+{
+    "duration": 2.9, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포수석 피격! 명중률 저하에 대비해!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_04"
+}

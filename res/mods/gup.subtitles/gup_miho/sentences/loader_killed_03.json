@@ -1,0 +1,12 @@
+{
+    "duration": 2.2, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "유카리 씨! 다치지 않았어요?", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_03"
+}

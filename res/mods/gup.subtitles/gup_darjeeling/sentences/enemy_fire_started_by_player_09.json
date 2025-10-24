@@ -1,0 +1,12 @@
+{
+    "duration": 5.4, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "어머나, 저 불길 좀 보세요. 조금은 봐줄 걸 그랬나요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_09"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.23, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이건 아슬아슬했네. 다음엔 순풍이 불기를.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_05"
+}

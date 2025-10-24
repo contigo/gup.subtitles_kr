@@ -1,0 +1,12 @@
+{
+    "duration": 3.38, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "조종석이 공격받고 있어요. 상황 보고를 부탁해요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_02"
+}

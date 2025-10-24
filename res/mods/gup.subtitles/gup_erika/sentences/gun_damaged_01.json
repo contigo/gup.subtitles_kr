@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "주포 피격!? 피해 상황 보고해!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_01"
+}

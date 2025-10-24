@@ -1,0 +1,12 @@
+{
+    "duration": 3.97, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "연료 탱크가 손상됐어요. 이제 화재 위험이 더 커졌어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_02"
+}

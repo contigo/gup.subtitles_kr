@@ -1,0 +1,12 @@
+{
+    "duration": 1.31, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "주포가 심하게 손상됐어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_01"
+}

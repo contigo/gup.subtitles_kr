@@ -1,0 +1,12 @@
+{
+    "duration": 5.1, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "통신수석 피격! 아군과의 연계가 잘 안될 테니, 당황하지 마!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_04"
+}

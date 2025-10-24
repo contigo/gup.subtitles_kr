@@ -1,0 +1,12 @@
+{
+    "duration": 8.88, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "제대로 된 샌드위치에서 가장 맛있는 부분은 빵이 아니라, 안에 들어있는 오이랍니다. 모든 맛은 속재료에서 나오는 법이죠.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_19"
+}

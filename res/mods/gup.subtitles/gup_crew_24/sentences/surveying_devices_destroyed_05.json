@@ -1,0 +1,18 @@
+{
+    "duration": 5.77, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "아... 관측 장비가...", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "worried", 
+                        "text": "안 보인다고 말하지 마!?", 
+            "character": "mikko", 
+            "time": 2.78
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_05"
+}

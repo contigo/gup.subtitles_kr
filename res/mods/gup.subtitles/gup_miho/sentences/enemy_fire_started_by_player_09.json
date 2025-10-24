@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "포탄이 적 전차의 연료 탱크에 명중한 걸 확인했어요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_09"
+}

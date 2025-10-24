@@ -1,0 +1,12 @@
+{
+    "duration": 4.68, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포탑 구동 장치가 손상되었습니다. 회전 속도 저하에 유의하십시오.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_02"
+}

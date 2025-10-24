@@ -1,0 +1,12 @@
+{
+    "duration": 1.97, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "와우! 정말 좋았어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_05"
+}

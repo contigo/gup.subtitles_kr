@@ -1,0 +1,12 @@
+{
+    "duration": 3.37, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+"text": "엔진 파괴! 움직일 수가 없잖아!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_04"
+}

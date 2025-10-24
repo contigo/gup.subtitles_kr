@@ -1,0 +1,12 @@
+{
+    "duration": 2.87, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "아아! 무전기가 고장 났어!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_02"
+}

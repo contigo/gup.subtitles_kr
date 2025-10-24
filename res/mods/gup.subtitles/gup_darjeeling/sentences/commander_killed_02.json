@@ -1,0 +1,12 @@
+{
+    "duration": 3.57, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "으윽... 잠시 쉬어야 할 것 같군요...", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_02"
+}

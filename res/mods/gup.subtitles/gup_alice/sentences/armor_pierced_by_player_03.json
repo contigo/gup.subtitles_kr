@@ -1,0 +1,12 @@
+{
+    "duration": 2.04, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "저 포탄은 확실히 장갑을 뚫었어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_03"
+}

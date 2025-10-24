@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "주포 기능 복구. 다시 발사할 수 있어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_04"
+}

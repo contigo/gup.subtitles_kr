@@ -1,0 +1,12 @@
+{
+    "duration": 2.19, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "화재가 발생했어요. 최대한 빨리 꺼주세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_05"
+}

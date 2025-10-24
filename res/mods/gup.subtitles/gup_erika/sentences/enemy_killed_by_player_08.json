@@ -1,0 +1,12 @@
+{
+    "duration": 1.9, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "좋았어어어어! 기분 최고야!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_08"
+}

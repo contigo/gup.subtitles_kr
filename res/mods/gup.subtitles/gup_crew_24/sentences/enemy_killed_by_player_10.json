@@ -1,0 +1,12 @@
+{
+    "duration": 4.3, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "차량 한 대 격파. 헤헤, 매번 요코에게만 의지할 수는 없지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_10"
+}

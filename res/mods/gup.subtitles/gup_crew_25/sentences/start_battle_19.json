@@ -1,0 +1,24 @@
+{
+    "duration": 9.67, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "제대로 된 샌드위치에서 가장 맛있는 부분은 빵이 아니라, 안에 들어있는 오이랍니다.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "worried", 
+                        "text": "네?", 
+                        "character": "orange_pekoe", 
+                        "time": 6.0
+                    },
+                    {
+                        "emotion": "focused", 
+                        "text": "모든 풍미를 제공하는 것은 속 재료니까요.", 
+            "character": "darjeeling", 
+            "time": 7.15
+        }
+    ], 
+    "audio": "start_battle_19"
+}

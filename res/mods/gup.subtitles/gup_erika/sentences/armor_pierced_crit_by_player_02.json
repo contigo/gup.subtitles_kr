@@ -1,0 +1,12 @@
+{
+    "duration": 2.87, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "아... 괜찮아! 피해를 줬을 거야!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.93, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "아야... 관측 장비가... 계속 맞으면 위험해...", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_07"
+}

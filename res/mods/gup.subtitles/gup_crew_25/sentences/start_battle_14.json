@@ -1,0 +1,18 @@
+{
+    "duration": 7.08, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "우리의 전투가 공정하기를 바랍니다.", 
+                        "character": "orange_pekoe", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "오늘의 전략을 예비 지휘관님께 들어볼까요?", 
+            "character": "darjeeling", 
+            "time": 2.66
+        }
+    ], 
+    "audio": "start_battle_14"
+}

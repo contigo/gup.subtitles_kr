@@ -1,0 +1,18 @@
+{
+    "duration": 6.54, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "아삼, 상대방에 대한 정보를 알려주세요.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "GI6에서 수집한 보고서가 여기 있습니다.", 
+            "character": "assam", 
+            "time": 3.75
+        }
+    ], 
+    "audio": "start_battle_16"
+}

@@ -1,0 +1,18 @@
+{
+    "duration": 3.76, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "불이 진화됐어요!", 
+                        "character": "orange_pekoe", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "excited", 
+                        "text": "고마워요 페코.", 
+            "character": "darjeeling", 
+            "time": 2.56
+        }
+    ], 
+    "audio": "fire_stopped_04"
+}

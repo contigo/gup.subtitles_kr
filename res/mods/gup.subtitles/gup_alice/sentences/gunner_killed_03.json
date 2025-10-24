@@ -1,0 +1,12 @@
+{
+    "duration": 1.83, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포수석에 직격탄인가요?", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_03"
+}

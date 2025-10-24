@@ -1,0 +1,12 @@
+{
+    "duration": 4.92, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "적이 엔진을 노리고 있어요. 조심하세요, 기동성이 떨어졌으니까.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_06"
+}

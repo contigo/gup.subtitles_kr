@@ -1,0 +1,12 @@
+{
+    "duration": 2.8, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "전력을 다할 거예요. 모두 긴장을 늦추지 마세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_11"
+}

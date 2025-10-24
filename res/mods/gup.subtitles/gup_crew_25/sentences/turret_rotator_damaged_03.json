@@ -1,0 +1,12 @@
+{
+    "duration": 5.5, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포탑 구동 장치가 피격됐어요. 회전 속도 저하에 유의하세요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 7.8, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "침착하게 후퇴하세요. 우리 세인트 글로리아나는 언제나 우아함을 잃지 않아야 하니까요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_01"
+}

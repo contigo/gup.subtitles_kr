@@ -1,0 +1,12 @@
+{
+    "duration": 2.97, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이 전차는 아군에게 맡기도록 하죠.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_11"
+}

@@ -1,0 +1,14 @@
+<root>
+
+	<!-- Techical MOD ID -->
+	<id>gup.subtitles</id>
+
+	<!-- Package version -->
+	<version>1.2.2</version>
+
+	<!-- Human readable name -->
+	<name>subtitles</name>
+
+	<!-- Human readable description -->
+	<description>subtitles</description>
+</root>

@@ -1,0 +1,12 @@
+{
+    "duration": 1.95, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적이 관측 장비를 공격하고 있어요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_02"
+}

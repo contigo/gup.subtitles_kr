@@ -1,0 +1,12 @@
+{
+    "duration": 5.07, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포를 수리했어요. 하지만 명중률은 여전히 떨어져요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_03"
+}

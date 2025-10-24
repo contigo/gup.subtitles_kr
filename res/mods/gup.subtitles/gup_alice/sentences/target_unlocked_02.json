@@ -1,0 +1,12 @@
+{
+    "duration": 1.59, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "목표를 바꾸죠.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_02"
+}

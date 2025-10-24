@@ -1,0 +1,18 @@
+{
+    "duration": 3.8, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "포 수리 완료!", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "가자아아! 반격할 시간이야!", 
+            "character": "mikko", 
+            "time": 1.51
+        }
+    ], 
+    "audio": "gun_functional_02"
+}

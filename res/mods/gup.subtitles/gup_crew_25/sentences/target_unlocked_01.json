@@ -1,0 +1,12 @@
+{
+    "duration": 1.64, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "목표를 바꾸죠.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_01"
+}

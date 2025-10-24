@@ -1,0 +1,12 @@
+{
+    "duration": 2.61, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "우리 무전기가 피격당했어요. 잘했네요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_04"
+}

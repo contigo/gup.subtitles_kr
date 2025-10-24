@@ -1,0 +1,12 @@
+{
+    "duration": 4.32, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "연료 탱크를 맞았군요. 한 발 더 맞으면 위험하겠어요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_02"
+}

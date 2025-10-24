@@ -1,0 +1,12 @@
+{
+    "duration": 3.5, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "이 냄새... 우리 연료가 새는 거야!?", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_01"
+}

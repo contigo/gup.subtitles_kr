@@ -1,0 +1,12 @@
+{
+    "duration": 1.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "목표 포착!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_01"
+}

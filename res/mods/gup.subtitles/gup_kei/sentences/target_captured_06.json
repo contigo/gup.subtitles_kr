@@ -1,0 +1,12 @@
+{
+    "duration": 1.06, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "놓치지 않아!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_06"
+}

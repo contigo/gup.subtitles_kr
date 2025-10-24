@@ -1,0 +1,12 @@
+{
+    "duration": 3.37, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "포탑 제어 장치가 당했어!? 어서 고쳐!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_01"
+}

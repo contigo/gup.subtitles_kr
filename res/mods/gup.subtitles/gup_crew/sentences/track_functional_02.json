@@ -1,0 +1,12 @@
+{
+    "duration": 2.63, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "기다려주셔서 감사합니다! 궤도 수리 완료!", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_02"
+}

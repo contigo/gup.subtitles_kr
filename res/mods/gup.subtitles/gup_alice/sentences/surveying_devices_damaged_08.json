@@ -1,0 +1,12 @@
+{
+    "duration": 1.96, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "적의 목표는 관측 장비예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_08"
+}

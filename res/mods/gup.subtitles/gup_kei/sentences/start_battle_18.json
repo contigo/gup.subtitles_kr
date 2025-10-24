@@ -1,0 +1,12 @@
+{
+    "duration": 4.66, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "페어 플레이를 환영해! 우리는 언제나 오픈이야!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_18"
+}

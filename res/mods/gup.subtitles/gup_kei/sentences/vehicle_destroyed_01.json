@@ -1,0 +1,12 @@
+{
+    "duration": 5.28, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이게 끝인가. 아쉽지만, 저들이 한 수 위였어.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_01"
+}

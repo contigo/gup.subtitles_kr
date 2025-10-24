@@ -1,0 +1,12 @@
+{
+    "duration": 3.03, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "궤도 피격! 다음 한 발은 못 버틸 거야.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_04"
+}

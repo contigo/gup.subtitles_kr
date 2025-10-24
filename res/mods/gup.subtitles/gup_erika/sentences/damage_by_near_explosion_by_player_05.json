@@ -1,0 +1,12 @@
+{
+    "duration": 2.37, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "나쁘지 않아! 다음엔 직격이야!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_05"
+}

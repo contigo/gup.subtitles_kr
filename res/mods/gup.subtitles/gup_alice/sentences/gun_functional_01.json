@@ -1,0 +1,12 @@
+{
+    "duration": 3.69, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "주포가 다시 작동하지만, 명중률이 떨어졌어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_01"
+}

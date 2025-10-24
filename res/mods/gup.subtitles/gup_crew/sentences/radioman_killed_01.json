@@ -1,0 +1,12 @@
+{
+    "duration": 5.67, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "우와! 내 심장을 두근거리게 하는 건 잘생긴 남자들뿐인데!", 
+            "character": "saori", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_01"
+}

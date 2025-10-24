@@ -1,0 +1,12 @@
+{
+    "duration": 2.4, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "좋아, 어떻게든 불을 껐어요!", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_04"
+}

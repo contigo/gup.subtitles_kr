@@ -1,0 +1,12 @@
+{
+    "duration": 2.33, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "피격됐습니다. 효과가 있군요.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_02"
+}

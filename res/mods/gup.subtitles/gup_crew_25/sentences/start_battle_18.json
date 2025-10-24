@@ -1,0 +1,24 @@
+{
+    "duration": 10.33, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "이 명언을 들어보셨나요? '오늘 이룰 수 있는 일에 전력을 다하라'.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "아이작 뉴턴 경의 말씀이죠?", 
+                        "character": "orange_pekoe", 
+                        "time": 6.37
+                    },
+                    {
+                        "emotion": "excited", 
+                        "text": "승리를 위해 전력을 다합시다.", 
+            "character": "darjeeling", 
+            "time": 8.62
+        }
+    ], 
+    "audio": "start_battle_18"
+}

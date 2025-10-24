@@ -1,0 +1,12 @@
+{
+    "duration": 3.63, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "포가 작동해. 반격하자.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_04"
+}

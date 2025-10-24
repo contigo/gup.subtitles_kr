@@ -1,0 +1,12 @@
+{
+    "duration": 12.5, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "인간은 실수를 저지르기 위해 태어난 존재. 중요한 건 거기서 무엇을 배우느냐지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_04"
+}

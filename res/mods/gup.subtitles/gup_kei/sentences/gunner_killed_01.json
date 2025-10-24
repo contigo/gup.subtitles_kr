@@ -1,0 +1,12 @@
+{
+    "duration": 1.43, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "우리 포수가 부상당했어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_01"
+}

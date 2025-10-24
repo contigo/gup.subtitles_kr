@@ -1,0 +1,12 @@
+{
+    "duration": 3.53, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "완벽하진 않지만, 이제 쏠 수는 있을 것 같아요.", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_03"
+}

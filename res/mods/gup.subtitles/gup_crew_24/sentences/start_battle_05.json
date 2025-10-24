@@ -1,0 +1,18 @@
+{
+    "duration": 2.6, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "가자, 밋코.", 
+                        "character": "mika", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "예!", 
+            "character": "mikko", 
+            "time": 1.42
+        }
+    ], 
+    "audio": "start_battle_05"
+}

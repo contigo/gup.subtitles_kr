@@ -1,0 +1,12 @@
+{
+    "duration": 2.33, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "아슬아슬했어! 다음엔 맞출 거야!", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_02"
+}

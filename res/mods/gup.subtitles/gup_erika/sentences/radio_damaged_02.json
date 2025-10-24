@@ -1,0 +1,12 @@
+{
+    "duration": 2.57, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "뭐... 무전기가 맞았다고!?", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_02"
+}

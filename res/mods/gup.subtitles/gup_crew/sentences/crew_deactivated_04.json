@@ -1,0 +1,12 @@
+{
+    "duration": 1.97, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "모두들, 조심하세요!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_04"
+}

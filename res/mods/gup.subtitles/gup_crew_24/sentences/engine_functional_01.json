@@ -1,0 +1,12 @@
+{
+    "duration": 3.33, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "나이스! 엔진 수리 완료! 가자!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_functional_01"
+}

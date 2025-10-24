@@ -1,0 +1,12 @@
+{
+    "duration": 4.9, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "장전수석이 당했잖아!? 재장전이 느려지겠어...", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_02"
+}

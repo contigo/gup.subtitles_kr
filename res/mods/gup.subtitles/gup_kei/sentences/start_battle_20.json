@@ -1,0 +1,12 @@
+{
+    "duration": 5.08, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "다음 상대는 누구? 우리 선더스는 언제나 좋은 싸움을 환영해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_20"
+}

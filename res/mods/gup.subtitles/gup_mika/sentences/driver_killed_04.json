@@ -1,0 +1,12 @@
+{
+    "duration": 4.33, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "조종수석이 손상되었어. 속도가 느려지겠군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_04"
+}

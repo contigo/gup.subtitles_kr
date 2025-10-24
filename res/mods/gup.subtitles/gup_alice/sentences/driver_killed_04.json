@@ -1,0 +1,12 @@
+{
+    "duration": 3.56, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "적이 조종석을 노리고 있어요. 상황 보고를 부탁해요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_04"
+}

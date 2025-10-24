@@ -1,0 +1,12 @@
+{
+    "duration": 7.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "나의 전차도는... 전통에 얽매이지 않아, 나만의 방식일 뿐이야.", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_18"
+}

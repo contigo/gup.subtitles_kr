@@ -1,0 +1,18 @@
+{
+    "duration": 4.97, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "적 차량 침묵. 다음 사냥감을 준비해.", 
+                        "character": "mika", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "예스 썰!", 
+            "character": "mikko", 
+            "time": 3.75
+        }
+    ], 
+    "audio": "enemy_killed_by_player_07"
+}

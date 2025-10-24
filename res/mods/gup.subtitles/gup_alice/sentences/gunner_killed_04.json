@@ -1,0 +1,12 @@
+{
+    "duration": 2.81, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포수석이 피격당했어요. 상황 보고를 부탁해요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_04"
+}

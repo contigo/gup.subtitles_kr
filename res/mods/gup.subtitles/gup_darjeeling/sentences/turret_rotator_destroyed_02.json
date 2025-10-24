@@ -1,0 +1,12 @@
+{
+    "duration": 4.7, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포탑 구동 장치가 파괴됐어요. 즉시 수리해 줄 거라 믿어도 되죠?", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_02"
+}

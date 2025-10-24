@@ -1,0 +1,12 @@
+{
+    "duration": 2.93, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "죄송해요... 적 전차를 놓쳐버렸어요...", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_02"
+}

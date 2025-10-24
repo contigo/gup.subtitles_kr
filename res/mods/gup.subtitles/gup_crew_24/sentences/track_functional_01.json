@@ -1,0 +1,12 @@
+{
+    "duration": 2.33, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "가자아아! 궤도 복구!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_01"
+}

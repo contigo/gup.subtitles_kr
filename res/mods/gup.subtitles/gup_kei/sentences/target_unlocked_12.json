@@ -1,0 +1,12 @@
+{
+    "duration": 2.95, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "지금 타겟 변경! 서둘러!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_12"
+}

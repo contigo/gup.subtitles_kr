@@ -1,0 +1,12 @@
+{
+    "duration": 3.6, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "도탄!? 요코가 나를 비웃을 거야...", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_08"
+}

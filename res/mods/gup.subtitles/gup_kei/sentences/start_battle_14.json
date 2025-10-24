@@ -1,0 +1,12 @@
+{
+    "duration": 3.82, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "시합 시작! 모두 페어 플레이를 기대할게!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_14"
+}

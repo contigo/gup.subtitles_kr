@@ -1,0 +1,12 @@
+{
+    "duration": 2.37, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "아슬아슬했어! 다음엔 꼭 맞추자!", 
+            "character": "saori", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_03"
+}

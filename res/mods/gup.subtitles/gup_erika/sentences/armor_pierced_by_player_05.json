@@ -1,0 +1,12 @@
+{
+    "duration": 1.9, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "강호의 실력을 똑똑히 보라고!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_05"
+}

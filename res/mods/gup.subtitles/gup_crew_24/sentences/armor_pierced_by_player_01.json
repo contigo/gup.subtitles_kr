@@ -1,0 +1,12 @@
+{
+    "duration": 2.7, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "나이스 아키! 관통했어!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_01"
+}

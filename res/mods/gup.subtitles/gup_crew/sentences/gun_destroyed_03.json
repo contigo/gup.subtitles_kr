@@ -1,0 +1,12 @@
+{
+    "duration": 2.93, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "쏠 수가 없어요, 포신을 고쳐야 해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_03"
+}

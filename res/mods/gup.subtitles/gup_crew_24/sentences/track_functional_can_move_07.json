@@ -1,0 +1,12 @@
+{
+    "duration": 2.7, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "궤도 복구. 반격하자.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_07"
+}

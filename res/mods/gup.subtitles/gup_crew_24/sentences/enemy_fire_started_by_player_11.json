@@ -1,0 +1,12 @@
+{
+    "duration": 2.93, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "에? 불이야!? 괜찮은 거야!?", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_11"
+}

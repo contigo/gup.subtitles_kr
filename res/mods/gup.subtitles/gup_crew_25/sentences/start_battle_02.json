@@ -1,0 +1,18 @@
+{
+    "duration": 16.1, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "아, 제 찻잎 줄기가 똑바로 떠 있군요. 이것은 멋진 분이 방문할 것이라는 의미라는 것을 아시나요?", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "worried", 
+                        "text": "존경하는 마음으로 말씀드리지만, 그들이 '멋진' 분이든 아니든 이미 와 있어요...", 
+            "character": "orange_pekoe", 
+            "time": 10.65
+        }
+    ], 
+    "audio": "start_battle_02"
+}

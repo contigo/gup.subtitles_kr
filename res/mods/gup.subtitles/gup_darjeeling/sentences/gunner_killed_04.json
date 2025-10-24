@@ -1,0 +1,12 @@
+{
+    "duration": 3.64, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포수가 부상당했어요. 안타깝지만, 명중률이 떨어질 수밖에 없겠네요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_04"
+}

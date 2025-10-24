@@ -1,0 +1,12 @@
+{
+    "duration": 3.7, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포수석을 노리는군. 솜씨가 좋네.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_02"
+}

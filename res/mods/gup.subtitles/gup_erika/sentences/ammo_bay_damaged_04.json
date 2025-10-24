@@ -1,0 +1,12 @@
+{
+    "duration": 2.43, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "탄약고 손상! 빨리 처리해!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_04"
+}

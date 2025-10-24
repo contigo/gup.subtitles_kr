@@ -1,0 +1,12 @@
+{
+    "duration": 1.83, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "포신, 어떻게든 고쳤어요!", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_02"
+}

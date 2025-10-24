@@ -1,0 +1,12 @@
+{
+    "duration": 5.6, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "젠장... 내 전차도에... 대체 뭐가 부족한 거지?", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_04"
+}

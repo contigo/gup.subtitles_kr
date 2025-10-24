@@ -1,0 +1,12 @@
+{
+    "duration": 1.72, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "목표를 전환하죠.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_08"
+}

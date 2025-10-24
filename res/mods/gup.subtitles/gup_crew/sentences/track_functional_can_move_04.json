@@ -1,0 +1,12 @@
+{
+    "duration": 4.13, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "궤도 수리 완료... 니시즈미 씨, 움직일 수 있어...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_04"
+}

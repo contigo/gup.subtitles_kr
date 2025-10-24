@@ -1,0 +1,12 @@
+{
+    "duration": 5.55, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "오늘 즐거웠습니다. 다음엔 정식 시합에서 만나도록 하죠.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_03"
+}

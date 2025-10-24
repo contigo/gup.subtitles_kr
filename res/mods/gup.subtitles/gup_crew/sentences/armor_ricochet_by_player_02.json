@@ -1,0 +1,12 @@
+{
+    "duration": 1.5, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "우리 포탄이 피해를 주지 못했군요...", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.75, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "화재 발생. 즉시 통제 하에 두어야 합니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_04"
+}

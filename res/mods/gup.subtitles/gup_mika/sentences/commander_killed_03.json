@@ -1,0 +1,12 @@
+{
+    "duration": 1.47, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "너무 애쓸 필요는 없어.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_03"
+}

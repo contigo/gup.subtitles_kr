@@ -1,0 +1,18 @@
+{
+    "duration": 10.81, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "모두 잘 들으세요. 지금이야말로 우리의 전차도를 빛낼 시간입니다!", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "네! 최선을 다합시다, 다즐링 님!", 
+            "character": "orange_pekoe", 
+            "time": 8.05
+        }
+    ], 
+    "audio": "start_battle_21"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 0.92, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "빗나갔어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.78, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "저 전차의 장갑이 우리 포탄을 버텨낼 리가 없죠.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_02"
+}

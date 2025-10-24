@@ -1,0 +1,12 @@
+{
+    "duration": 2.93, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "적 차량이... 사라졌어요...", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_03"
+}

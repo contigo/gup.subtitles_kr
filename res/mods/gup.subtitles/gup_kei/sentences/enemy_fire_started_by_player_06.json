@@ -1,0 +1,12 @@
+{
+    "duration": 2.48, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "와우! 불이야!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_06"
+}

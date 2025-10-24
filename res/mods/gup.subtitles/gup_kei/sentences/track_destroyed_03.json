@@ -1,0 +1,12 @@
+{
+    "duration": 3.53, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "궤도를 당했어! 페어 플레이가 아니잖아!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_03"
+}

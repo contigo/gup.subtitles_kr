@@ -1,0 +1,12 @@
+{
+    "duration": 1.95, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "다른 전차로 목표 변경.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_06"
+}

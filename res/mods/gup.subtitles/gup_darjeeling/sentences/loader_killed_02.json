@@ -1,0 +1,12 @@
+{
+    "duration": 4.73, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "적이 장전수석을 맞췄군요. 발사 속도가 눈에 띄게 느려질 거예요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_02"
+}

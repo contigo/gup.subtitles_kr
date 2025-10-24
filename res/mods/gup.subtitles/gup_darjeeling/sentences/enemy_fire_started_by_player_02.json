@@ -1,0 +1,12 @@
+{
+    "duration": 1.71, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "적 전차에서 화재가 발생했어요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_02"
+}

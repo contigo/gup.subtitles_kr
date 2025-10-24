@@ -1,0 +1,12 @@
+{
+    "duration": 2.57, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "궤도 피격! 더 이상 맞으면 위험해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_02"
+}

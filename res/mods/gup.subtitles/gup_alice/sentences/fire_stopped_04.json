@@ -1,0 +1,12 @@
+{
+    "duration": 2.32, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "불이 꺼졌어요. 각자의 위치로 돌아가세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_04"
+}

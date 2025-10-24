@@ -1,0 +1,18 @@
+{
+    "duration": 5.5, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포 손상. 명중률이 낮아질 거야.", 
+                        "character": "mika", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "sad", 
+                        "text": "에에... (울음)", 
+            "character": "aki", 
+            "time": 3.75
+        }
+    ], 
+    "audio": "gun_damaged_03"
+}

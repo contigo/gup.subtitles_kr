@@ -1,0 +1,12 @@
+{
+    "duration": 3.72, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "다른 무언가로 저 전차의 장갑을 꿰뚫어야 할 것 같군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.7, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "우리 포수석을 노리는군. 제법인데.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_04"
+}

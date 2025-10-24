@@ -1,0 +1,12 @@
+{
+    "duration": 2.53, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "니시즈미 님, 괜찮으십니까!?", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.4, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "가자! '돌격 작전'이에요! 전차 전진!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_18"
+}

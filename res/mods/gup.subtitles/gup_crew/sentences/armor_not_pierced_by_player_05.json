@@ -1,0 +1,12 @@
+{
+    "duration": 2.2, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "단단하네요... 너무 단단해요...", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_05"
+}

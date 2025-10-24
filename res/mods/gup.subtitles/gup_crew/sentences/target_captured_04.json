@@ -1,0 +1,12 @@
+{
+    "duration": 2.7, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "미호 씨, 사격 허가를!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_04"
+}

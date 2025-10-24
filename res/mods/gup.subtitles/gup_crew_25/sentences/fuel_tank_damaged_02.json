@@ -1,0 +1,12 @@
+{
+    "duration": 4.33, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "연료 탱크가 피격됐습니다. 한 번 더 맞으면 버티지 못할 것 같군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_02"
+}

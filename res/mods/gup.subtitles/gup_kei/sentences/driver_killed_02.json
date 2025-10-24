@@ -1,0 +1,12 @@
+{
+    "duration": 3.22, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "우리 드라이버를 노리고 있잖아! 괜찮아?", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_02"
+}

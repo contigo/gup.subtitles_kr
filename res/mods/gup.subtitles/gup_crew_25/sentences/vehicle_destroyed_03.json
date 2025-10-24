@@ -1,0 +1,24 @@
+{
+    "duration": 12.39, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "'인생은 이해하기 위해 살아야 하는 일련의 교훈이다.'", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "미국 사상가 랄프 왈도 에머슨의 말이죠?", 
+                        "character": "orange_pekoe", 
+                        "time": 5.58
+                    },
+                    {
+                        "emotion": "focused", 
+                        "text": "우리는 교훈을 얻었습니다.", 
+            "character": "darjeeling", 
+            "time": 10.05
+        }
+    ], 
+    "audio": "vehicle_destroyed_03"
+}

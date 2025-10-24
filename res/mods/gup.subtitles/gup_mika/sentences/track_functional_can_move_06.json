@@ -1,0 +1,12 @@
+{
+    "duration": 7.43, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "그래, 이제 움직일 수 있어. 인생에서도 전차도에서도 흔한 고난은 어떻게든 해결되지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_06"
+}

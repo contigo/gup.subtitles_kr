@@ -1,0 +1,12 @@
+{
+    "duration": 2.97, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "미카, 적 전차가 파괴된 것 같아.", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_03"
+}

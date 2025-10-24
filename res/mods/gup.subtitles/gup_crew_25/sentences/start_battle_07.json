@@ -1,0 +1,24 @@
+{
+    "duration": 10.01, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "모두 준비됐나요? 성 글로리아나의 우리는 항상 우아함을 유지해야 한다는 것을 기억하세요.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "알겠습니다!", 
+                        "character": "assam", 
+                        "time": 9.45
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "알겠습니다!", 
+            "character": "orange_pekoe", 
+            "time": 9.7
+        }
+    ], 
+    "audio": "start_battle_07"
+}

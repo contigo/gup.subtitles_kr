@@ -1,0 +1,12 @@
+{
+    "duration": 2.6, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "목표 포착! 놓치지 않아!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_06"
+}

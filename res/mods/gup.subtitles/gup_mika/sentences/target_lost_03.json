@@ -1,0 +1,12 @@
+{
+    "duration": 4.0, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "표적 상실. 주변을 확인하는 게 좋겠어.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.63, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "탄약고를 노리고 있어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.57, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "적 차량에 불이 붙었어! 미카, 어떻게 해야 해...?", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_12"
+}

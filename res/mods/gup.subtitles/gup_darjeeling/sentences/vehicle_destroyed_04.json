@@ -1,0 +1,12 @@
+{
+    "duration": 3.92, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "훌륭한 솜씨였어요. 이름이 어떻게 되시죠?", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_04"
+}

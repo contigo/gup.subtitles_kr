@@ -1,0 +1,12 @@
+{
+    "duration": 3.8, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "관측 장비 수리 완료. 이제 다시 제대로 볼 수 있을 겁니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_06"
+}

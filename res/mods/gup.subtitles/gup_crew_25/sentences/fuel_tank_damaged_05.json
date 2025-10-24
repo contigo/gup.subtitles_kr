@@ -1,0 +1,12 @@
+{
+    "duration": 3.69, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "연료 탱크가 피격됐어요. 불이 나지 않도록 조심해요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_05"
+}

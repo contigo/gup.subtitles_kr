@@ -1,0 +1,12 @@
+{
+    "duration": 2.99, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "엔진을 맞았어요. 기동성이 저하됐어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 5.23, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "통신수석 피격! 어떻게 해야 해, 팀원들과 연결할 수 없어.", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_03"
+}

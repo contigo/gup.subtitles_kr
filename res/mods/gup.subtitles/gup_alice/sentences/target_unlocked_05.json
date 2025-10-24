@@ -1,0 +1,12 @@
+{
+    "duration": 1.64, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "너무 무리해서 쫓아갈 필요는 없어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_05"
+}

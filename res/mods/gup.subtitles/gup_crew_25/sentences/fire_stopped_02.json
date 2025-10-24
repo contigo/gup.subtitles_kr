@@ -1,0 +1,12 @@
+{
+    "duration": 0.95, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "불을 껐습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_02"
+}

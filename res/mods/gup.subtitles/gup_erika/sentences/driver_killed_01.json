@@ -1,0 +1,12 @@
+{
+    "duration": 2.17, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "조종석!? 피해 상황 보고해!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_01"
+}

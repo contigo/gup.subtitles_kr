@@ -1,0 +1,12 @@
+{
+    "duration": 5.3, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관통 실패. 데이터에 따르면 저 지점을 관통할 확률은 낮습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_04"
+}

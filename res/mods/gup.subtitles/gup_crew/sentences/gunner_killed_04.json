@@ -1,0 +1,12 @@
+{
+    "duration": 2.13, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "이즈즈 님! 괜찮으십니까!?", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_04"
+}

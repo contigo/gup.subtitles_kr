@@ -1,0 +1,12 @@
+{
+    "duration": 1.16, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "우리 드라이버가 부상당했어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_01"
+}

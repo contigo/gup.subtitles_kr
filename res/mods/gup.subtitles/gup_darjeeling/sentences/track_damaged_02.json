@@ -1,0 +1,12 @@
+{
+    "duration": 2.59, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "궤도를 맞았군요. 신중하게 나아가세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_02"
+}

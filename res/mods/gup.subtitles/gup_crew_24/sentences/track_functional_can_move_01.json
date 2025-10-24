@@ -1,0 +1,12 @@
+{
+    "duration": 1.6, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "궤도 수리 완료! 반격하자!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.45, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "탄약고를 노린다고? 페어 플레이가 아니잖아!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_03"
+}

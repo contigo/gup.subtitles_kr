@@ -1,0 +1,12 @@
+{
+    "duration": 3.43, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포가 걸렸어! 미카아, 어떻게 해야 해 (울음)", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_02"
+}

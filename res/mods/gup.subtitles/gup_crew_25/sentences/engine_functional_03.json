@@ -1,0 +1,12 @@
+{
+    "duration": 4.12, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "엔진이 다시 작동합니다. 기동성이 복구되었을 겁니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_functional_03"
+}

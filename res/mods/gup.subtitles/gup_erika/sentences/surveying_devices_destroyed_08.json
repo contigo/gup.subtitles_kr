@@ -1,0 +1,12 @@
+{
+    "duration": 5.83, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "관측 장비가 손상돼서 시야가 좁아졌어! 가까운 적부터 노린다!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_08"
+}

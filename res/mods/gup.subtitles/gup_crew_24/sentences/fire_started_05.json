@@ -1,0 +1,12 @@
+{
+    "duration": 2.3, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "아아! 불타고 있어!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_05"
+}

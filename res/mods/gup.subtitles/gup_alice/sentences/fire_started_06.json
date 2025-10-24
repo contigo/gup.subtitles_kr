@@ -1,0 +1,12 @@
+{
+    "duration": 2.55, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "불이 났어요. 좋지 않네요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_06"
+}

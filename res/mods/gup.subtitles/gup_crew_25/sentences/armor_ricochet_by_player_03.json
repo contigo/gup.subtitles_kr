@@ -1,0 +1,18 @@
+{
+    "duration": 7.63, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포탄이 튕겨나갔지만, 걱정 마세요. 그저 침착하게 다음 포탄을 장전하면 된답니다.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "default", 
+                        "text": "알겠습니다!", 
+            "character": "orange_pekoe", 
+            "time": 6.75
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_03"
+}

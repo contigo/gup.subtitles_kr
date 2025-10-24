@@ -1,0 +1,12 @@
+{
+    "duration": 2.53, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "좋아요. 적 전차를 파괴했어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 7.79, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "침착하게 후퇴하세요. 성 글로리아나의 우리는 항상 우아함을 유지해야 합니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_01"
+}

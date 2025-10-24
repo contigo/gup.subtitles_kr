@@ -1,0 +1,12 @@
+{
+    "duration": 4.1, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "도탄!? 정말 단단한 장갑이네요...", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_04"
+}

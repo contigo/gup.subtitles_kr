@@ -1,0 +1,12 @@
+{
+    "duration": 5.96, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "방금 소리는 주포가 손상된 것 같군요. 명중률이 떨어졌을 테니 유의하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_03"
+}

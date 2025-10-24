@@ -1,0 +1,18 @@
+{
+    "duration": 2.44, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "진화를 부탁해도 될까요?", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "default", 
+                        "text": "알겠습니다.", 
+            "character": "assam", 
+            "time": 2.15
+        }
+    ], 
+    "audio": "fire_started_02"
+}

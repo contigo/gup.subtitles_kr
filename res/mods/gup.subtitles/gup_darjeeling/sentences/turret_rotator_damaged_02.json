@@ -1,0 +1,12 @@
+{
+    "duration": 4.58, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 구동 장치가 피격당했어요. 회전 속도가 느려졌으니 유의하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_02"
+}

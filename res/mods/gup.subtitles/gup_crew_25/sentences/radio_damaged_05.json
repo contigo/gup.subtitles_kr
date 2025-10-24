@@ -1,0 +1,12 @@
+{
+    "duration": 4.32, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "무전기를 무력화시키려 하고 있습니다. 그들의 목표는 우리의 협력을 방해하는 것입니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_05"
+}

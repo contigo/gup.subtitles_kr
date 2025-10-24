@@ -1,0 +1,12 @@
+{
+    "duration": 2.69, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "좋아, 목표를 바꿔요.", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_03"
+}

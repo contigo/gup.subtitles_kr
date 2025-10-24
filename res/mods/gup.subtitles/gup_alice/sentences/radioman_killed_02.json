@@ -1,0 +1,12 @@
+{
+    "duration": 2.85, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "통신수가 피격당했어요. 계속할 수 있겠어요?", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_02"
+}

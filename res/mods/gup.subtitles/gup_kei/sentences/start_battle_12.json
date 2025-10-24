@@ -1,0 +1,12 @@
+{
+    "duration": 4.47, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "드디어 시합 시작! 펀하게 즐겨보자!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_12"
+}

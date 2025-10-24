@@ -1,0 +1,12 @@
+{
+    "duration": 2.33, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "아군을 맞힐지도 몰라요, 조심하세요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_03"
+}

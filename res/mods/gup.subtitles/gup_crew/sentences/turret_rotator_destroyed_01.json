@@ -1,0 +1,12 @@
+{
+    "duration": 4.6, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "미호 씨, 더 이상 포탑을 돌릴 수 없어요...", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.13, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "우리 통신수석이 피격되었어. 아직 싸울 수 있을까?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_03"
+}

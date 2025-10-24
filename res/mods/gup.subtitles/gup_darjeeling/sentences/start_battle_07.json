@@ -1,0 +1,12 @@
+{
+    "duration": 9.02, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "모두 준비됐나요? 우리 세인트 글로리아나는 언제나 우아함을 잃지 말아야 한다는 걸 기억하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_07"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.85, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "즐거운 시합이 되기를 기대해요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_21"
+}

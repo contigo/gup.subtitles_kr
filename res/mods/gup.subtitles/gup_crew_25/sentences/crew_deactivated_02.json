@@ -1,0 +1,12 @@
+{
+    "duration": 1.34, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "여기까지인 것 같군요...", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 6.28, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "우리가 패배한 건가요? 걱정 마세요, 그저 품위있게 후퇴하면 된답니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_04"
+}

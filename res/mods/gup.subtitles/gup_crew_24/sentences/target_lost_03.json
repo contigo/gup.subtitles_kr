@@ -1,0 +1,12 @@
+{
+    "duration": 4.5, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "목표 상실. 미카, 다음은 누구야?", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_03"
+}

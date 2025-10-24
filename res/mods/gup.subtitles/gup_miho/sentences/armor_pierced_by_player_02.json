@@ -1,0 +1,12 @@
+{
+    "duration": 2.5, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "명중! 대단해요, 하나 씨!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_02"
+}

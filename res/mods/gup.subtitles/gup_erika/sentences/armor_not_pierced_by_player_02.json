@@ -1,0 +1,12 @@
+{
+    "duration": 1.63, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "얇은 쪽을 노려!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_02"
+}

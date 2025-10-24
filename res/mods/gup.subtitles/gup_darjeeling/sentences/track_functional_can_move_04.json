@@ -1,0 +1,12 @@
+{
+    "duration": 2.91, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "궤도가 수리되었습니다. 반격을 개시하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_04"
+}

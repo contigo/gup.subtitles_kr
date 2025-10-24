@@ -1,0 +1,12 @@
+{
+    "duration": 3.19, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탄이 착탄하고 있어요. 다음 한 발을 중요하게 생각해요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_12"
+}

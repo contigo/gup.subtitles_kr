@@ -1,0 +1,12 @@
+{
+    "duration": 2.72, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "도탄됐네요. 아마 각도가 조금 안 맞았을 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_02"
+}

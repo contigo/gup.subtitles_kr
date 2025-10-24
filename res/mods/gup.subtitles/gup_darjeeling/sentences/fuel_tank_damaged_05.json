@@ -1,0 +1,12 @@
+{
+    "duration": 3.55, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "연료 탱크 피격. 불이 붙지 않도록 주의하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_05"
+}

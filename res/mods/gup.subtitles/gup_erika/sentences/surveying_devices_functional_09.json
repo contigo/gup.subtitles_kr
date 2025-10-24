@@ -1,0 +1,12 @@
+{
+    "duration": 4.04, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "어떻게든 관측 장비를 고쳤네! 이제 반격이야!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_09"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.77, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "가자! 작전명 글루바인 & 아이스바인!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_10"
+}

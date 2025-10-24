@@ -1,0 +1,12 @@
+{
+    "duration": 1.73, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "걱정할 적이 한 명 줄었군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_05"
+}

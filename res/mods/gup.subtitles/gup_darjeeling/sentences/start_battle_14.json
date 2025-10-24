@@ -1,0 +1,12 @@
+{
+    "duration": 6.38, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이제 움직일 시간이에요, 여러분. 우리는 어떤 싸움에서도 물러서지 않을 겁니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_14"
+}

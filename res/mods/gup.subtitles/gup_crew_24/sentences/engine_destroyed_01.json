@@ -1,0 +1,12 @@
+{
+    "duration": 3.6, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "움직일 수 없어...!? 큰일이야! 엔진이 파괴됐어!!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_01"
+}

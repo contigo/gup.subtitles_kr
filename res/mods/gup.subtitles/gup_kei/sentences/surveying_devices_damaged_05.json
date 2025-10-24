@@ -1,0 +1,12 @@
+{
+    "duration": 1.84, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "적이 관측 장비를 노리고 있어.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_05"
+}

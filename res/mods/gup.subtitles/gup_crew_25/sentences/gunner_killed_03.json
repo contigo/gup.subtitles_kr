@@ -1,0 +1,12 @@
+{
+    "duration": 2.8, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아야! 포수석을 노리고 있습니다...", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.5, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "목표 확인!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_02"
+}

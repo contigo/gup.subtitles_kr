@@ -1,0 +1,12 @@
+{
+    "duration": 3.1, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "궤도를 노리고 있잖아! 피해!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_03"
+}

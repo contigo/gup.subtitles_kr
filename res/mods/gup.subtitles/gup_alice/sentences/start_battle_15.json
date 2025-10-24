@@ -1,0 +1,12 @@
+{
+    "duration": 2.94, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이걸 끝내고 보코 박물관에 갈 생각에 벌써부터 기대돼요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_15"
+}

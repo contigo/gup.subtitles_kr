@@ -1,0 +1,12 @@
+{
+    "duration": 8.37, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "응...? 알겠습니다... 오케이... 저 차량은 다른 팀에게 맡기죠.", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_04"
+}

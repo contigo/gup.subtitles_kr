@@ -1,0 +1,12 @@
+{
+    "duration": 2.04, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이제 관측 장비가 온라인 상태입니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_14"
+}

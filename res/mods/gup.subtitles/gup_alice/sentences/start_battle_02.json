@@ -1,0 +1,12 @@
+{
+    "duration": 7.59, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "만약 우리가 이긴다면, 보코 박물관의 새로운 스폰서가 되어주세요. 그렇지 않으면 문을 닫아야 할지도 몰라요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_02"
+}

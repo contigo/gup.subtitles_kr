@@ -1,0 +1,12 @@
+{
+    "duration": 4.57, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "아야... 주포가... 명중률이 엉망이겠어!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_03"
+}

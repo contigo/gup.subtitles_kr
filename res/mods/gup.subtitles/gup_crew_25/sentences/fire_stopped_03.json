@@ -1,0 +1,12 @@
+{
+    "duration": 2.89, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "불이 꺼졌습니다. 각자의 위치로 돌아가세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_03"
+}

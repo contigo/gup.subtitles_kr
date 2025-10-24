@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "음... 궤도 손상...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_04"
+}

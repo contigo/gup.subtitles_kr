@@ -1,0 +1,12 @@
+{
+    "duration": 3.4, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "도탄. 아마도 각도가 맞지 않았던 것 같습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_11"
+}

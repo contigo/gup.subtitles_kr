@@ -1,0 +1,12 @@
+{
+    "duration": 2.23, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "아아아 탄약고오오...", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_03"
+}

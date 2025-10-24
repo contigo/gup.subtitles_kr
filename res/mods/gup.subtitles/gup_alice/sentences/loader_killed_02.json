@@ -1,0 +1,12 @@
+{
+    "duration": 4.73, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "장전수석을 맞았어요. 안타깝지만, 재장전 속도가 느려질 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_02"
+}

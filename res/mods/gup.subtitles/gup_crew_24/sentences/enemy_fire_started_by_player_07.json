@@ -1,0 +1,12 @@
+{
+    "duration": 3.87, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "적이 불타고 있어. 엔진에서 난 건가?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_07"
+}

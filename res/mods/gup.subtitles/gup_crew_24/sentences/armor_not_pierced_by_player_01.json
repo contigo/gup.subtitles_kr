@@ -1,0 +1,18 @@
+{
+    "duration": 4.27, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "헤이! 튕겨나갔잖아!", 
+                        "character": "mikko", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "sad", 
+                        "text": "미안해 밋코...", 
+            "character": "aki", 
+            "time": 2.15
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_01"
+}

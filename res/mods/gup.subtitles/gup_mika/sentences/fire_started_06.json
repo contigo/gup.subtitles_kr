@@ -1,0 +1,12 @@
+{
+    "duration": 3.5, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이 냄새는... 연료가 타고 있는 것 같네.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_06"
+}

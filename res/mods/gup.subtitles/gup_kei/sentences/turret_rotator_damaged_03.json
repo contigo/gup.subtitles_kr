@@ -1,0 +1,12 @@
+{
+    "duration": 2.74, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포탑 피격! 상황 보고해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

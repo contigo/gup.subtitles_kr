@@ -1,0 +1,12 @@
+{
+    "duration": 1.81, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "적 전차가 불타고 있어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_03"
+}

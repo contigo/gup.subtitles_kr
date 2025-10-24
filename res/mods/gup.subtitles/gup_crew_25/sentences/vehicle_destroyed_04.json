@@ -1,0 +1,12 @@
+{
+    "duration": 3.93, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "잘 싸웠습니다. 당신의 이름은 무엇입니까?", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_04"
+}

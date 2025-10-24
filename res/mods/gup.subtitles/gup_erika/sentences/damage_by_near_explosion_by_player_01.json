@@ -1,0 +1,12 @@
+{
+    "duration": 2.77, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 근처에 맞췄어! 잘했어!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.43, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "방금 건 좀 아팠어...", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_01"
+}

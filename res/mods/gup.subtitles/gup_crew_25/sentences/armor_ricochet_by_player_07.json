@@ -1,0 +1,12 @@
+{
+    "duration": 2.6, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "맞췄지만 장갑을 관통하지 못했습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_07"
+}

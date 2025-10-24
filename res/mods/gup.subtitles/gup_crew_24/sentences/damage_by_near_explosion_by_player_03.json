@@ -1,0 +1,12 @@
+{
+    "duration": 2.33, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "말도 안 돼! 이게 안 맞는다고!?", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_03"
+}

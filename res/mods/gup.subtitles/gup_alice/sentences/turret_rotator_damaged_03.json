@@ -1,0 +1,12 @@
+{
+    "duration": 2.22, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포탑 구동 장치가 피격당했어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

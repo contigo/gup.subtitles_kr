@@ -1,0 +1,12 @@
+{
+    "duration": 1.98, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 전차가 행동 불능이 됐어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_04"
+}

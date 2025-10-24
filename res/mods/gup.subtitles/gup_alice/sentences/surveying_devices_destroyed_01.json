@@ -1,0 +1,12 @@
+{
+    "duration": 1.87, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "관측 장비가 심하게 손상됐어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_01"
+}

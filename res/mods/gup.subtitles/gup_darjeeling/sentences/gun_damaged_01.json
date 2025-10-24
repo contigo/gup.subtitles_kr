@@ -1,0 +1,12 @@
+{
+    "duration": 3.21, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "주포가 손상되었군요. 명중률에 나쁜 영향을 미칠 거예요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_01"
+}

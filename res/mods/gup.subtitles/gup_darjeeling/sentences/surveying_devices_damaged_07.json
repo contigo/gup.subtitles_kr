@@ -1,0 +1,12 @@
+{
+    "duration": 1.78, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아무래도 적이 우리 관측 장비를 맞춘 것 같군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_07"
+}

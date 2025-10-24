@@ -1,0 +1,12 @@
+{
+    "duration": 1.33, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "아무래도 도탄된 것 같아요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_03"
+}

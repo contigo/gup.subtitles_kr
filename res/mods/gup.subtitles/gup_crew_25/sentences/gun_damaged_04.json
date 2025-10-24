@@ -1,0 +1,12 @@
+{
+    "duration": 2.32, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포가 손상된 것 같아요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_04"
+}

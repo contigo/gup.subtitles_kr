@@ -1,0 +1,18 @@
+{
+    "duration": 4.5, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "속도가 줄어들고 있나?", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "agitated", 
+                        "text": "엔진 손상!", 
+            "character": "mikko", 
+            "time": 2.55
+        }
+    ], 
+    "audio": "engine_damaged_03"
+}

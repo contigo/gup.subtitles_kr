@@ -1,0 +1,12 @@
+{
+    "duration": 3.23, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "적 격파! 우리한텐 상대도 안 되지!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_04"
+}

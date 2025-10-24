@@ -1,0 +1,12 @@
+{
+    "duration": 4.2, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "우리는 무력화되었어. 여기서 발이 묶이면 곤란하겠군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.24, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이 전차는 다른 사람에게 맡겨도 돼요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_11"
+}

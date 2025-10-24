@@ -1,0 +1,12 @@
+{
+    "duration": 4.06, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "주포가 고장 났군요. 수리 전까지는 사용할 수 없습니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_02"
+}

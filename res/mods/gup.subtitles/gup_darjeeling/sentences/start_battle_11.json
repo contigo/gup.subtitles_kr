@@ -1,0 +1,12 @@
+{
+    "duration": 5.64, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "모두 준비됐나요? 모든 전차, 진격을 준비하세요!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_11"
+}

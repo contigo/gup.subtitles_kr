@@ -1,0 +1,12 @@
+{
+    "duration": 3.3, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "어떡해! 불이야! 어... 어디 있어, 소화기!?" 
+            "character": "saori", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_04"
+}

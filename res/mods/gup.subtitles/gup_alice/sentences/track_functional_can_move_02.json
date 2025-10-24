@@ -1,0 +1,12 @@
+{
+    "duration": 2.41, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "궤도가 다시 작동해요. 다시 움직일 수 있어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_02"
+}

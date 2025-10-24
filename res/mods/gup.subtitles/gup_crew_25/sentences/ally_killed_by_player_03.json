@@ -1,0 +1,12 @@
+{
+    "duration": 3.08, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "자세히 보세요. 저건 아군입니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.67, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 전차가 불타고 있어. 우리가 연료에 불을 붙였나?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_12"
+}

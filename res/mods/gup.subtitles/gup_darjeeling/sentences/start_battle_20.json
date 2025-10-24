@@ -1,0 +1,12 @@
+{
+    "duration": 5.67, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "나갈 준비는 되셨나요? 전투에 임할 때는 그에 걸맞은 복장을 갖추는 것이 중요하답니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_20"
+}

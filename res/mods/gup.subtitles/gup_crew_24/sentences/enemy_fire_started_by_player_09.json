@@ -1,0 +1,12 @@
+{
+    "duration": 3.34, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "저... 적 전차가 불타고 있는 것 같군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_09"
+}

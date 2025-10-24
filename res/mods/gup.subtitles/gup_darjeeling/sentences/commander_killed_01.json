@@ -1,0 +1,12 @@
+{
+    "duration": 3.84, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "크윽! 저는 신경 쓰지 마세요. 괜찮으니까...", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_01"
+}

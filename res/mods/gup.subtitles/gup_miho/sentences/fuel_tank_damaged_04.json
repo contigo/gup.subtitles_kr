@@ -1,0 +1,12 @@
+{
+    "duration": 4.0, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "연료 탱크가 부서졌어요!? 어떡해! 빨리 고쳐야 해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_04"
+}

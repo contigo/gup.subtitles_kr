@@ -1,0 +1,12 @@
+{
+    "duration": 4.12, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "적이 관측 장비를 파괴했어요. 이제 잘 보이지 않을 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_09"
+}

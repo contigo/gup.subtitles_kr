@@ -1,0 +1,12 @@
+{
+    "duration": 2.3, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "에에! 하지만 맞췄는데!", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_05"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.77, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "도탄. 다음 포탄을 곧 장전할게요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_14"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 5.0, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "무전기가 손상되었습니다. 장거리 통신은 한동안 불안정할 것입니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_04"
+}

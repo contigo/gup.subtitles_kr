@@ -1,0 +1,12 @@
+{
+    "duration": 6.16, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "주포의 응급 수리가 끝났습니다. 하지만 명중률은 여전히 낮은 상태일 겁니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.57, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "어머나...! 아군을 맞췄네요...", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_05"
+}

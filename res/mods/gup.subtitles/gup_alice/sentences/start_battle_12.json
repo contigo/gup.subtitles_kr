@@ -1,0 +1,12 @@
+{
+    "duration": 3.77, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "서두를 필요 없어요. 침착하게 처리하죠.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_12"
+}

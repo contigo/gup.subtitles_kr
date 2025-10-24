@@ -1,0 +1,12 @@
+{
+    "duration": 1.81, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포탄이 장갑을 뚫지 못했네요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.63, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "피격... 포탑이 아직 움직일 수 있나?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.5, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "궤도 수리 완료. 바람과 함께 움직이자.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_05"
+}

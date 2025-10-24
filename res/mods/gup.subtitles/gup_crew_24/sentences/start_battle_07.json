@@ -1,0 +1,18 @@
+{
+    "duration": 7.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "곧 시작이야. 다 같이 돌격하면 재밌을 텐데.", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "focused", 
+                        "text": "나는 순간을 위해 사는 생각에 동의하지 않아.", 
+            "character": "mika", 
+            "time": 4.55
+        }
+    ], 
+    "audio": "start_battle_07"
+}

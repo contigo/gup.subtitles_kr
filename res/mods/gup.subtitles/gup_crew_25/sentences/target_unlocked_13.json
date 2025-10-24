@@ -1,0 +1,12 @@
+{
+    "duration": 2.43, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "이 전차를 너무 끈질기게 추격하는 것은 그만두죠.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_13"
+}

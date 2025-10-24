@@ -1,0 +1,12 @@
+{
+    "duration": 2.65, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차 격파. 계속 수고해 주세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_04"
+}

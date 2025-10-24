@@ -1,0 +1,12 @@
+{
+    "duration": 9.63, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "어머, 찻잎이 섰군요. 이러면 멋진 손님이 찾아온다는 의미인데, 알고 있었나요?", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_02"
+}

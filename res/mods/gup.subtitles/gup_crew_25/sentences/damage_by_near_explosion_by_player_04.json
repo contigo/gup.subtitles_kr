@@ -1,0 +1,12 @@
+{
+    "duration": 1.05, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아슬아슬했군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_04"
+}

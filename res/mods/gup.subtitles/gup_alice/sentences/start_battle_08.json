@@ -1,0 +1,12 @@
+{
+    "duration": 1.34, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이 시합을 잘 만들어봐요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_08"
+}

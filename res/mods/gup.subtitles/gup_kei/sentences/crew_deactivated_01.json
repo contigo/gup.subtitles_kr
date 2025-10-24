@@ -1,0 +1,12 @@
+{
+    "duration": 5.28, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "우리 훈련이 부족했어. 돌아가면 스페셜 트레이닝이다!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_01"
+}

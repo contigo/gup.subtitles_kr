@@ -1,0 +1,12 @@
+{
+    "duration": 1.7, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "다른 전차로 목표를 설정하죠.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_03"
+}

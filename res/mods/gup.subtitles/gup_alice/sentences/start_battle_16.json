@@ -1,0 +1,12 @@
+{
+    "duration": 1.6, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "전투를 시작하죠.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_16"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 5.39, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "오, 저 불꽃을 보세요. 좀 더 살살 다뤘어야 했나 봅니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_09"
+}

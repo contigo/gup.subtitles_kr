@@ -1,0 +1,12 @@
+{
+    "duration": 2.85, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "우리 궤도가 수리됐어요. 이제 갚아줄 수 있겠네요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_07"
+}

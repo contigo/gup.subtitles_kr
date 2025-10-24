@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "장갑에 흠집만 냈을 뿐이군요...", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_01"
+}

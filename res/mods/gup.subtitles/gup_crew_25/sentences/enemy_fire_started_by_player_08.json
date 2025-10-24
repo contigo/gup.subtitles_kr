@@ -1,0 +1,12 @@
+{
+    "duration": 3.23, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "적 전차가 불타고 있습니다. 더 밀어붙여야 할까요?", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_08"
+}

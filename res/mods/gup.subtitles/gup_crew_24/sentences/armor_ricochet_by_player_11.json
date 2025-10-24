@@ -1,0 +1,18 @@
+{
+    "duration": 4.23, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "내가, 내가 도탄시켰어...", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "괜찮아, 다음엔 관통해!", 
+            "character": "mikko", 
+            "time": 1.65
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_11"
+}

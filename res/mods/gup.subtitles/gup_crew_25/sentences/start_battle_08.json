@@ -1,0 +1,18 @@
+{
+    "duration": 8.74, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "다즐링 님, 차 준비됐습니다.", 
+                        "character": "orange_pekoe", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "focused", 
+                        "text": "전투가 곧 시작됩니다. 차가 식기 전에 빨리 끝내도록 하죠.", 
+            "character": "darjeeling", 
+            "time": 3.65
+        }
+    ], 
+    "audio": "start_battle_08"
+}

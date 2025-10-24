@@ -1,0 +1,12 @@
+{
+    "duration": 4.3, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "모두 괜찮아요? 다음엔 더 잘해봐요.", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_03"
+}

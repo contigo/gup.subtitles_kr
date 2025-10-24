@@ -1,0 +1,12 @@
+{
+    "duration": 4.01, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 구동 장치 복구 완료. 이제 포탑이 움직일 겁니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_02"
+}

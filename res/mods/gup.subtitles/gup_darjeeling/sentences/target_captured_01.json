@@ -1,0 +1,12 @@
+{
+    "duration": 1.24, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "목표 포착!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.27, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 링이 작동하지 않아.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.97, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "아야... 무전기가 손상됐잖아! 장거리 통신은 이제 무리야!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_03"
+}

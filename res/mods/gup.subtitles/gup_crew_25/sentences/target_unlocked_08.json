@@ -1,0 +1,12 @@
+{
+    "duration": 1.99, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "목표 변경.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_08"
+}

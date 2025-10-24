@@ -1,0 +1,12 @@
+{
+    "duration": 1.29, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "다른 적을 쫓아가죠.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_07"
+}

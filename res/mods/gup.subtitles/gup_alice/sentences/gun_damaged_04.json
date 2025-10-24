@@ -1,0 +1,12 @@
+{
+    "duration": 4.14, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "주포를 맞았어요. 명중률 저하를 보정해야 할 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_04"
+}

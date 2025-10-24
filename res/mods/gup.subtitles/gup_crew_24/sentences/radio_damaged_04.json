@@ -1,0 +1,12 @@
+{
+    "duration": 6.13, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "미카아, 무전기가, 손상됐어! 멀리 통신할 수 없어.", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_04"
+}

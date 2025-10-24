@@ -1,0 +1,12 @@
+{
+    "duration": 2.13, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "우리 포신에 맞을 줄은 몰랐는데...", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_02"
+}

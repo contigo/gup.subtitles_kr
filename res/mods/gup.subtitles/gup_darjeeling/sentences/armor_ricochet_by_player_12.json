@@ -1,0 +1,12 @@
+{
+    "duration": 1.82, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "다음 포탄은 반드시 저들의 장갑을 꿰뚫을 거예요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_12"
+}

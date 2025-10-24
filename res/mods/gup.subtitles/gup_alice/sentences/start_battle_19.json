@@ -1,0 +1,12 @@
+{
+    "duration": 3.29, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "상대가 누구든, 우리는 최선을 다할 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_19"
+}

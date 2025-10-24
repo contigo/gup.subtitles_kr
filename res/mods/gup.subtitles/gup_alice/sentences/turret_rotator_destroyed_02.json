@@ -1,0 +1,12 @@
+{
+    "duration": 4.22, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "포탑 구동 장치가 고장 났어요. 움직일 수 없어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_02"
+}

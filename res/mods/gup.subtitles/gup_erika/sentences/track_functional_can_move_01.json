@@ -1,0 +1,12 @@
+{
+    "duration": 2.2, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "궤도 복구! 움직일 수 있어!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_01"
+}

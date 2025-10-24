@@ -1,0 +1,12 @@
+{
+    "duration": 2.41, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "레이제이 님! 궤도 수리 완료!", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_01"
+}

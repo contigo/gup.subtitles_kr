@@ -1,0 +1,12 @@
+{
+    "duration": 4.23, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "조종석!? 우리 발을 묶어둘 셈인가...", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_03"
+}

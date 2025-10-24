@@ -1,0 +1,24 @@
+{
+    "duration": 7.33, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "미카, 최선을 다하자!", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "cool", 
+                        "text": "최선을 다하는 것만이 전부는 아니야.", 
+                        "character": "mika", 
+                        "time": 1.75
+                    },
+                    {
+                        "emotion": "sad", 
+                        "text": "왜 그런 말을 해야 해?", 
+            "character": "aki", 
+            "time": 4.02
+        }
+    ], 
+    "audio": "start_battle_04"
+}

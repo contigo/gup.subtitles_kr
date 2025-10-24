@@ -1,0 +1,12 @@
+{
+    "duration": 3.31, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도가 어긋났어요. 움직일 수 없을 겁니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.5, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "포탑 피격! 포탑 링이 손상된 거야!?", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_02"
+}

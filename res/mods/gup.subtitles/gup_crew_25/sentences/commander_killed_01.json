@@ -1,0 +1,12 @@
+{
+    "duration": 2.36, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "다즐링 님! 괜찮으세요?", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_01"
+}

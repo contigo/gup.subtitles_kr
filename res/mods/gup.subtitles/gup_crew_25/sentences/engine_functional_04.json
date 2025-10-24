@@ -1,0 +1,12 @@
+{
+    "duration": 3.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "엔진이 수리됐어요. 이제 움직일 수 있어요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_functional_04"
+}

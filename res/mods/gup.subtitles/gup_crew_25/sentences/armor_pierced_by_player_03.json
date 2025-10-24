@@ -1,0 +1,12 @@
+{
+    "duration": 2.29, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "장갑을 성공적으로 관통했어요!", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_03"
+}

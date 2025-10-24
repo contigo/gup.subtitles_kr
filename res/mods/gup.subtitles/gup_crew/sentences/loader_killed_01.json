@@ -1,0 +1,12 @@
+{
+    "duration": 2.8, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "니시즈미 님... 죄송합니다...", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_01"
+}

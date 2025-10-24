@@ -1,0 +1,12 @@
+{
+    "duration": 4.76, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "관측 장비가 파괴되었습니다. 만약 그들이 의도적으로 맞췄다면, 꽤 잘하는군요...", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_05"
+}

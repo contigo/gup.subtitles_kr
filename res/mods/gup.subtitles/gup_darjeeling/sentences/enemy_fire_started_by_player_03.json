@@ -1,0 +1,12 @@
+{
+    "duration": 1.54, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 전차가 불타고 있네요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_03"
+}

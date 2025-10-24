@@ -1,0 +1,12 @@
+{
+    "duration": 3.83, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "훌륭하게 불을 껐군요. 다친 사람은 없나요?", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_04"
+}

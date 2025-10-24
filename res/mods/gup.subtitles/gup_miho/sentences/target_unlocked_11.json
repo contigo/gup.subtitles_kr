@@ -1,0 +1,12 @@
+{
+    "duration": 3.53, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "좋아, 저 전차는 다른 팀에게 맡겨요.", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_11"
+}

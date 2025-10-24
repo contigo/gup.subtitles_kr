@@ -1,0 +1,12 @@
+{
+    "duration": 3.97, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "음, 저건 아군인 것 같아요...", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_05"
+}

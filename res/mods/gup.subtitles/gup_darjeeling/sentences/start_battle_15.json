@@ -1,0 +1,12 @@
+{
+    "duration": 5.89, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이 전투를 신속하게 마무리 짓도록 하죠. 모두 기억하세요, 우리는 내내 우아하게 행동해야 합니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_15"
+}

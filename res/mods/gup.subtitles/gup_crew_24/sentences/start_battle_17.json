@@ -1,0 +1,12 @@
+{
+    "duration": 11.23, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이 전투에 특별한 의미가 있는지는 모르겠군. 하지만 우리는 친구들의 판단을 믿어.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_17"
+}

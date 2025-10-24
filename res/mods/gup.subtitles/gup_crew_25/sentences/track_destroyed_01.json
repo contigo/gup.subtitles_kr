@@ -1,0 +1,12 @@
+{
+    "duration": 3.39, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "움직임을 잃었습니다. 즉시 수리를 진행하세요!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_01"
+}

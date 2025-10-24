@@ -1,0 +1,12 @@
+{
+    "duration": 3.54, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "궤도가 정렬되지 않았군요. 즉시 수리해 줄 거라 믿어도 되죠?", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_03"
+}

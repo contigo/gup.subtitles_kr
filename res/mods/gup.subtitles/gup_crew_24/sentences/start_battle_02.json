@@ -1,0 +1,12 @@
+{
+    "duration": 3.17, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "움직이자! 운전은 나에게 맡겨!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_02"
+}

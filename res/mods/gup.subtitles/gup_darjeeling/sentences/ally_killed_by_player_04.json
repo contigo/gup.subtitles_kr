@@ -1,0 +1,12 @@
+{
+    "duration": 2.08, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아군끼리 다투는 것만큼 품위 없는 행동은 없답니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_04"
+}

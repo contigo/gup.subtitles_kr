@@ -1,0 +1,12 @@
+{
+    "duration": 2.98, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "해냈어요! 적 전차를 격파했어요!", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_01"
+}

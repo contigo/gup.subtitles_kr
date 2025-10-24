@@ -1,0 +1,12 @@
+{
+    "duration": 3.16, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "관측 장비에 큰 피해가 발생했어요. 신속하게 대응하세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_08"
+}

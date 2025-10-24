@@ -1,0 +1,12 @@
+{
+    "duration": 3.92, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "어머, 궤도가 어긋난 모양이군요. 즉시 수리를 부탁해요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_02"
+}

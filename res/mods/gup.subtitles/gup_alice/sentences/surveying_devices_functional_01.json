@@ -1,0 +1,12 @@
+{
+    "duration": 1.83, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비가 다시 작동해요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_01"
+}

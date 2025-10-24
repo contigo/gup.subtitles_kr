@@ -1,0 +1,12 @@
+{
+    "duration": 2.36, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "아야... 제법이잖아...", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_02"
+}

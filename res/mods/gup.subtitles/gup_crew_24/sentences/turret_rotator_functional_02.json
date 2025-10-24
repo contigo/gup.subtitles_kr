@@ -1,0 +1,12 @@
+{
+    "duration": 2.53, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "미카! 이제 포탑을 돌릴 수 있어!", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_02"
+}

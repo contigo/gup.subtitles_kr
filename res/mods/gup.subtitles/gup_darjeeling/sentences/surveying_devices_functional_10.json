@@ -1,0 +1,12 @@
+{
+    "duration": 3.84, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "관측 장비 수리를 마쳤습니다. 반격할 준비를 하세요!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_10"
+}

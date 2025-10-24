@@ -1,0 +1,12 @@
+{
+    "duration": 4.27, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도 손상 확인... 어떻게든 움직여볼게...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_03"
+}

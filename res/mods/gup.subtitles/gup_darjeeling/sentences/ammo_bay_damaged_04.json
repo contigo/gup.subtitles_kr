@@ -1,0 +1,12 @@
+{
+    "duration": 3.9, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "탄약고에 불이 붙었어요. 당황하지 말고 처리하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_04"
+}

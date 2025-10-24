@@ -1,0 +1,12 @@
+{
+    "duration": 4.14, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "누구와 싸우든 방심은 금물. 100%로 가자!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_16"
+}

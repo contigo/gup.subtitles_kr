@@ -1,0 +1,12 @@
+{
+    "duration": 3.92, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "아... 아무래도 저들 연료 탱크에 불이 붙은 모양이네요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_05"
+}

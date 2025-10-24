@@ -1,0 +1,12 @@
+{
+    "duration": 1.73, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적이 시야에서 사라졌어.", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_01"
+}

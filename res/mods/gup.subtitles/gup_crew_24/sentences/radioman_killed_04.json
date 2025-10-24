@@ -1,0 +1,12 @@
+{
+    "duration": 5.57, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "통신수석 손상. 제대로 통신할 수 없어.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_04"
+}

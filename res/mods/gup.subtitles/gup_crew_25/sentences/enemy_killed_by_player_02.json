@@ -1,0 +1,12 @@
+{
+    "duration": 3.69, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "이 전투는 제가 두 번째 차를 마시기도 전에 끝날 것 같군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_02"
+}

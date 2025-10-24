@@ -1,0 +1,12 @@
+{
+    "duration": 2.97, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "궤도 피격! 빌어먹을!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_01"
+}

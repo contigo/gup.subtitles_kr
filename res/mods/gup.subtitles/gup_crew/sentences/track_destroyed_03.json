@@ -1,0 +1,12 @@
+{
+    "duration": 3.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "움직일 수 없어... 이제 할 일이 없군...", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_03"
+}

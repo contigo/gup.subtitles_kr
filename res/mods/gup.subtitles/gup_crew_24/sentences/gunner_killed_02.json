@@ -1,0 +1,12 @@
+{
+    "duration": 3.07, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "미카! 포수석 피격! 큰 피해!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_02"
+}

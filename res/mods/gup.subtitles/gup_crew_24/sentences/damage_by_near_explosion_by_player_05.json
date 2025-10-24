@@ -1,0 +1,12 @@
+{
+    "duration": 4.23, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "아슬아슬했군. 다음엔 맞출 거야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_05"
+}

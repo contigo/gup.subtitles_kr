@@ -1,0 +1,12 @@
+{
+    "duration": 1.82, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 전차 파괴를 확인했어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_03"
+}

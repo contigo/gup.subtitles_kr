@@ -1,0 +1,12 @@
+{
+    "duration": 5.73, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "엔진 손상. 그걸 노렸다면 솜씨가 나쁘지 않군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_03"
+}

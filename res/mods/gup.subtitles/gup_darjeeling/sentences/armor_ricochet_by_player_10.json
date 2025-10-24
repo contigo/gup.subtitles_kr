@@ -1,0 +1,12 @@
+{
+    "duration": 1.59, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "거의 다 잡았는데 아쉽군요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_10"
+}

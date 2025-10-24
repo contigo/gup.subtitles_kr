@@ -1,0 +1,12 @@
+{
+    "duration": 3.28, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "올 어드밴스! 레츠 두 디스!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_03"
+}

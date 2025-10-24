@@ -1,0 +1,12 @@
+{
+    "duration": 1.43, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아군을 쏘는 건 칭찬할 일이 아니야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_04"
+}

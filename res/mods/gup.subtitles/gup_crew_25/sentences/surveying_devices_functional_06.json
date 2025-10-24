@@ -1,0 +1,12 @@
+{
+    "duration": 4.26, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비 수리 완료. 시야 범위가 정상으로 돌아왔습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_06"
+}

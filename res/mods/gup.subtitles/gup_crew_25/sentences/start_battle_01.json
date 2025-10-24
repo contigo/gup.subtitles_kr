@@ -1,0 +1,12 @@
+{
+    "duration": 3.54, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "작전 피시 앤 칩스 위드 비니거를 개시합니다!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.49, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "다른 전차를 목표로 삼아요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_03"
+}

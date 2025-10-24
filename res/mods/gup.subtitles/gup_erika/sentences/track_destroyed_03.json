@@ -1,0 +1,12 @@
+{
+    "duration": 2.9, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "젠장, 궤도가! 이제 좋은 표적이 되겠네!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_03"
+}

@@ -1,0 +1,18 @@
+{
+    "duration": 4.32, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "어!? 도탄!?", 
+                        "character": "orange_pekoe", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "걱정 마세요. 다음 한 발을 중요하게 생각하면 된답니다.", 
+            "character": "darjeeling", 
+            "time": 1.58
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_02"
+}

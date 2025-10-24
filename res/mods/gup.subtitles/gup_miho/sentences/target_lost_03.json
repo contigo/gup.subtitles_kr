@@ -1,0 +1,12 @@
+{
+    "duration": 2.87, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "목표를 놓쳤어요... 빨리 찾아야 하는데...", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_03"
+}

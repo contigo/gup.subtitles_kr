@@ -1,0 +1,18 @@
+{
+    "duration": 6.74, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포탑 구동 장치 파괴. 즉시 수리해 주시겠습니까?", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "알겠습니다, 다즐링 님!", 
+            "character": "orange_pekoe", 
+            "time": 5.16
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_02"
+}

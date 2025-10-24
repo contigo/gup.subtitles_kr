@@ -1,0 +1,18 @@
+{
+    "duration": 2.7, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "저 적은 우리 팀원들에게 맡기자.", 
+                        "character": "mika", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "proud", 
+                        "text": "오케이!", 
+            "character": "aki", 
+            "time": 1.78
+        }
+    ], 
+    "audio": "target_unlocked_12"
+}

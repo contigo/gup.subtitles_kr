@@ -1,0 +1,12 @@
+{
+    "duration": 4.3, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "Let's head out. Deal with any enemies you meet as you see fit.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_10"
+}

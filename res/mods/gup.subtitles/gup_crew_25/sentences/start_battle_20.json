@@ -1,0 +1,18 @@
+{
+    "duration": 8.3, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이 명언을 들어보셨나요? 용감한 행동은 나팔을 필요로 하지 않는다.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "토마스 풀러의 말이죠?", 
+            "character": "orange_pekoe", 
+            "time": 6.95
+        }
+    ], 
+    "audio": "start_battle_20"
+}

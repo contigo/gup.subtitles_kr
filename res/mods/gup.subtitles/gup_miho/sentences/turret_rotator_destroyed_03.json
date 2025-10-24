@@ -1,0 +1,12 @@
+{
+    "duration": 4.47, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "하나 씨, 마코 씨, 지금 포탑이 회전하지 않으니까 조심하세요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_03"
+}

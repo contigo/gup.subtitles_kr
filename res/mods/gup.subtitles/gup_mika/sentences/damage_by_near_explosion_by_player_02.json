@@ -1,0 +1,12 @@
+{
+    "duration": 5.27, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "직접 맞추진 못했지만, 이제 압박감을 느낄 거야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_02"
+}

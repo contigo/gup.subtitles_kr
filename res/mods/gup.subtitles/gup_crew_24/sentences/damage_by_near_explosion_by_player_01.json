@@ -1,0 +1,12 @@
+{
+    "duration": 2.3, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "아야! 아슬아슬했어!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_01"
+}

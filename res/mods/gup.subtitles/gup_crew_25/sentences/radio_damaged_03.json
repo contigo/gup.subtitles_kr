@@ -1,0 +1,12 @@
+{
+    "duration": 4.66, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "장거리 통신이 끊겼습니다. 무전기가 손상된 것 같습니다.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_03"
+}

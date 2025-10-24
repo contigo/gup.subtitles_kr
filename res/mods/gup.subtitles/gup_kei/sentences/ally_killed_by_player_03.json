@@ -1,0 +1,12 @@
+{
+    "duration": 2.95, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "와이이이! 왜 아군을 쏘는 거야?", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_03"
+}

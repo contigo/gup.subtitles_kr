@@ -1,0 +1,12 @@
+{
+    "duration": 3.87, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "표적 상실. 걱정 마, 다음 녀석을 찾아봐.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_02"
+}

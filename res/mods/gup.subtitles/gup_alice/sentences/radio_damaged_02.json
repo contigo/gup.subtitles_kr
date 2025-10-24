@@ -1,0 +1,12 @@
+{
+    "duration": 4.07, 
+    "timeline": [
+        {
+            "emotion": "disappointed", 
+            "text": "무전기가 피격당했어요. 이제 아군과의 통신이 더 어려워질 거예요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_02"
+}

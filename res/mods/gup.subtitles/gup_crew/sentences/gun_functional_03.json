@@ -1,0 +1,12 @@
+{
+    "duration": 3.77, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "포신을 고쳤지만, 명중률은 확실히 떨어질 거예요!", 
+            "character": "yukari", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_03"
+}

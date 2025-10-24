@@ -1,0 +1,12 @@
+{
+    "duration": 1.85, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "잘했어요. 목표를 맞췄네요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 11.27, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "인생에는 중요한 순간들이 많지. 이 전투도 그중 하나일 거야.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_10"
+}

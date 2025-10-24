@@ -1,0 +1,12 @@
+{
+    "duration": 3.9, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "궤도 복구! 우리 기술자들을 과소평가하지 마!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.6, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "밋코, 설마 우리가 갇힌 건 아니겠지...?", 
+            "character": "aki", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.26, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "불이 꺼졌어요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_01"
+}

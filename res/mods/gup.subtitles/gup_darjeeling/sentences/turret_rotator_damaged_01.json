@@ -1,0 +1,12 @@
+{
+    "duration": 4.62, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포탑 구동 장치가 손상되었군요. 회전 속도가 느려지고 있어요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_01"
+}

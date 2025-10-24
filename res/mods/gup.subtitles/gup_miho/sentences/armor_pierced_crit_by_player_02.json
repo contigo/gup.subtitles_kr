@@ -1,0 +1,12 @@
+{
+    "duration": 2.07, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "해냈어요! 멋진 사격이에요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_02"
+}

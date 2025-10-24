@@ -1,0 +1,12 @@
+{
+    "duration": 4.51, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포 수리가 완료되었습니다. 하지만 명중률은 여전히 저하되어 있습니다.", 
+            "character": "assam", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.39, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탄은 때로 튕겨나가기도 하는 법이죠. 침착하게 다음 발에 집중하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_06"
+}

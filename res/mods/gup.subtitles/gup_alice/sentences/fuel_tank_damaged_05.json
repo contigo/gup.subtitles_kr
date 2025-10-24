@@ -1,0 +1,12 @@
+{
+    "duration": 1.69, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "연료 탱크가 목표인 것 같아요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_05"
+}

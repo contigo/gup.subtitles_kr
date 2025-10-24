@@ -1,0 +1,12 @@
+{
+    "duration": 3.86, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "염려할 필요 없어요. 다음 포탄이 명중하도록 확실히 조준하세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_05"
+}

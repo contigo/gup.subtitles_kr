@@ -1,0 +1,12 @@
+{
+    "duration": 2.3, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "적이 우리 궤도를 맞췄어요. 조심해서 움직이세요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_03"
+}

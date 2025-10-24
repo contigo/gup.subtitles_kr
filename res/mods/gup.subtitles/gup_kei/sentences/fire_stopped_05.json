@@ -1,0 +1,12 @@
+{
+    "duration": 2.78, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "불은 껐어! 반격하자!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_05"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.6, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적, 행동 불능!", 
+            "character": "erika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_02"
+}

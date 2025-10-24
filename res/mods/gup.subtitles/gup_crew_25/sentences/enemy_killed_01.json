@@ -1,0 +1,12 @@
+{
+    "duration": 2.14, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "적 전차가 파괴된 것을 확인했어요.", 
+            "character": "orange_pekoe", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.28, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "꽤나 격렬하게 저항하는군요... 하지만, 거기까지예요!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_06"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.7, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "걱정 마, 보코, 내가 도와줄게. (보코에게 말하며)", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_06"
+}

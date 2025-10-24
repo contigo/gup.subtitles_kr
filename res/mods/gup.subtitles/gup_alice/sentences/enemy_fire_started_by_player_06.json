@@ -1,0 +1,12 @@
+{
+    "duration": 1.88, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "적의 연료 탱크에 불을 붙인 것 같아요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_06"
+}

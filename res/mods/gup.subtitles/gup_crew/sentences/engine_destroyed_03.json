@@ -1,0 +1,12 @@
+{
+    "duration": 3.7, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "엔진이 멈췄어... 우리가 할 수 있는 건 아무것도 없나??", 
+            "character": "mako", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_03"
+}

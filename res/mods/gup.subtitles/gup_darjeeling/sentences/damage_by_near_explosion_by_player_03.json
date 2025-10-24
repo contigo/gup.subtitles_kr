@@ -1,0 +1,12 @@
+{
+    "duration": 1.61, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "다음 포탄은 명중시킬 수 있겠나요?", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_03"
+}

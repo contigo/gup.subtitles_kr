@@ -1,0 +1,12 @@
+{
+    "duration": 2.45, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도가 고쳐졌어요. 움직여요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_03"
+}

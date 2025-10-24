@@ -1,0 +1,12 @@
+{
+    "duration": 1.48, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "통신수를 맞췄어요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_04"
+}

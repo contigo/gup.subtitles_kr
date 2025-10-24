@@ -1,0 +1,12 @@
+{
+    "duration": 2.27, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "관측 장비가 손상된 것 같네.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_05"
+}

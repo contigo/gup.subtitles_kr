@@ -1,0 +1,12 @@
+{
+    "duration": 5.81, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "주포가 손상되었군요. 발사는 가능하지만, 명중률은 확실히 떨어졌을 거예요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_04"
+}

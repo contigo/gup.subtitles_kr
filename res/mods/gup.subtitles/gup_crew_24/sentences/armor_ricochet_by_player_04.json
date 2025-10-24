@@ -1,0 +1,12 @@
+{
+    "duration": 4.37, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "도탄!? 관통한 줄 알았는데!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_04"
+}

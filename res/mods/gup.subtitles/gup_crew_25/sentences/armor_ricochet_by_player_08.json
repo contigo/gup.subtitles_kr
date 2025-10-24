@@ -1,0 +1,18 @@
+{
+    "duration": 5.82, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포탄이 튕겨나갔군요. 아마도 사격 각도가 좋지 않았던 모양입니다.", 
+                        "character": "darjeeling", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "confident", 
+                        "text": "도탄 각도에 대한 데이터를 수집하겠습니다.", 
+            "character": "assam", 
+            "time": 3.75
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_08"
+}

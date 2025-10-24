@@ -1,0 +1,18 @@
+{
+    "duration": 4.83, 
+    "timeline": [
+        {
+            "emotion": "sad", 
+            "text": "에에, 도탄됐어...", 
+                        "character": "aki", 
+                        "time": 0.0
+                    },
+                    {
+                        "emotion": "cool", 
+                        "text": "걱정 마. 다음엔 맞출 거야.", 
+            "character": "mika", 
+            "time": 2.55
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_03"
+}

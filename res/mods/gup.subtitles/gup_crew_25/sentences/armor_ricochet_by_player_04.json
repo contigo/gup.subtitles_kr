@@ -1,0 +1,12 @@
+{
+    "duration": 3.67, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포탄이 튕겨나갔군요. 다음엔 약점을 노려보세요.", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_04"
+}

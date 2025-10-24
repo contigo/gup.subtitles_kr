@@ -1,0 +1,12 @@
+{
+    "duration": 3.17, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "관측 장비가 파괴됐어요... 어떻게든 해야 하는데...", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_10"
+}

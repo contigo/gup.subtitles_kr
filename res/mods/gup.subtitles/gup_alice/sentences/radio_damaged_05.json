@@ -1,0 +1,12 @@
+{
+    "duration": 1.33, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "무전기를 노리는 것 같아요.", 
+            "character": "alice", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_05"
+}

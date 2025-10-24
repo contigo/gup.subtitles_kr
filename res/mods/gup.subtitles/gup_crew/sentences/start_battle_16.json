@@ -1,0 +1,12 @@
+{
+    "duration": 9.33, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아... 그럼... 실례합니다... 으음... 전차... 전진!", 
+            "character": "hana", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_16"
+}

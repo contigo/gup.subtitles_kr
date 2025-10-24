@@ -1,0 +1,12 @@
+{
+    "duration": 2.8, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "나이스! 적 차량, 침묵!", 
+            "character": "mikko", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.39, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "기동 불능! 즉시 수리를 서두르세요!", 
+            "character": "darjeeling", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_01"
+}
