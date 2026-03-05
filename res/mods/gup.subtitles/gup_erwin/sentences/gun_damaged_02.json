@@ -1,0 +1,12 @@
+{
+    "duration": 2.95, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "주포를 맞았군. 제대로 쏠 수 있겠나?", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_02"
+}

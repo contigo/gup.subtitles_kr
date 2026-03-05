@@ -1,0 +1,12 @@
+{
+    "duration": 1.5, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "여기까지인 모양이군...", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_02"
+}

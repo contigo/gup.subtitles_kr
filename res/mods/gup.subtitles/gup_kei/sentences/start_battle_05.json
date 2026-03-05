@@ -1,0 +1,12 @@
+{
+    "duration": 2.11, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "저들과 같은 수의 전차로 가자!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_05"
+}

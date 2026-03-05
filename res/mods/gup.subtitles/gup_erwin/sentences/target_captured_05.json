@@ -1,0 +1,12 @@
+{
+    "duration": 0.97, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "사격!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_05"
+}

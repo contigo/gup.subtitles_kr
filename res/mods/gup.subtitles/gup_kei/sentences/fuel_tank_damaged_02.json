@@ -1,0 +1,12 @@
+{
+    "duration": 3.49, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "연료 탱크를 노리다니? 페어 플레이가 아니잖아!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.17, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "우리 장전수석이 피격되었어. 아직 싸울 수 있을까?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_03"
+}

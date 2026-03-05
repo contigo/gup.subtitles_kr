@@ -1,0 +1,12 @@
+{
+    "duration": 6.57, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "관측 장비 파괴. 인생에도 전차도에도 어둠이 기다리는군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_10"
+}

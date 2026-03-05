@@ -1,0 +1,12 @@
+{
+    "duration": 2.63, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "좋아, 이제 공격만 하면 되겠군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_06"
+}

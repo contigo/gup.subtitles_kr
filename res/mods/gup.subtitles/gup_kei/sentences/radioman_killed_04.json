@@ -1,0 +1,12 @@
+{
+    "duration": 3.45, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "통신수석 피격! 상황 보고해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.18, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "주포 손상 확인! 명중률 저하에 대비해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_damaged_04"
+}

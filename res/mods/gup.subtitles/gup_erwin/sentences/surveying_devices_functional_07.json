@@ -1,0 +1,12 @@
+{
+    "duration": 3.67, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비 수리 완료. 그래, 이제 멀리까지 볼 수 있다.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_07"
+}

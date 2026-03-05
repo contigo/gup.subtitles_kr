@@ -1,0 +1,12 @@
+{
+    "duration": 3.53, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차 화재! 이대로 몰아붙이자!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_11"
+}

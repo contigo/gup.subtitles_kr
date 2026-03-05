@@ -1,0 +1,12 @@
+{
+    "duration": 2.0, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "연료 탱크를 수리해야 할 것 같아요.", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_05"
+}

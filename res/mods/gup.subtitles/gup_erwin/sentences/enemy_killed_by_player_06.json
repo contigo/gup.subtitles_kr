@@ -1,0 +1,12 @@
+{
+    "duration": 4.27, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "적 전차 격파 성공! 비트만에게 한 걸음 더 다가갔군!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_06"
+}

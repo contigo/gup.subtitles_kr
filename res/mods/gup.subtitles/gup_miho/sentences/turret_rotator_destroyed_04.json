@@ -1,0 +1,12 @@
+{
+    "duration": 3.8, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "서둘러서 포탑을 고쳐요! 회전이 안 돼요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_04"
+}

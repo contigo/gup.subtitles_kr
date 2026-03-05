@@ -1,0 +1,12 @@
+{
+    "duration": 3.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이거 곤란하네. 모두 소화기를 들어.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 5.33, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "화재 감지. 사우나치고는 너무 뜨겁군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_08"
+}

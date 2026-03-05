@@ -1,0 +1,12 @@
+{
+    "duration": 2.73, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "수리 완료! 시야가 정상으로 돌아왔어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_05"
+}

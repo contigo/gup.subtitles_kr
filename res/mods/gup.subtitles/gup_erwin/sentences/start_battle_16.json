@@ -1,0 +1,12 @@
+{
+    "duration": 3.66, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "가자고. 최선을 다해 싸우는 거다.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_16"
+}

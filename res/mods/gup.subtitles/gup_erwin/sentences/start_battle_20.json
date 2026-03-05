@@ -1,0 +1,12 @@
+{
+    "duration": 3.92, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "드디어군. 적들에게 우리의 본때를 보여주자!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_20"
+}

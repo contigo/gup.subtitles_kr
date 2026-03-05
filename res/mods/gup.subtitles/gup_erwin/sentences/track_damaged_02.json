@@ -1,0 +1,12 @@
+{
+    "duration": 2.73, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "궤도를 노리고 있군. 다음 사격엔 견디지 못할 거다.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_02"
+}

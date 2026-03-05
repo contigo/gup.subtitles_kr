@@ -1,0 +1,12 @@
+{
+    "duration": 2.02, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "탄약고 폭발 가능성 증가!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_02"
+}

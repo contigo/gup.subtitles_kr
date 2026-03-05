@@ -1,0 +1,12 @@
+{
+    "duration": 1.9, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "잘 안 되는 것 같네.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_02"
+}

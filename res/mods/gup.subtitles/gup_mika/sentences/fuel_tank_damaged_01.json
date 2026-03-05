@@ -1,0 +1,12 @@
+{
+    "duration": 2.9, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이 냄새는... 연료가 새고 있군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.73, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포탑이 심하게 손상되었어. 한동안 돌릴 수 없겠군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_03"
+}

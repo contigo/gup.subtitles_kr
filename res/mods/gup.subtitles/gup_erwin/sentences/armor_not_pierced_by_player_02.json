@@ -1,0 +1,12 @@
+{
+    "duration": 1.47, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "관통하지 못했나.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.57, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "이제 불길이 잡혔군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_05"
+}

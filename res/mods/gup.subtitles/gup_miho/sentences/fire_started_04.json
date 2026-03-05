@@ -1,0 +1,12 @@
+{
+    "duration": 2.53, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "화재!? 빨리 꺼야 해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_04"
+}

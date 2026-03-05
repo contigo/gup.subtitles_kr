@@ -1,0 +1,12 @@
+{
+    "duration": 4.62, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "전투 개시. 전력을 다해 두려움 없이 싸우자!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_21"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.4, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "장거리 통신이 안 돼. 무전기가 손상된 것 같네.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_03"
+}

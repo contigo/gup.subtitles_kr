@@ -1,0 +1,12 @@
+{
+    "duration": 2.32, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "응? 무전기 상태가 이상하군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_06"
+}

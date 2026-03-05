@@ -1,0 +1,12 @@
+{
+    "duration": 3.0, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "웁스! 적 차량에 불이 붙었어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_01"
+}

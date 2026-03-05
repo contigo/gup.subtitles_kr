@@ -1,0 +1,12 @@
+{
+    "duration": 3.67, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "움직일 수 없어. 적의 표적이 되기 전에 뭔가 해야겠군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_03"
+}

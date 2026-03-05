@@ -1,0 +1,12 @@
+{
+    "duration": 4.1, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "낙심할 필요 없어. 도탄은 흔한 일이니까.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_05"
+}

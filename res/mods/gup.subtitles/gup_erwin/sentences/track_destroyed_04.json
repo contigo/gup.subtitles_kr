@@ -1,0 +1,12 @@
+{
+    "duration": 2.25, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "궤도 파괴! 기동 불능이다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_04"
+}

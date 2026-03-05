@@ -1,0 +1,12 @@
+{
+    "duration": 4.47, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "포신이... 전혀 움직이지 않는 것 같아요... 빨리 고쳐요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_03"
+}

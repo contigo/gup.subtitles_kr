@@ -1,0 +1,12 @@
+{
+    "duration": 2.09, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "우리 전차가 격파됐다! 탈출해라!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_04"
+}

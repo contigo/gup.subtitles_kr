@@ -1,0 +1,12 @@
+{
+    "duration": 11.33, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "헤헤, 우리는 전투에 나가는 게 아니야. 바람과 함께 가는 거지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_06"
+}

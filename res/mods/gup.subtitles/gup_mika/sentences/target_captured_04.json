@@ -1,0 +1,12 @@
+{
+    "duration": 2.07, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "발사 준비! 툴타!", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_04"
+}

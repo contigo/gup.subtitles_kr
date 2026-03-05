@@ -1,0 +1,12 @@
+{
+    "duration": 3.87, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 피격. 조작 장치가 손상된 것 같네.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

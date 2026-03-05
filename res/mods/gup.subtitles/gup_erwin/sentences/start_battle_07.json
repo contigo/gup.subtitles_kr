@@ -1,0 +1,12 @@
+{
+    "duration": 4.47, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "아군과 협력하여 적을 격파한다. 밀약(Secret pact)은 이미 맺어졌으니까요.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_07"
+}

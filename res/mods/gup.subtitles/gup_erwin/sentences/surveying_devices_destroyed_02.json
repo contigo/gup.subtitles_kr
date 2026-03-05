@@ -1,0 +1,12 @@
+{
+    "duration": 2.87, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "관측 장비가 당했다! 아무것도 안 보여!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.21, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "기동 불능! 궤도를 당장 고쳐! 서둘러!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_02"
+}

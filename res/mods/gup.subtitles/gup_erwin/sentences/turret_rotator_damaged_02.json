@@ -1,0 +1,12 @@
+{
+    "duration": 2.63, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "응? 포탑이 부드럽게 돌아가질 않는군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.44, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "분하지만, 더 이상은 전진할 수 없겠군...", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_01"
+}

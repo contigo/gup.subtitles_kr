@@ -1,0 +1,12 @@
+{
+    "duration": 2.67, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포신이 크게 손상됐어요! 발사 불가능해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_02"
+}

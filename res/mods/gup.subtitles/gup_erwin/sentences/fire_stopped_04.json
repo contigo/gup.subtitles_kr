@@ -1,0 +1,12 @@
+{
+    "duration": 1.87, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "어떻게든 불을 껐군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.13, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포수 탈락!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_02"
+}

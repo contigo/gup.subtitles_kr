@@ -1,0 +1,12 @@
+{
+    "duration": 3.49, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "드라이버 부상! 누가 커버해 줄 수 있어?", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_03"
+}

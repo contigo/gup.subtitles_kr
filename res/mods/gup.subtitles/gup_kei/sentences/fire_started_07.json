@@ -1,0 +1,12 @@
+{
+    "duration": 1.48, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "당장 불을 꺼!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_07"
+}

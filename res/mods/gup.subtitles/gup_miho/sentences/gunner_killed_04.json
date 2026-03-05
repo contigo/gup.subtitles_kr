@@ -1,0 +1,12 @@
+{
+    "duration": 2.72, 
+    "timeline": [
+        {
+            "emotion": "hit", 
+            "text": "포수석이 피격됐습니다!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_04"
+}

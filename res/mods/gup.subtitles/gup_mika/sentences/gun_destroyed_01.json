@@ -1,0 +1,12 @@
+{
+    "duration": 2.97, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포가 고장 났어. 빨리 수리해!", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_01"
+}

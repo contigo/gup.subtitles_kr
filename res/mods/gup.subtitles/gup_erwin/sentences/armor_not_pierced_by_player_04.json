@@ -1,0 +1,12 @@
+{
+    "duration": 2.59, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "뚫지 못했군. 서둘러 다음 탄을 장전해라.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_04"
+}

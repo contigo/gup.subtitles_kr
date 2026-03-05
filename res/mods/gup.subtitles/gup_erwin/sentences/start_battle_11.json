@@ -1,0 +1,12 @@
+{
+    "duration": 4.43, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "금세기의 대결전이군. 마치 엘 알라메인 전투처럼 말이지.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_11"
+}

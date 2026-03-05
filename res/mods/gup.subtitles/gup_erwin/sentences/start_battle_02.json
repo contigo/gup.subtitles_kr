@@ -1,0 +1,12 @@
+{
+    "duration": 4.7, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "전투 개시. 마치 아라스 전투(Battle of Arras) 같군요!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.98, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "지금은 다른 차량에 집중하자!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_10"
+}

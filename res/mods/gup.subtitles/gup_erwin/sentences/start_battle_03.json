@@ -1,0 +1,12 @@
+{
+    "duration": 4.47, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "전차 전진! 목표는 ‘검은 남작’ 미하일 비트만 같은 전차 에이스가 되는 겁니다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_03"
+}

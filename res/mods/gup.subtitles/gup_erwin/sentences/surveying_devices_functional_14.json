@@ -1,0 +1,12 @@
+{
+    "duration": 3.19, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비가 다시 작동한다. 걱정거리가 하나 줄었군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_14"
+}

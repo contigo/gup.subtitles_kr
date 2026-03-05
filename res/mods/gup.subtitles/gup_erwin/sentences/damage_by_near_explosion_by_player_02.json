@@ -1,0 +1,12 @@
+{
+    "duration": 0.95, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아주 아까웠어.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_02"
+}

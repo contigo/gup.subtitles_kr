@@ -1,0 +1,12 @@
+{
+    "duration": 2.51, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "기동 가능! 안전한 장소로 이동한다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_04"
+}

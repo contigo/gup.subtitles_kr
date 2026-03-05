@@ -1,0 +1,12 @@
+{
+    "duration": 2.91, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "모두 준비됐어? 차지 포워드!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_11"
+}

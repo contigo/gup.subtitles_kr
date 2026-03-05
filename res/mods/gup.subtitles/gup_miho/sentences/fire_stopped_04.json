@@ -1,0 +1,12 @@
+{
+    "duration": 2.73, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "불은 껐어요! 자, 가요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_04"
+}

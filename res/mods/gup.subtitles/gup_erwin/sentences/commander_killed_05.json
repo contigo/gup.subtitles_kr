@@ -1,0 +1,12 @@
+{
+    "duration": 2.09, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "인정하지, 방금 건 꽤 아팠다...", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_05"
+}

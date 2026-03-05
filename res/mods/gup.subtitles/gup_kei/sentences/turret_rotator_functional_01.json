@@ -1,0 +1,12 @@
+{
+    "duration": 2.34, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "올 라잇! 포탑 수리 완료!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_01"
+}

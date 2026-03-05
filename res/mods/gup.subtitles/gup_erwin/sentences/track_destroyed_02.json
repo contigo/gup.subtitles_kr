@@ -1,0 +1,12 @@
+{
+    "duration": 3.22, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "움직일 수 없다! 궤도를 빨리 고쳐라!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_02"
+}

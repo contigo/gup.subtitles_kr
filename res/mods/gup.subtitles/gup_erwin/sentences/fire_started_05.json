@@ -1,0 +1,12 @@
+{
+    "duration": 2.52, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "불이야! 제대로 당했군...!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_05"
+}

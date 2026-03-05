@@ -1,0 +1,12 @@
+{
+    "duration": 3.08, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "불 껐어! 이제 릴렉스!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_03"
+}

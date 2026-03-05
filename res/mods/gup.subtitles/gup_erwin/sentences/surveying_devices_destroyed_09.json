@@ -1,0 +1,12 @@
+{
+    "duration": 3.05, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이거 안 좋군, 밖을 볼 수가 없어.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_09"
+}

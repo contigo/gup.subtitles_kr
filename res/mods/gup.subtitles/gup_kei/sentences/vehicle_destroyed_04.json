@@ -1,0 +1,12 @@
+{
+    "duration": 1.13, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "여기서 무슨 일이 있었는지 다시 검토해야겠어.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_04"
+}

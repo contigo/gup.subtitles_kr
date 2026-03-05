@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "목표 포착! 하나 씨, 부탁해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_05"
+}

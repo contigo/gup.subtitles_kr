@@ -1,0 +1,12 @@
+{
+    "duration": 1.27, 
+    "timeline": [
+        {
+            "emotion": "happy", 
+            "text": "포탄 명중!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_05"
+}

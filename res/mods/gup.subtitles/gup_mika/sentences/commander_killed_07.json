@@ -1,0 +1,12 @@
+{
+    "duration": 2.33, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "난 괜찮아. 걱정 마.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_07"
+}

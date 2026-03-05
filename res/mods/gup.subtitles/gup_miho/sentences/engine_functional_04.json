@@ -1,0 +1,12 @@
+{
+    "duration": 3.1, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "수리 완료! 마코 씨, 출발해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_functional_04"
+}

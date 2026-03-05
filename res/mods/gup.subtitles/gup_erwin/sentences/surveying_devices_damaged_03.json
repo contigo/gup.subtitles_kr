@@ -1,0 +1,12 @@
+{
+    "duration": 2.03, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "관측 장비 피격을 확인했다.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_03"
+}

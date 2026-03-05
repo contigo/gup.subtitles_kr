@@ -1,0 +1,12 @@
+{
+    "duration": 3.01, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "어떻게든 포탑 구동 장치를 고쳤어요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_01"
+}

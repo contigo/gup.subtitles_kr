@@ -1,0 +1,12 @@
+{
+    "duration": 3.17, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "이 상태로는 움직일 수 없어요... 서둘러서 고치죠!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.42, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "우리 궤도를 노리고 있어, 조심해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_03"
+}

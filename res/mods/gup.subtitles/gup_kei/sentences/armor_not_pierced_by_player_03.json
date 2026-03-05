@@ -1,0 +1,12 @@
+{
+    "duration": 2.67, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "괜찮아, 다음 탄을 빨리 장전해.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_03"
+}

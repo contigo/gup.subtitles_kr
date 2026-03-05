@@ -1,0 +1,12 @@
+{
+    "duration": 4.14, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이동할 시간이다. 노르망디 때와 같은 긴장감이 감도는군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_10"
+}

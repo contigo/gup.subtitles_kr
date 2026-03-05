@@ -1,0 +1,12 @@
+{
+    "duration": 2.98, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "직격은 아니었나? 계속 압박해라.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_03"
+}

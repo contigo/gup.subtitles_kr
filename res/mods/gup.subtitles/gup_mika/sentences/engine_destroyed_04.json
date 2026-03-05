@@ -1,0 +1,12 @@
+{
+    "duration": 5.5, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "엔진 파괴. 인생에도 전차도에도 고난은 찾아오는 법이지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_04"
+}

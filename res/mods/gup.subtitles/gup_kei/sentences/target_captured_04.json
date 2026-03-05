@@ -1,0 +1,12 @@
+{
+    "duration": 1.08, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "타겟 캡처!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_04"
+}

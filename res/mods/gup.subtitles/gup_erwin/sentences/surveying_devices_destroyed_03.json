@@ -1,0 +1,12 @@
+{
+    "duration": 2.07, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "윽! 밖을 볼 수가 없군!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_03"
+}

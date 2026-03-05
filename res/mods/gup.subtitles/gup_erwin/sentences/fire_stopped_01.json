@@ -1,0 +1,12 @@
+{
+    "duration": 2.81, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "화재 진압 완료. 위험했군...", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_01"
+}

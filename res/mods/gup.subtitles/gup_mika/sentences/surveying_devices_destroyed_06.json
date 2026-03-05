@@ -1,0 +1,12 @@
+{
+    "duration": 5.17, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비 파괴. 그걸 노렸다면 꽤 솜씨가 좋군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_06"
+}

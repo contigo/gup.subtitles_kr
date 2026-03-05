@@ -1,0 +1,12 @@
+{
+    "duration": 1.43, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "주포 수리 완료!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 7.23, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "불은 꺼졌어. 인생에서도 전차도에서도 냉정함을 잃지 말아야지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_02"
+}

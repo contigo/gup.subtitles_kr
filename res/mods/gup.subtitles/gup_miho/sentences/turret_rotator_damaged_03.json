@@ -1,0 +1,12 @@
+{
+    "duration": 2.53, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "포탑 구동 장치에 이상 감지!?", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

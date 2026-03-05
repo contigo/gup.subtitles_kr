@@ -1,0 +1,12 @@
+{
+    "duration": 2.0, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이쯤에서 끝인가 보네.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_04"
+}

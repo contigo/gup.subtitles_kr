@@ -1,0 +1,12 @@
+{
+    "duration": 1.56, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "장전수가 부상당했다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_04"
+}

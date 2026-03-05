@@ -1,0 +1,12 @@
+{
+    "duration": 3.78, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "오케이, 에브리바디? 페어 플레이!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_13"
+}

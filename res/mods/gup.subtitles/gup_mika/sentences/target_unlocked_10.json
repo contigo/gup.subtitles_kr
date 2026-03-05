@@ -1,0 +1,12 @@
+{
+    "duration": 3.33, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "다른 표적을 노리는 것도 방법이겠지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_10"
+}

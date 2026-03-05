@@ -1,0 +1,12 @@
+{
+    "duration": 5.37, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "포가 고장 났어. 하지만 당황하지 마, 고치면 되니까.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_03"
+}

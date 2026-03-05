@@ -1,0 +1,12 @@
+{
+    "duration": 2.6, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "웁스! 놓쳤어.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_04"
+}

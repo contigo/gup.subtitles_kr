@@ -1,0 +1,12 @@
+{
+    "duration": 5.7, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포는 고쳤지만, 명중률 저하는 피할 수 없을지도.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_02"
+}

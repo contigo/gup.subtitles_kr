@@ -1,0 +1,12 @@
+{
+    "duration": 2.8, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "적 전차의 장갑이 꽤 단단한가 봐요.", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_02"
+}

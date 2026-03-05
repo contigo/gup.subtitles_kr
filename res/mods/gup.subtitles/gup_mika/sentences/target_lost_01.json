@@ -1,0 +1,12 @@
+{
+    "duration": 2.73, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "아아, 표적이 사라졌나?", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_01"
+}

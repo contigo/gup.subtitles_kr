@@ -1,0 +1,12 @@
+{
+    "duration": 1.2, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "어디든 좋으니 쏴버려!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 4.13, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "나이스! 우리가 해치웠어! 다음 목표로!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_08"
+}

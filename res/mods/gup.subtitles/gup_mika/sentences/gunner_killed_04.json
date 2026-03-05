@@ -1,0 +1,12 @@
+{
+    "duration": 4.8, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "포수석이 손상되었어. 명중률 저하는 피할 수 없겠군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_04"
+}

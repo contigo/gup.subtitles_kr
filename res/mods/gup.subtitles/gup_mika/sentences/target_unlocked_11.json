@@ -1,0 +1,12 @@
+{
+    "duration": 2.83, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이 표적은 포기하자.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_11"
+}

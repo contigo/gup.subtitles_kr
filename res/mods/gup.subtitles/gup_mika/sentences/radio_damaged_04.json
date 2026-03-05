@@ -1,0 +1,12 @@
+{
+    "duration": 5.67, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "무전기 손상. 적들이 우리의 협동을 방해하려 하는군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_04"
+}

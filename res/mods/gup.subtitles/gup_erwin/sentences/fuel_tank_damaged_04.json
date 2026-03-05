@@ -1,0 +1,12 @@
+{
+    "duration": 3.13, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "연료가 새고 있나...? 화재 위험이 있겠군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.3, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 격파! 콩그레츄레이션!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_01"
+}

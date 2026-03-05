@@ -1,0 +1,12 @@
+{
+    "duration": 2.37, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "어떡해! 다 같이 불을 꺼요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_02"
+}

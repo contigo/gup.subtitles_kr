@@ -1,0 +1,12 @@
+{
+    "duration": 3.15, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차에 타격을 확인했다! 이대로 밀어붙여!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.01, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "궤도 가동!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_01"
+}

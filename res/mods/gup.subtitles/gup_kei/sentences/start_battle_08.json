@@ -1,0 +1,12 @@
+{
+    "duration": 6.87, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "수페리어 파이어파워 독트린은 어때? 우리 10대로 저들 하나를 공격하는 거야!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_08"
+}

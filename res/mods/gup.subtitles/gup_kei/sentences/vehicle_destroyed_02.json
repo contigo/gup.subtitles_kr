@@ -1,0 +1,12 @@
+{
+    "duration": 4.83, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "쉽지 않네. 이게 전차도인가, 응?", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_02"
+}

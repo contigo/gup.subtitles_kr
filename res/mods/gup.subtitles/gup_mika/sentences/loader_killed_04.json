@@ -1,0 +1,12 @@
+{
+    "duration": 5.17, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "장전수석이 손상되었어. 재장전 속도 저하는 피할 수 없겠군.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_04"
+}

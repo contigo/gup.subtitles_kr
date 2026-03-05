@@ -1,0 +1,12 @@
+{
+    "duration": 2.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이 적에게 집착할 필요는 없어.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.54, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이런, 전차가 타고 있군!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_06"
+}

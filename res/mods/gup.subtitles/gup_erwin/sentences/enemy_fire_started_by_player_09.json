@@ -1,0 +1,12 @@
+{
+    "duration": 1.46, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "불을 질렀군!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_09"
+}

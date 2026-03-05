@@ -1,0 +1,12 @@
+{
+    "duration": 2.05, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "드디어 우리가 활약할 시간이 왔군!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_12"
+}

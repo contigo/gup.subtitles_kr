@@ -1,0 +1,12 @@
+{
+    "duration": 4.53, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 구동 장치 조정 완료! 하지만 아직 방심하면 안 돼요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_02"
+}

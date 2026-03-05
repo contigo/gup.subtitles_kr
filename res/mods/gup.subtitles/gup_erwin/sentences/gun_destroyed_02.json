@@ -1,0 +1,12 @@
+{
+    "duration": 2.61, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "주포가 파괴됐다! 사격 불가능이다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_02"
+}

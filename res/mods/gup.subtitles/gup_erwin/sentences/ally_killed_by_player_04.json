@@ -1,0 +1,12 @@
+{
+    "duration": 1.97, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "그만둬, 아군을 쐈잖아.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_04"
+}

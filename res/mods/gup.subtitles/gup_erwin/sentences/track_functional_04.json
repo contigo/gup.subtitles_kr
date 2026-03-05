@@ -1,0 +1,12 @@
+{
+    "duration": 1.49, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "궤도 복구 완료!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_04"
+}

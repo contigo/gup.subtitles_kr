@@ -1,0 +1,12 @@
+{
+    "duration": 2.11, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "준비해라! 전진!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_13"
+}

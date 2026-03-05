@@ -1,0 +1,12 @@
+{
+    "duration": 4.28, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "최선을 다했다면 패배도 받아들여야지. 굿 매치!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_05"
+}

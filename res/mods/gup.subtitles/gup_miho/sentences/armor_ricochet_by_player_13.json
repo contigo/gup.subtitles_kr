@@ -1,0 +1,12 @@
+{
+    "duration": 4.1, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "튕겨나가 버렸네... 하나 씨, 약점을 노릴 수 있을까요?", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_13"
+}

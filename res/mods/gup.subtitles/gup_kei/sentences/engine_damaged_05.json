@@ -1,0 +1,12 @@
+{
+    "duration": 2.37, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "엔진을 노리고 있어! 조심해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_05"
+}

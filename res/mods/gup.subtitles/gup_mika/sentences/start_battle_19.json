@@ -1,0 +1,12 @@
+{
+    "duration": 4.87, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "그럼, 이걸 빨리 끝내고 좋은 사우나나 즐기러 가자.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_19"
+}

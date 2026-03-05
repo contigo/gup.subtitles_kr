@@ -1,0 +1,12 @@
+{
+    "duration": 1.4, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "여기서 전원 탈락인가...", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.44, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑의 회전 속도가 떨어졌다.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

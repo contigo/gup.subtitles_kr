@@ -1,0 +1,12 @@
+{
+    "duration": 1.47, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "너무 멀리 쫓아가는 건 좋지 않아!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_01"
+}

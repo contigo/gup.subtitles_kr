@@ -1,0 +1,12 @@
+{
+    "duration": 2.81, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "괜찮아, 침착하게 다음 탄을 장전해.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_09"
+}

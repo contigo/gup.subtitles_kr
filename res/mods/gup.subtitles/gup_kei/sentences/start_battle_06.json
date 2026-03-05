@@ -1,0 +1,12 @@
+{
+    "duration": 2.57, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "익사이팅하고 크레이지하게 가자!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_06"
+}

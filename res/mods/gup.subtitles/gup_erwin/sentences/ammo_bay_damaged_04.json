@@ -1,0 +1,12 @@
+{
+    "duration": 2.06, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "탄약고를 노리고 있는 건가!?", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_04"
+}

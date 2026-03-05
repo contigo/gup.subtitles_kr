@@ -1,0 +1,12 @@
+{
+    "duration": 2.44, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "저건 다른 팀에게 맡기자!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_06"
+}

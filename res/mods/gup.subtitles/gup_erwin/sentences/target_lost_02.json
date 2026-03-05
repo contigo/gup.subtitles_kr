@@ -1,0 +1,12 @@
+{
+    "duration": 2.11, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "흠, 목표가 사라졌군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_02"
+}

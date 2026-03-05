@@ -1,0 +1,12 @@
+{
+    "duration": 1.18, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "표적을 바꾸자.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_01"
+}

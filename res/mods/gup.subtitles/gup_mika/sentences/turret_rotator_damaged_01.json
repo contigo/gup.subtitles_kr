@@ -1,0 +1,12 @@
+{
+    "duration": 4.1, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 링이 피격되었어. 유압 장치가 손상되었을지도.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_01"
+}

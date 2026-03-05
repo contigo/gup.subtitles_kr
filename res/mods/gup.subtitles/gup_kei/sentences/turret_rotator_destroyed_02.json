@@ -1,0 +1,12 @@
+{
+    "duration": 2.28, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포탑 구동 장치 파괴!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_02"
+}

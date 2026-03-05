@@ -1,0 +1,12 @@
+{
+    "duration": 2.82, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "주포 파괴! 쏠 수 없어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_01"
+}

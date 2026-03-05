@@ -1,0 +1,12 @@
+{
+    "duration": 7.63, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "파괴되었다고 진 건 아니야. 하지만 대부분의 사람들은 그걸 이해하지 못하지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "vehicle_destroyed_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.0, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "모두, 궤도 복구.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_03"
+}

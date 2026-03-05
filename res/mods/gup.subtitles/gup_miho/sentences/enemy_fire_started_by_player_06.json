@@ -1,0 +1,12 @@
+{
+    "duration": 2.67, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 전차에 불이 붙었어요! 지원을 요청해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_06"
+}

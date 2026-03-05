@@ -1,0 +1,12 @@
+{
+    "duration": 4.42, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "시합 시작! 모두 굿 럭!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_10"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.27, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포탑 손상! 회전 속도 저하!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_02"
+}

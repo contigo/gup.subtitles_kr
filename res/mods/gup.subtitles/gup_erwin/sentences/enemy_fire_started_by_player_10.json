@@ -1,0 +1,12 @@
+{
+    "duration": 2.8, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "불이다! 적 전차에서 불길이 보인다고!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_10"
+}

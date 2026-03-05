@@ -1,0 +1,12 @@
+{
+    "duration": 2.27, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "윽... 이번 건 좀 아프군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_02"
+}

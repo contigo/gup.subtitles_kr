@@ -1,0 +1,12 @@
+{
+    "duration": 2.84, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "응급 처치 완료. 이제 사격할 수 있다.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_functional_04"
+}

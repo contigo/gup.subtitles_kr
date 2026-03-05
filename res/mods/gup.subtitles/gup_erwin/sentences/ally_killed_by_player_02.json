@@ -1,0 +1,12 @@
+{
+    "duration": 3.73, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "아군이다. 양면 전쟁(two-front war)은 이제 질색이라고.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ally_killed_by_player_02"
+}

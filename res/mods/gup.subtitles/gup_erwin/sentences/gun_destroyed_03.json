@@ -1,0 +1,12 @@
+{
+    "duration": 1.85, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "주포가 심하게 파손됐다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.15, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "불이야! 조심해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.84, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "뭐!? 포탑이 고정됐잖아! 빨리 고쳐!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_04"
+}

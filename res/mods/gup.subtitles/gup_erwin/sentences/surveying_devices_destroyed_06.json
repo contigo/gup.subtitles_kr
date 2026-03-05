@@ -1,0 +1,12 @@
+{
+    "duration": 2.99, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "윽! 아무것도 보이질 않아!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_06"
+}

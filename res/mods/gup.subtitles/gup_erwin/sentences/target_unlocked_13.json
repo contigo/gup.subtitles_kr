@@ -1,0 +1,12 @@
+{
+    "duration": 1.89, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "다음 표적으로 넘어가자.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_13"
+}

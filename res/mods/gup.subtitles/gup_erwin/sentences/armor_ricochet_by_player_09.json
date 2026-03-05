@@ -1,0 +1,12 @@
+{
+    "duration": 2.19, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "도탄입니다. 다음번엔 확실히...!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_09"
+}

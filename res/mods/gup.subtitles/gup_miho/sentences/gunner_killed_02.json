@@ -1,0 +1,12 @@
+{
+    "duration": 1.13, 
+    "timeline": [
+        {
+            "emotion": "surprised", 
+            "text": "포수 부상! 수리가 필요해요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_02"
+}

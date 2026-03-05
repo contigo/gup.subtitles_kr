@@ -1,0 +1,12 @@
+{
+    "duration": 3.63, 
+    "timeline": [
+        {
+            "emotion": "agitated", 
+            "text": "궤도 피격! 마코 씨! 다음 공격은 피해주세요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.72, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "맞혔지만 뚫지는 못했군요...", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_08"
+}

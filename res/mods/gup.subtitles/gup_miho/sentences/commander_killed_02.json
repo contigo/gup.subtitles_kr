@@ -1,0 +1,12 @@
+{
+    "duration": 3.53, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "저는 괜찮아요, 걱정하지 마세요.", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_02"
+}

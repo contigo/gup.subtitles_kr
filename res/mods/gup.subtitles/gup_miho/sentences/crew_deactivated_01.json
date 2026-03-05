@@ -1,0 +1,12 @@
+{
+    "duration": 1.73, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "모두들! 괜찮아요!?", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_01"
+}

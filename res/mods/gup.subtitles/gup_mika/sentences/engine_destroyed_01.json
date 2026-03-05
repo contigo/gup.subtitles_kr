@@ -1,0 +1,12 @@
+{
+    "duration": 4.03, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "엔진 파괴. 고쳐야겠어.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_01"
+}

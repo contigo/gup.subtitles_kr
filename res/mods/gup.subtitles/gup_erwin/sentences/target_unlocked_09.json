@@ -1,0 +1,12 @@
+{
+    "duration": 1.28, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이 표적에 얽매이지 말자.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_09"
+}

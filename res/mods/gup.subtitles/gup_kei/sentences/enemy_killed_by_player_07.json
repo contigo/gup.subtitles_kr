@@ -1,0 +1,12 @@
+{
+    "duration": 2.55, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "오케이! 우리가 해치웠어!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_07"
+}

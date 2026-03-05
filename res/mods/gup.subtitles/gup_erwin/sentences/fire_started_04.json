@@ -1,0 +1,12 @@
+{
+    "duration": 2.15, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "불이다! 빨리 꺼!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_04"
+}

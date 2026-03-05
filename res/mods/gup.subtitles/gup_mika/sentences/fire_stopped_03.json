@@ -1,0 +1,12 @@
+{
+    "duration": 4.17, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "불은 꺼진 것 같네. 다행히 전부 타지는 않았어.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_03"
+}

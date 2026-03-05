@@ -1,0 +1,12 @@
+{
+    "duration": 1.67, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "연료 탱크 피격!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_01"
+}

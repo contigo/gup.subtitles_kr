@@ -1,0 +1,12 @@
+{
+    "duration": 3.42, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "개시합시다. 우리의 목표는 오직 하나, 승리뿐입니다.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_15"
+}

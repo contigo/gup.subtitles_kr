@@ -1,0 +1,12 @@
+{
+    "duration": 2.08, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "좋아! 궤도 수리가 끝났다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_06"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.63, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "어떻게든 관측 장비를 고쳤어요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_05"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.4, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적이 한 대 줄었군!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_02"
+}

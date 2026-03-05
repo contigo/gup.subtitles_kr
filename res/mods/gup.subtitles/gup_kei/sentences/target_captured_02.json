@@ -1,0 +1,12 @@
+{
+    "duration": 1.32, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "우리는 스탠바이!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_02"
+}

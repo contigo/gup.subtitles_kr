@@ -1,0 +1,12 @@
+{
+    "duration": 4.88, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "전투가 시작됐군. 만약을 위해서 위장용 판넬을 준비해뒀다.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_14"
+}

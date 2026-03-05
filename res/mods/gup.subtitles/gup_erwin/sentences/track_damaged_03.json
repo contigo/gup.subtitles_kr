@@ -1,0 +1,12 @@
+{
+    "duration": 2.43, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "궤도 피격. 상태가 좋지 않군...", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_03"
+}

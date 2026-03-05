@@ -1,0 +1,12 @@
+{
+    "duration": 1.53, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "궤도 피격!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_01"
+}

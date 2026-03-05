@@ -1,0 +1,12 @@
+{
+    "duration": 0.99, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "다음번엔 맞힐 수 있다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.69, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "목표를 놓쳤군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_lost_03"
+}

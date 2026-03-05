@@ -1,0 +1,12 @@
+{
+    "duration": 1.21, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "표적을 바꿔야겠군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_10"
+}

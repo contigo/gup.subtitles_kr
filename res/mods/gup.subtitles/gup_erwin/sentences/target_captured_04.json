@@ -1,0 +1,12 @@
+{
+    "duration": 1.45, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "이 녀석을 격파하자!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.27, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차를 포착했다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_01"
+}

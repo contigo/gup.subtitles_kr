@@ -1,0 +1,12 @@
+{
+    "duration": 2.58, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포탑을 돌릴 수 없다! 즉시 수리해라!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_destroyed_01"
+}

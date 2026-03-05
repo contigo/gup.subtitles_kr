@@ -1,0 +1,12 @@
+{
+    "duration": 2.2, 
+    "timeline": [
+        {
+            "emotion": "proud", 
+            "text": "표적 획득! 준비!", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.59, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "해냈다! 적 전차를 격파했어!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.86, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "난 괜찮아, 걱정 마.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_04"
+}

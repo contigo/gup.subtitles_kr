@@ -1,0 +1,12 @@
+{
+    "duration": 2.5, 
+    "timeline": [
+        {
+            "emotion": "worried", 
+            "text": "탄약고 피격? 상태는 어떤가요?", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_04"
+}

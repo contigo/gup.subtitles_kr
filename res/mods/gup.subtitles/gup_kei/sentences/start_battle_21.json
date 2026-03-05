@@ -1,0 +1,12 @@
+{
+    "duration": 6.02, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이건 전쟁이 아니야. 우리가 그걸 잊으면 전차들이 슬퍼할 거야.", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_21"
+}

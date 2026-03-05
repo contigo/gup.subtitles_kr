@@ -1,0 +1,12 @@
+{
+    "duration": 2.89, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "장전수 피격! 상황 보고해!", 
+            "character": "kei", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_03"
+}

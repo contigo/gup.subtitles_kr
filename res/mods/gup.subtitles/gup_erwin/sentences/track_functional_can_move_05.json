@@ -1,0 +1,12 @@
+{
+    "duration": 2.81, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "궤도를 고쳤다. 다시 이동할 시간이다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_05"
+}

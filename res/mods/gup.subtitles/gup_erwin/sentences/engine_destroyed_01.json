@@ -1,0 +1,12 @@
+{
+    "duration": 2.12, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "엔진 파괴! 움직일 수 없다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_01"
+}

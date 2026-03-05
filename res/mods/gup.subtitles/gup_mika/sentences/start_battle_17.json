@@ -1,0 +1,12 @@
+{
+    "duration": 10.63, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "인생의 중요한 모든 것을 전차도에서 찾을 수 있지.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_17"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.3, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "응급 처치일 뿐이지만, 어떻게든 움직일 수는 있어요!", 
+            "character": "miho", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_functional_02"
+}

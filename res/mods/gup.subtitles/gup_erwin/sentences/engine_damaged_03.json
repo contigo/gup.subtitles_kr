@@ -1,0 +1,12 @@
+{
+    "duration": 3.24, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "속도가 안 나나!? 엔진을 당했군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.67, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "탄약고 피격. 다음 탄을 견딜 수 있을지 모르겠군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_03"
+}

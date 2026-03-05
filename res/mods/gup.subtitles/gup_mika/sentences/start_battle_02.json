@@ -1,0 +1,12 @@
+{
+    "duration": 8.7, 
+    "timeline": [
+        {
+            "emotion": "cool", 
+            "text": "시간이 다 된 것 같네. 인생이라는 이름의 바람을 타볼까.", 
+            "character": "mika", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_02"
+}
