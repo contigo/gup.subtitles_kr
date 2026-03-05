@@ -1,0 +1,12 @@
+{
+    "duration": 2.97, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "연료탱크가 맞았다! 불이 날 수도 있으니 조심해!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_02"
+}

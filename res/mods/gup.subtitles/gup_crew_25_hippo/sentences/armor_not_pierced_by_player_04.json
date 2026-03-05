@@ -1,0 +1,12 @@
+{
+    "duration": 2.04, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적의 장갑을 관통하지 못했어.", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_04"
+}

@@ -1,0 +1,42 @@
+{
+    "duration": 9.0, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "금세기의 대결전이군. 마치 엘 알라메인 전투처럼 말이지.", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "아니, 세키가하라 전투겠지.", 
+            "character": "saemonza", 
+            "time": 4.8
+        }, 
+        {
+            "emotion": "focused", 
+            "text": "도바-후시미 전투를 말씀하시는 거군요.", 
+            "character": "oryou", 
+            "time": 6.7
+        }, 
+        {
+            "emotion": "excited", 
+            "text": "그거야!", 
+            "character": "erwin", 
+            "time": 8.3
+        }, 
+        {
+            "emotion": "excited", 
+            "text": "그거야!", 
+            "character": "caesar", 
+            "time": 8.3
+        }, 
+        {
+            "emotion": "excited", 
+            "text": "그거야!", 
+            "character": "saemonza", 
+            "time": 8.3
+        }
+    ], 
+    "audio": "start_battle_11"
+}

@@ -1,0 +1,18 @@
+{
+    "duration": 4.06, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "불을 껐어!", 
+            "character": "saemonza", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "excited", 
+            "text": "불이 꺼졌군. 잘했다.", 
+            "character": "erwin", 
+            "time": 1.6
+        }
+    ], 
+    "audio": "fire_stopped_02"
+}

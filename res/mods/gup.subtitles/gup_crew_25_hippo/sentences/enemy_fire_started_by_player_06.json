@@ -1,0 +1,12 @@
+{
+    "duration": 1.6, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 전차가 타고 있어.", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_06"
+}

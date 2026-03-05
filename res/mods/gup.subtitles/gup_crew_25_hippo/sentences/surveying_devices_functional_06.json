@@ -1,0 +1,12 @@
+{
+    "duration": 2.85, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "됐어. 이제 밖을 볼 수 있겠군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_06"
+}

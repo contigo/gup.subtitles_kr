@@ -1,0 +1,12 @@
+{
+    "duration": 1.85, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적 전차에 화재가 발생했습니다.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_10"
+}

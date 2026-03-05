@@ -1,0 +1,18 @@
+{
+    "duration": 5.79, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "엔진 손상! 오료, 상태는 어때?", 
+            "character": "caesar", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "default", 
+            "text": "움직일 수는 있지만, 전속력은 무리예요.", 
+            "character": "oryou", 
+            "time": 2.9
+        }
+    ], 
+    "audio": "engine_damaged_07"
+}

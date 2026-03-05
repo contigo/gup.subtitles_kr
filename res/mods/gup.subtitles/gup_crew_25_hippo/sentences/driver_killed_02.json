@@ -1,0 +1,12 @@
+{
+    "duration": 1.78, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "조종수석을 노리고 있어!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "driver_killed_02"
+}

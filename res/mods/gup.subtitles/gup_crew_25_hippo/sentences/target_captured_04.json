@@ -1,0 +1,12 @@
+{
+    "duration": 1.04, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "이 녀석을 노리겠어!", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_captured_04"
+}

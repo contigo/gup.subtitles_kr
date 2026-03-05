@@ -1,0 +1,12 @@
+{
+    "duration": 1.79, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "거의 직격이었는데.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_01"
+}

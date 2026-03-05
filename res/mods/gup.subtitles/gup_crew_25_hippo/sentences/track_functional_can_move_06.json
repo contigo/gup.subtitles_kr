@@ -1,0 +1,12 @@
+{
+    "duration": 2.78, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "궤도 복구 완료. 이동할 시간이다.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_06"
+}

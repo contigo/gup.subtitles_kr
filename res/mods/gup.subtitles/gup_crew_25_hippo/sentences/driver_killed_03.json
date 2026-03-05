@@ -1,0 +1,18 @@
+{
+    "duration": 3.6, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "조종수석을 맞은 건가!? 오료, 괜찮아?", 
+            "character": "caesar", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "default", 
+            "text": "어떻게든요...", 
+            "character": "oryou", 
+            "time": 2.8
+        }
+    ], 
+    "audio": "driver_killed_03"
+}

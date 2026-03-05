@@ -1,0 +1,12 @@
+{
+    "duration": 1.02, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "튕겨 나갔어.", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_ricochet_by_player_04"
+}

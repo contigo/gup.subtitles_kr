@@ -1,0 +1,18 @@
+{
+    "duration": 2.96, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "제길, 누가 나 좀 엄호해 줘.", 
+            "character": "caesar", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "default", 
+            "text": "맡겨둬.", 
+            "character": "saemonza", 
+            "time": 2.4
+        }
+    ], 
+    "audio": "commander_killed_06"
+}

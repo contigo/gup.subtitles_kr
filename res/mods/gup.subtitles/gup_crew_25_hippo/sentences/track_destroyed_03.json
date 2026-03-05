@@ -1,0 +1,12 @@
+{
+    "duration": 2.93, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "궤도 파괴, 기동 불능! 즉시 수리해!", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_03"
+}

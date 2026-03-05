@@ -1,0 +1,30 @@
+{
+    "duration": 4.79, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "우리의 역사를 장식하던...", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "default", 
+            "text": "막이...", 
+            "character": "caesar", 
+            "time": 1.4
+        }, 
+        {
+            "emotion": "default", 
+            "text": "지금...", 
+            "character": "saemonza", 
+            "time": 2.5
+        }, 
+        {
+            "emotion": "default", 
+            "text": "내려갔군.", 
+            "character": "oryou", 
+            "time": 3.6
+        }
+    ], 
+    "audio": "vehicle_destroyed_01"
+}

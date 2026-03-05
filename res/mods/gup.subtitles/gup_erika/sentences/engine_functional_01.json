@@ -3,8 +3,8 @@
     "timeline": [
         {
             "emotion": "default", 
-"text": "엔진이 돌아왔어! 가자!" 
-            "character": "erika", 
+"text": "엔진이 돌아왔어! 가자!",
+    "character": "erika", 
             "time": 0.0
         }
     ], 

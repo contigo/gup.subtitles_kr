@@ -1,0 +1,12 @@
+{
+    "duration": 1.98, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "포탑 회전 장치 복구 완료!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_01"
+}

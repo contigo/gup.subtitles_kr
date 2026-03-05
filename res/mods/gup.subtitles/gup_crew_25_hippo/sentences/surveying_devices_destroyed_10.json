@@ -1,0 +1,18 @@
+{
+    "duration": 4.25, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비 파괴. 침착하게 수리해라.", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "default", 
+            "text": "알겠습니다.", 
+            "character": "oryou", 
+            "time": 3.7
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_10"
+}

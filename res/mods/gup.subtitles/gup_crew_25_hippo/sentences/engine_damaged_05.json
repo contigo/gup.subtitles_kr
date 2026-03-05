@@ -1,0 +1,12 @@
+{
+    "duration": 2.66, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "적들이 엔진을 노리는 것 같다. 조심해.", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_damaged_05"
+}

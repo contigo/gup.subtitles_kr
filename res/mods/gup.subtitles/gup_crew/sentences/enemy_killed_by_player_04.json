@@ -3,7 +3,7 @@
     "timeline": [
         {
             "emotion": "default", 
-            "text": "적 차량 격파!", 
+            "text": "명중... 적 차량, 격파했습니다.", 
             "character": "hana", 
             "time": 0.0
         }

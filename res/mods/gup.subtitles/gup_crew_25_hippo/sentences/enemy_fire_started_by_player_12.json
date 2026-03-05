@@ -1,0 +1,12 @@
+{
+    "duration": 2.45, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "적 전차에서 불길이 치솟는 게 보입니다.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_12"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.2, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "연료탱크 피격!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_01"
+}

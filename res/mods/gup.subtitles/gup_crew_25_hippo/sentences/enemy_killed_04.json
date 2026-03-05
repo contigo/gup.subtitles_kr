@@ -1,0 +1,12 @@
+{
+    "duration": 1.62, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차를 격파했습니다.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_04"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.49, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차에 불이 보이네. 마치 히에이산 소행(燒打) 같구만.", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_07"
+}

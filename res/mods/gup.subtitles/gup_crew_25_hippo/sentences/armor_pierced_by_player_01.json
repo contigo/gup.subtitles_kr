@@ -1,0 +1,12 @@
+{
+    "duration": 1.39, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "흠, 잘했군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_by_player_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.51, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "포탑이 제대로 돌지 않아. 괜찮은 건가?", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_02"
+}

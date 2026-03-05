@@ -1,0 +1,12 @@
+{
+    "duration": 1.74, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "주포가 망가졌어...!", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_02"
+}

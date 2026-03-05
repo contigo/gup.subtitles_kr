@@ -1,0 +1,12 @@
+{
+    "duration": 1.64, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "적들이 궤도를 노리고 있네요.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_damaged_04"
+}

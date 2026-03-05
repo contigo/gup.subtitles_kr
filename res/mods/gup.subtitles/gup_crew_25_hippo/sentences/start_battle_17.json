@@ -1,0 +1,12 @@
+{
+    "duration": 4.22, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "육문전(六文錢)을 잊지 마라. 끝까지 두려움 없이 싸우자!", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_17"
+}

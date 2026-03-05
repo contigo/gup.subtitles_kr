@@ -1,0 +1,12 @@
+{
+    "duration": 2.45, 
+    "timeline": [
+        {
+            "emotion": "angry", 
+            "text": "엔진 파괴! 기동 불능이야!", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "engine_destroyed_02"
+}

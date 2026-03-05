@@ -1,0 +1,12 @@
+{
+    "duration": 3.98, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "밖은 어떻게 된 거야? 관측 장비가 당해서 보이질 않는다고!", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_05"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.8, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "우리도 여기까지인 모양이군. 탈출하자.", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "crew_deactivated_01"
+}

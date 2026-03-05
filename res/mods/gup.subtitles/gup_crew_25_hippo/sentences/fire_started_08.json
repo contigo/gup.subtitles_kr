@@ -1,0 +1,12 @@
+{
+    "duration": 2.24, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "화재 발생! 즉시 소화하세요!", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_08"
+}

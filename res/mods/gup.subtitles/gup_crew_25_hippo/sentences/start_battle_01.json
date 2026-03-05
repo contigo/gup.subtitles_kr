@@ -1,0 +1,12 @@
+{
+    "duration": 4.42, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "전차 전진! 자신의 인생이란 이야기 속 주인공은 바로 당신이니까요.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_01"
+}

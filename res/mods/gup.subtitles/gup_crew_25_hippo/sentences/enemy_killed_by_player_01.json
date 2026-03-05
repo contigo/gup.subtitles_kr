@@ -1,0 +1,12 @@
+{
+    "duration": 2.74, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차 격파! 비트만 못지않은 솜씨군!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_01"
+}

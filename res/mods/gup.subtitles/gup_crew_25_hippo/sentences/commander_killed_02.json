@@ -1,0 +1,18 @@
+{
+    "duration": 3.8, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "에르빈, 괜찮아!?", 
+            "character": "caesar", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "default", 
+            "text": "윽... 이번 건 좀 아프군.", 
+            "character": "erwin", 
+            "time": 1.8
+        }
+    ], 
+    "audio": "commander_killed_02"
+}

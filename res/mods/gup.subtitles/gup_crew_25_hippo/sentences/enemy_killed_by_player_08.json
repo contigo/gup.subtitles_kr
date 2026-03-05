@@ -1,0 +1,18 @@
+{
+    "duration": 6.85, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "적 전차 격파. 하지만 방심하지 마라.", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "이겼을 때일수록 투구의 끈을 조여야 하는 법이지.", 
+            "character": "caesar", 
+            "time": 3.8
+        }
+    ], 
+    "audio": "enemy_killed_by_player_08"
+}

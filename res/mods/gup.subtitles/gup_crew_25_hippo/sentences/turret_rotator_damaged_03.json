@@ -1,0 +1,12 @@
+{
+    "duration": 2.35, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포탑 회전 장치가 고장 난 모양이야.", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_damaged_03"
+}

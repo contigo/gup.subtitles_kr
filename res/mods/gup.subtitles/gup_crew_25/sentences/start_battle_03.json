@@ -3,25 +3,25 @@
     "timeline": [
         {
             "emotion": "default", 
-            "text": "흥미로운 전투가 되겠군요.", 
+            "text": "흥미로운 싸움이 될 것 같군요.", 
                         "character": "darjeeling", 
                         "time": 0.0
                     },
                     {
                         "emotion": "default", 
-                        "text": "존경하는 마음으로 말씀드리지만, 데이터에 따르면 힘든 전투가 될 것입니다.", 
+                        "text": "외람되오나, 데이터상으로는 꽤 고전할 것으로 보입니다.", 
                         "character": "assam", 
                         "time": 2.53
                     },
                     {
                         "emotion": "proud", 
-                        "text": "준비됐어요!", 
+                        "text": "준비 완료되었습니다!", 
                         "character": "orange_pekoe", 
                         "time": 7.08
                     },
                     {
                         "emotion": "focused", 
-                        "text": "하지만 운명은 변덕스러울 수 있답니다. 불리한 상황에 처한 쪽이 때로는 승리하기도 하죠.", 
+                        "text": "하지만 운명이란 알 수 없는 것. 역경이야말로 승리의 향기를 더해주는 법이랍니다.", 
             "character": "darjeeling", 
             "time": 9.18
         }

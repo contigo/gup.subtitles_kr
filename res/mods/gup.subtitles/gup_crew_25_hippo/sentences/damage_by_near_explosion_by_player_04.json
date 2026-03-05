@@ -1,0 +1,12 @@
+{
+    "duration": 1.9, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "다음엔 맞힐 수 있어요!", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "damage_by_near_explosion_by_player_04"
+}

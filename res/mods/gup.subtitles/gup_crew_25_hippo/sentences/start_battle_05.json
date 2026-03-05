@@ -1,0 +1,30 @@
+{
+    "duration": 6.61, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "천천히 공격하는 것도 좋지만, 단숨에 몰아치는 건 어떤가?", 
+            "character": "caesar", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "default", 
+            "text": "동감일세.", 
+            "character": "saemonza", 
+            "time": 3.5
+        }, 
+        {
+            "emotion": "content", 
+            "text": "훌륭한 작전이군.", 
+            "character": "erwin", 
+            "time": 4.1
+        }, 
+        {
+            "emotion": "focused", 
+            "text": "기선을 제압하는 자가 승리하는 법이지.", 
+            "character": "oryou", 
+            "time": 5.2
+        }
+    ], 
+    "audio": "start_battle_05"
+}

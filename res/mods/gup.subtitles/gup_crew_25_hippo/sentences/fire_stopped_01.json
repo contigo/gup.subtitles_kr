@@ -1,0 +1,12 @@
+{
+    "duration": 2.46, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "휴우... 불이 꺼졌군.", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_stopped_01"
+}

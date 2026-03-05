@@ -1,0 +1,12 @@
+{
+    "duration": 1.52, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "어라? 화공(火攻)이라도 쓰는 건가?", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fire_started_03"
+}

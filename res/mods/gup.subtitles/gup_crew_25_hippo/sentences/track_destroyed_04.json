@@ -1,0 +1,12 @@
+{
+    "duration": 3.18, 
+    "timeline": [
+        {
+            "emotion": "angry", 
+            "text": "궤도가 파괴됐다! 이대로는 좋은 먹잇감이 되겠어!", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_04"
+}

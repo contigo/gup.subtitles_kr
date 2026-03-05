@@ -1,0 +1,12 @@
+{
+    "duration": 2.88, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "탄약고를 맞았군. 적들을 너무 얕본 모양이야.", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "ammo_bay_damaged_04"
+}

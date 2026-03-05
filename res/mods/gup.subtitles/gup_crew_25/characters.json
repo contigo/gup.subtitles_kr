@@ -1,7 +1,7 @@
 [
 	{
 		"id": "darjeeling",
-		"name": "Darjeeling",
+		"name": "다즐링",
 		"color": "#47854F",
 		"presets": {
 			"small": {
@@ -30,7 +30,7 @@
 	},
 	{
 		"id": "assam",
-		"name": "Assam",
+		"name": "아삼",
 		"color": "#292C42",
 		"presets": {
 			"small": {
@@ -55,7 +55,7 @@
 	},
 	{
 		"id": "orange_pekoe",
-		"name": "Orange Pekoe",
+		"name": "오렌지 페코",
 		"color": "#592E25",
 		"presets": {
 			"small": {

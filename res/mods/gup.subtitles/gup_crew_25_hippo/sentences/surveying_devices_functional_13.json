@@ -1,0 +1,12 @@
+{
+    "duration": 2.29, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "관측 장비 수리가 끝났습니다.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_functional_13"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.83, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "무전기가 손상됐습니다.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_06"
+}

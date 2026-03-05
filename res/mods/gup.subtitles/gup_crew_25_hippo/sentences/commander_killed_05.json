@@ -1,0 +1,12 @@
+{
+    "duration": 1.26, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "에르빈, 괜찮으신가요!?", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_05"
+}

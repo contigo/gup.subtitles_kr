@@ -1,0 +1,48 @@
+{
+    "duration": 10.48, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "드디어 시작이군, 사나다의 토이시성 공략 같아.", 
+            "character": "saemonza", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "아니면 파르살루스 전투라든가.", 
+            "character": "caesar", 
+            "time": 3.8
+        }, 
+        {
+            "emotion": "focus", 
+            "text": "에도성 무혈 개성을 말씀하시는 거겠죠.", 
+            "character": "oryou", 
+            "time": 5.7
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "아니, 그랑 사소 습격(Gran Sasso raid)이다.", 
+            "character": "erwin", 
+            "time": 7.3
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "그거야!", 
+            "character": "caesar", 
+            "time": 9.6
+        }, 
+        {
+            "emotion": "excited", 
+            "text": "그거야!", 
+            "character": "saemonza", 
+            "time": 9.6
+        }, 
+        {
+            "emotion": "excited", 
+            "text": "그거야!", 
+            "character": "oryou", 
+            "time": 9.6
+        }
+    ], 
+    "audio": "start_battle_12"
+}

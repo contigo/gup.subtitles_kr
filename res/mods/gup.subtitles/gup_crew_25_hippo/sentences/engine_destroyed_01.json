@@ -1,0 +1,18 @@
+{
+    "duration": 4.34, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "엔진 파괴! 움직일 수 없다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "마치 벤케이(弁慶)의 마지막 모습 같구만...", 
+            "character": "saemonza", 
+            "time": 2.45
+        }
+    ], 
+    "audio": "engine_destroyed_01"
+}

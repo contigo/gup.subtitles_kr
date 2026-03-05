@@ -1,0 +1,12 @@
+{
+    "duration": 2.44, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "맞혔지만 뚫지는 못했군.", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 1.74, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "포수석을 맞은 것 같네요.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gunner_killed_04"
+}

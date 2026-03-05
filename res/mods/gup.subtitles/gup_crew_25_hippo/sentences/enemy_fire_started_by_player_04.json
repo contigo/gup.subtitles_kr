@@ -1,0 +1,12 @@
+{
+    "duration": 3.09, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "불이 났군! 마치 로마 대화재 같아.", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_04"
+}

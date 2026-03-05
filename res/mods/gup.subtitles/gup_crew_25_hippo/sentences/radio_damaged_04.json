@@ -1,0 +1,12 @@
+{
+    "duration": 1.73, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "통신이 안 되는 모양이군.", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radio_damaged_04"
+}

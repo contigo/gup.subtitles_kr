@@ -1,0 +1,12 @@
+{
+    "duration": 2.82, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "관측 장비를 맞았습니다. 조심하세요.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_08"
+}

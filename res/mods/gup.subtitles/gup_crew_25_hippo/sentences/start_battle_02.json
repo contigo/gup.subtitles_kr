@@ -1,0 +1,42 @@
+{
+    "duration": 10.71, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "개시합시다. 이번 전투는 아라스 전투와 비슷하겠군요!", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "focused", 
+            "text": "아니, 고슈-카츠누마 전투겠죠.", 
+            "character": "oryou", 
+            "time": 5.3
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "틀림없이 텐노지 전투야.", 
+            "character": "saemonza", 
+            "time": 8.1
+        }, 
+        {
+            "emotion": "excited", 
+            "text": "그거야!", 
+            "character": "erwin", 
+            "time": 9.9
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "그거야!", 
+            "character": "caesar", 
+            "time": 9.9
+        }, 
+        {
+            "emotion": "excited", 
+            "text": "그거야!", 
+            "character": "oryou", 
+            "time": 9.9
+        }
+    ], 
+    "audio": "start_battle_02"
+}

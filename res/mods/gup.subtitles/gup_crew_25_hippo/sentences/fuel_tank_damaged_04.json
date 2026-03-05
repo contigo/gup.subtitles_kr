@@ -1,0 +1,12 @@
+{
+    "duration": 2.31, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "연료가 새고 있어. 조심하게.", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "fuel_tank_damaged_04"
+}

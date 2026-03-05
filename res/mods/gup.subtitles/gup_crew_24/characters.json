@@ -1,7 +1,7 @@
 [
 	{
 		"id": "mika",
-		"name": "Mika",
+		"name": "미카",
 		"color": "#01402E",
 		"presets": {
 			"small": {
@@ -32,7 +32,7 @@
 	},
 	{
 		"id": "aki",
-		"name": "Aki",
+		"name": "아키",
 		"color": "#4E3954",
 		"presets": {
 			"small": {
@@ -67,7 +67,7 @@
 	},
 	{
 		"id": "mikko",
-		"name": "Mikko",
+		"name": "밋코",
 		"color": "#592E25",
 		"presets": {
 			"small": {

@@ -1,0 +1,12 @@
+{
+    "duration": 2.25, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "당했군. 잠시 쉬어야겠어...", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_01"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.96, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "주포 파괴! 사격 불가능합니다.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "gun_destroyed_03"
+}

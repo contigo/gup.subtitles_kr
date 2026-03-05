@@ -1,0 +1,24 @@
+{
+    "duration": 5.52, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "불이야!", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "심두멸각(心頭滅却)하면 불 또한 시원한 법...!", 
+            "character": "saemonza", 
+            "time": 1.4
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "서둘러 꺼!", 
+            "character": "caesar", 
+            "time": 4.5
+        }
+    ], 
+    "audio": "fire_started_02"
+}

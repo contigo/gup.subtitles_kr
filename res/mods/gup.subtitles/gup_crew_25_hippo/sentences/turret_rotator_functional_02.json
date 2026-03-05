@@ -1,0 +1,12 @@
+{
+    "duration": 3.32, 
+    "timeline": [
+        {
+            "emotion": "content", 
+            "text": "포탑 회전 장치를 수리했어. 이제 포탑을 돌릴 수 있겠군.", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "turret_rotator_functional_02"
+}

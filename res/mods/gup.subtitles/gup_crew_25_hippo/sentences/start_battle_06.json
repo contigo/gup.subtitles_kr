@@ -1,0 +1,30 @@
+{
+    "duration": 7.49, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "전차 전진!", 
+            "character": "saemonza", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "focused", 
+            "text": "전술은 차륜진(車輪陣)으로 하시겠습니까?", 
+            "character": "oryou", 
+            "time": 1.5
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "판처 카일(Panzerkeil)로 가자.", 
+            "character": "erwin", 
+            "time": 4.1
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "우리 전차는 한 대뿐이라고.", 
+            "character": "caesar", 
+            "time": 6.1
+        }
+    ], 
+    "audio": "start_battle_06"
+}

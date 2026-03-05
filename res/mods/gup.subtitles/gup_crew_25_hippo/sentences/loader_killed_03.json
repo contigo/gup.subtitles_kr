@@ -1,0 +1,18 @@
+{
+    "duration": 6.0, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "장전수석을 맞았다! 상황 보고해!", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "default", 
+            "text": "피해가 막심하군... 꽤 아프다고...", 
+            "character": "caesar", 
+            "time": 2.8
+        }
+    ], 
+    "audio": "loader_killed_03"
+}

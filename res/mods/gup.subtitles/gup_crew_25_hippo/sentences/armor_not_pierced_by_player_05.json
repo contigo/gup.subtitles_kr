@@ -1,0 +1,12 @@
+{
+    "duration": 1.41, 
+    "timeline": [
+        {
+            "emotion": "confused", 
+            "text": "대미지를 주지 못한 것 같아.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_not_pierced_by_player_05"
+}

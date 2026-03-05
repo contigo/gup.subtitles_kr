@@ -1,0 +1,12 @@
+{
+    "duration": 2.91, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "궤도가 다 고쳐졌군! 이제 기동할 수 있어.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_05"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 3.03, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "전투를 시작하자. 주사위는 던져졌다.", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_15"
+}

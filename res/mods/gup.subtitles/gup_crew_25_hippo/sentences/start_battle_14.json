@@ -1,0 +1,30 @@
+{
+    "duration": 9.09, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "전투가 시작됐군. 만약을 위해서 위장용 판넬을 준비해뒀다.", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "content", 
+            "text": "이게 괜찮아 보이는군.", 
+            "character": "caesar", 
+            "time": 5.8
+        }, 
+        {
+            "emotion": "content", 
+            "text": "아니, 이게 더 낫네.", 
+            "character": "saemonza", 
+            "time": 6.9
+        }, 
+        {
+            "emotion": "focused", 
+            "text": "내가 최고로 좋은 걸 찾았어.", 
+            "character": "oryou", 
+            "time": 8.0
+        }
+    ], 
+    "audio": "start_battle_14"
+}

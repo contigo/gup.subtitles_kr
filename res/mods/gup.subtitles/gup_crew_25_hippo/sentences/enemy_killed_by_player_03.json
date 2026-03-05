@@ -1,0 +1,12 @@
+{
+    "duration": 3.94, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "왔노라, 보았노라, 이겼노라(Veni, Vidi, Vici)!", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_03"
+}

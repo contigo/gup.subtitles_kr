@@ -1,0 +1,12 @@
+{
+    "duration": 1.78, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "통신수석이 당했군!", 
+            "character": "caesar", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "radioman_killed_02"
+}

@@ -1,0 +1,12 @@
+{
+    "duration": 2.56, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "흠, 적 전차 중 한 대가 격파되었군.", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_06"
+}

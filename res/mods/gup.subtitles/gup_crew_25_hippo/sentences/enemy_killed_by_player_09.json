@@ -1,0 +1,12 @@
+{
+    "duration": 1.26, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "원령(怨靈)이 되지 마시게.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_killed_by_player_09"
+}

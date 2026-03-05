@@ -1,0 +1,30 @@
+{
+    "duration": 7.6, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "이 전차, 정말 멋지군.", 
+            "character": "oryou", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "정복자에게 어울리는 자태야.", 
+            "character": "caesar", 
+            "time": 2.6
+        }, 
+        {
+            "emotion": "default", 
+            "text": "동감일세.", 
+            "character": "saemonza", 
+            "time": 4.4
+        }, 
+        {
+            "emotion": "default", 
+            "text": "아프리카 군단 사양이었다면 더 좋았을 텐데.", 
+            "character": "erwin", 
+            "time": 4.9
+        }
+    ], 
+    "audio": "start_battle_07"
+}

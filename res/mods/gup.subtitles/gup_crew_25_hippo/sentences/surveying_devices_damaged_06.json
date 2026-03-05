@@ -1,0 +1,12 @@
+{
+    "duration": 3.68, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "적의 포탄이 관측 장비에 맞았어. 설마 노린 건가?", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_damaged_06"
+}

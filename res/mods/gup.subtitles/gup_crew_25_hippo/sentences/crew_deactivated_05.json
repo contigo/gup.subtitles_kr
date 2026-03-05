@@ -1,0 +1,18 @@
+{
+    "duration": 2.87, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "이런 식으로 끝날 줄은 몰랐군.", 
+            "character": "caesar", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "focused", 
+            "text": "다음이 있습니다.", 
+            "character": "oryou", 
+            "time": 2.0
+        }
+    ], 
+    "audio": "crew_deactivated_05"
+}

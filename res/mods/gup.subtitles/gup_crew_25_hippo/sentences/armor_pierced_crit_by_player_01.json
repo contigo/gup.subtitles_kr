@@ -1,0 +1,12 @@
+{
+    "duration": 1.12, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "대미지를 입힌 것 같네요.", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "armor_pierced_crit_by_player_01"
+}

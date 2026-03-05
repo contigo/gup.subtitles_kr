@@ -1,0 +1,12 @@
+{
+    "duration": 1.2, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "지금 표적을 바꾼다.", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "target_unlocked_10"
+}

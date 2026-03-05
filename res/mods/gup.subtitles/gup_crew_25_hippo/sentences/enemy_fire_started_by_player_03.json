@@ -1,0 +1,12 @@
+{
+    "duration": 1.96, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "적 전차가 불길에 휩싸였다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "enemy_fire_started_by_player_03"
+}

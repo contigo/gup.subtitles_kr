@@ -1,0 +1,12 @@
+{
+    "duration": 3.42, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "모든 전차 전진! 페리 제독의 흑선(黑船)처럼 말이지!", 
+            "character": "oryou", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_20"
+}

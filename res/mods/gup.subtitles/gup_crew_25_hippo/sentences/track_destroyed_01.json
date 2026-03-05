@@ -1,0 +1,12 @@
+{
+    "duration": 3.77, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "궤도가 심하게 손상됐다. 서둘러 수리하고 후퇴한다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_destroyed_01"
+}

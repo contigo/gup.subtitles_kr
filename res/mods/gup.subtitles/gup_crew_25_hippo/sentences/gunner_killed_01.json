@@ -1,0 +1,18 @@
+{
+    "duration": 3.34, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "포수 부상! 사에몬자, 괜찮나?", 
+            "character": "erwin", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "윽...", 
+            "character": "saemonza", 
+            "time": 2.3
+        }
+    ], 
+    "audio": "gunner_killed_01"
+}

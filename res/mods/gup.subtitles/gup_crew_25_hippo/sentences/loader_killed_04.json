@@ -1,0 +1,12 @@
+{
+    "duration": 1.22, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "카이사르, 괜찮나?", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "loader_killed_04"
+}

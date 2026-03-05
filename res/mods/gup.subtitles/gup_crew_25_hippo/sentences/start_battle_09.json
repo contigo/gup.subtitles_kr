@@ -1,0 +1,12 @@
+{
+    "duration": 5.43, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "모든 전차, 전진! 마지노선을 우회해서 적의 본진을 타격한다!", 
+            "character": "erwin", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "start_battle_09"
+}

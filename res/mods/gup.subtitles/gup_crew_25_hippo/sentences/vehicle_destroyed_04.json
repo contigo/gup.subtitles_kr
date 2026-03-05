@@ -1,0 +1,18 @@
+{
+    "duration": 4.8, 
+    "timeline": [
+        {
+            "emotion": "default", 
+            "text": "승패는 병가지상사(兵家之常事)라더니.", 
+            "character": "oryou", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "으윽, 탈출하자!", 
+            "character": "caesar", 
+            "time": 3.1
+        }
+    ], 
+    "audio": "vehicle_destroyed_04"
+}

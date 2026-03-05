@@ -1,0 +1,12 @@
+{
+    "duration": 1.16, 
+    "timeline": [
+        {
+            "emotion": "excited", 
+            "text": "다시 이동하자!", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "track_functional_can_move_04"
+}

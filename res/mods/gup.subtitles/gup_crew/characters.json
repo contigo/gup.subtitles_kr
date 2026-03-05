@@ -1,7 +1,7 @@
 [
 	{
 		"id": "miho",
-		"name": "Miho Nishizumi",
+		"name": "니시즈미 미호",
 		"color": "#01402E",
 		"presets": {
 			"small": {
@@ -38,7 +38,7 @@
 	},
 	{
 		"id": "hana",
-		"name": "Hana Isuzu",
+		"name": "이스즈 하나",
 		"color": "#292C42",
 		"presets": {
 			"small": {
@@ -75,7 +75,7 @@
 	},
 	{
 		"id": "saori",
-		"name": "Saori Takebe",
+		"name": "타케베 사오리",
 		"color": "#541033",
 		"presets": {
 			"small": {
@@ -112,7 +112,7 @@
 	},
 	{
 		"id": "yukari",
-		"name": "Yukari Akiyama",
+		"name": "아키야마 유카리",
 		"color": "#592E25",
 		"presets": {
 			"small": {
@@ -149,7 +149,7 @@
 	},
 	{
 		"id": "mako",
-		"name": "Mako Reizei",
+		"name": "레이제이 마코",
 		"color": "#4E3954",
 		"presets": {
 			"small": {

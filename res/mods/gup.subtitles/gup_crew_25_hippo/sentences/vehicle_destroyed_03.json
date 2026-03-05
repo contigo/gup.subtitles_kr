@@ -1,0 +1,24 @@
+{
+    "duration": 7.62, 
+    "timeline": [
+        {
+            "emotion": "focused", 
+            "text": "핫코다와 다를 바 없군.", 
+            "character": "oryou", 
+            "time": 0.0
+        }, 
+        {
+            "emotion": "default", 
+            "text": "하늘이 우리를 버렸어.", 
+            "character": "caesar", 
+            "time": 2.5
+        }, 
+        {
+            "emotion": "confident", 
+            "text": "소대장님! 저 나무, 아까 본 것 같습니다!", 
+            "character": "saemonza", 
+            "time": 4.8
+        }
+    ], 
+    "audio": "vehicle_destroyed_03"
+}

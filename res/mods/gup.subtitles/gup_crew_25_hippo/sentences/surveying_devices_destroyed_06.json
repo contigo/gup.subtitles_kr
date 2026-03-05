@@ -1,0 +1,12 @@
+{
+    "duration": 3.66, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "관측 장비 파괴! 아무것도 안 보이는군!", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "surveying_devices_destroyed_06"
+}

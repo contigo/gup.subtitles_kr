@@ -1,0 +1,12 @@
+{
+    "duration": 1.73, 
+    "timeline": [
+        {
+            "emotion": "confident", 
+            "text": "에르빈, 부상인가?", 
+            "character": "saemonza", 
+            "time": 0.0
+        }
+    ], 
+    "audio": "commander_killed_04"
+}
